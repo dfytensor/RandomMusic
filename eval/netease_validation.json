@@ -1,0 +1,209 @@
+{
+ "n": 42,
+ "results": [
+  {
+   "metric": "bpm",
+   "rho_pop": 0.0244164254967886,
+   "pval": 0.8780166645242956,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "breath_dips",
+   "rho_pop": -0.34298772196623534,
+   "pval": 0.04368496789104219,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "centroid_hz",
+   "rho_pop": -0.3213201595377379,
+   "pval": 0.03799314776721148,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "crest_db",
+   "rho_pop": -0.04324384780091321,
+   "pval": 0.8051728243463094,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "duration_s",
+   "rho_pop": -0.04950878385303272,
+   "pval": 0.7555256845722003,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "dyn_p95_p10_db",
+   "rho_pop": 0.32924451324684995,
+   "pval": 0.03324464680798607,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "dyn_range_db",
+   "rho_pop": -0.0712384722723402,
+   "pval": 0.6842549089464508,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "env_rough",
+   "rho_pop": 0.009025258843515826,
+   "pval": 0.9589621742196588,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "glide_ratio",
+   "rho_pop": 0.28296787024167297,
+   "pval": 0.13691123040054115,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "intra_note_drift_cents",
+   "rho_pop": 0.17707004303592952,
+   "pval": 0.3581492232422497,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "kurtosis",
+   "rho_pop": 0.043567161725979874,
+   "pval": 0.8037444656122232,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "leap_prep",
+   "rho_pop": 0.16168061330669511,
+   "pval": 0.36870252365507644,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "long_drift",
+   "rho_pop": 0.17059968755441834,
+   "pval": 0.41488296959840343,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "loop_lag_s",
+   "rho_pop": -0.009187308112840098,
+   "pval": 0.9582259734738596,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "loop_peak_corr",
+   "rho_pop": -0.14374141793295026,
+   "pval": 0.4100573375063569,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "loopiness",
+   "rho_pop": -0.14489800081493043,
+   "pval": 0.4062607191061769,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "low_attack_ms",
+   "rho_pop": 0.15941292144950608,
+   "pval": 0.3603401190945248,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "lra_db",
+   "rho_pop": -0.22192812325312822,
+   "pval": 0.2000846824871076,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "macro_dyn_std_db",
+   "rho_pop": -0.028466273912111935,
+   "pval": 0.8710496898352352,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "mel_density",
+   "rho_pop": 0.0244164254967886,
+   "pval": 0.8780166645242956,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "mel_leap_ratio",
+   "rho_pop": -0.04217553464947836,
+   "pval": 0.7908569501117311,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "mel_lift_mean",
+   "rho_pop": 0.011233502415170514,
+   "pval": 0.945151919530368,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "mel_motif_repeat",
+   "rho_pop": -0.26226053025477764,
+   "pval": 0.09337404261460852,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "mel_pitch_range",
+   "rho_pop": -0.11955166069158076,
+   "pval": 0.45078185130545295,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "mel_rest_ratio",
+   "rho_pop": -0.06202526014642304,
+   "pval": 0.6963776881557675,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "n_vocal_runs",
+   "rho_pop": -0.11006528451916897,
+   "pval": 0.529071694779727,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "onset_iv_cv",
+   "rho_pop": 0.25715548034201885,
+   "pval": 0.13587997054696838,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "rms_db",
+   "rho_pop": -0.1824350132108137,
+   "pval": 0.24753005804484807,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "spectral_flux_std",
+   "rho_pop": 0.02721994027873261,
+   "pval": 0.8766513956175518,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "vibrato_cv",
+   "rho_pop": 0.039895833247124375,
+   "pval": 0.8465663110108379,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "vibrato_extent_cents",
+   "rho_pop": -0.14782911849788613,
+   "pval": 0.4441013515184335,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "vibrato_rate_hz",
+   "rho_pop": -0.19373689832328625,
+   "pval": 0.31393713220168795,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "voiced_ratio",
+   "rho_pop": -0.1319092911337209,
+   "pval": 0.4500364711206766,
+   "rho_comments": NaN
+  },
+  {
+   "metric": "zcr",
+   "rho_pop": -0.18842128636277,
+   "pval": 0.23208790819239425,
+   "rho_comments": NaN
+  }
+ ]
+}

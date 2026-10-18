@@ -1,0 +1,120 @@
+{
+  "human": {
+    "phrases_per_min": 1.2,
+    "phrase_cv_med": 0.6462530000157531,
+    "phrase_arc_r2_med": 0.4480065933303294,
+    "phrase_end_f0slope_med": 0.9449010462194157,
+    "phrase_end_f0_down_ratio": 0.29166666666666663,
+    "phr_ioi_trend_med": -0.0022154061688238157,
+    "phr_ioi_slowdown_ratio": 0.5,
+    "vib_rate_med": 8.61328125,
+    "vib_depth_med": 145.5034750472439,
+    "vib_present_ratio": 0.34578804347826086,
+    "section_contrast": 1.706,
+    "peak_win_pos": 0.857
+  },
+  "ai_champ": {
+    "phrases_per_min": 1.175,
+    "phrase_cv_med": 0.7803850317634711,
+    "phrase_arc_r2_med": 0.5994046329110303,
+    "phrase_end_f0slope_med": -0.2898700420673202,
+    "phrase_end_f0_down_ratio": 0.29166666666666663,
+    "phr_ioi_trend_med": -0.05184082521897637,
+    "phr_ioi_slowdown_ratio": 0.5,
+    "vib_rate_med": 8.61328125,
+    "vib_depth_med": 105.53224753363143,
+    "vib_present_ratio": 0.21523410202655485,
+    "section_contrast": 1.479,
+    "peak_win_pos": 0.714
+  },
+  "ai_01v2": {
+    "phrases_per_min": 1.33,
+    "phrase_cv_med": 0.6120835952906784,
+    "phrase_arc_r2_med": 0.47994423844785494,
+    "phrase_end_f0slope_med": 2.4243676245629486,
+    "phrase_end_f0_down_ratio": 0.25,
+    "phr_ioi_trend_med": -0.05085566990328905,
+    "phr_ioi_slowdown_ratio": 0.4,
+    "vib_rate_med": 8.61328125,
+    "vib_depth_med": 148.0780150214443,
+    "vib_present_ratio": 0.4264705882352941,
+    "section_contrast": 1.269,
+    "peak_win_pos": 0.571
+  },
+  "ai_04v3": {
+    "phrases_per_min": 2.2,
+    "phrase_cv_med": 0.8165357266992079,
+    "phrase_arc_r2_med": 0.6958554354117127,
+    "phrase_end_f0slope_med": -0.0978781960227226,
+    "phrase_end_f0_down_ratio": 0.225,
+    "phr_ioi_trend_med": 0.062445092322643315,
+    "phr_ioi_slowdown_ratio": 0.6125,
+    "vib_rate_med": 8.61328125,
+    "vib_depth_med": 124.4119773708021,
+    "vib_present_ratio": 0.17083333333333334,
+    "section_contrast": 1.669,
+    "peak_win_pos": 0.714
+  },
+  "mannwhitney": {
+    "phrases_per_min": {
+      "human_med": 1.2,
+      "ai_med": 1.175,
+      "p": 0.821147396288926
+    },
+    "phrase_cv_med": {
+      "human_med": 0.6462530000157531,
+      "ai_med": 0.7803850317634711,
+      "p": 0.09759693556487169
+    },
+    "phrase_arc_r2_med": {
+      "human_med": 0.4480065933303294,
+      "ai_med": 0.5994046329110303,
+      "p": 0.17690320804674453
+    },
+    "phrase_end_f0slope_med": {
+      "human_med": 0.9449010462194157,
+      "ai_med": -0.2898700420673202,
+      "p": 0.1438177153204527
+    },
+    "phrase_end_f0_down_ratio": {
+      "human_med": 0.29166666666666663,
+      "ai_med": 0.29166666666666663,
+      "p": 0.9771965087252357
+    },
+    "phr_ioi_trend_med": {
+      "human_med": -0.0022154061688238157,
+      "ai_med": -0.05184082521897637,
+      "p": 0.46062322335858596
+    },
+    "phr_ioi_slowdown_ratio": {
+      "human_med": 0.5,
+      "ai_med": 0.5,
+      "p": 0.5489803428387747
+    },
+    "vib_rate_med": {
+      "human_med": 8.61328125,
+      "ai_med": 8.61328125,
+      "p": 0.5461676346267482
+    },
+    "vib_depth_med": {
+      "human_med": 145.5034750472439,
+      "ai_med": 105.53224753363143,
+      "p": 0.02686573904010749
+    },
+    "vib_present_ratio": {
+      "human_med": 0.34578804347826086,
+      "ai_med": 0.21523410202655485,
+      "p": 0.020822250627002405
+    },
+    "section_contrast": {
+      "human_med": 1.706,
+      "ai_med": 1.479,
+      "p": 0.49513522675391664
+    },
+    "peak_win_pos": {
+      "human_med": 0.857,
+      "ai_med": 0.714,
+      "p": 0.02335855223757123
+    }
+  }
+}

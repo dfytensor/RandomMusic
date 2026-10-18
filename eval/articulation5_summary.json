@@ -1,0 +1,29 @@
+{
+  "human": {
+    "long_smooth_db_per_frame": 0.8157165050506592,
+    "long_trend_frac": 0.20272560911108936,
+    "onset_rise_db": 10.14724588394165
+  },
+  "ai_champ": {
+    "long_smooth_db_per_frame": 0.5973782539367676,
+    "long_trend_frac": 0.31139998047249673,
+    "onset_rise_db": 16.258537769317627
+  },
+  "mannwhitney": {
+    "long_smooth_db_per_frame": {
+      "human_med": 0.8157165050506592,
+      "ai_med": 0.5973782539367676,
+      "p": 3.1488668969949396e-05
+    },
+    "long_trend_frac": {
+      "human_med": 0.20272560911108936,
+      "ai_med": 0.31139998047249673,
+      "p": 0.0011801767896347385
+    },
+    "onset_rise_db": {
+      "human_med": 10.14724588394165,
+      "ai_med": 16.258537769317627,
+      "p": 0.0006480061204612235
+    }
+  }
+}

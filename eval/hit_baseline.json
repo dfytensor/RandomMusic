@@ -1,0 +1,268 @@
+{
+ "n": 32,
+ "first_vocal_p25": 16.3,
+ "first_vocal_med": 21.3,
+ "first_vocal_p75": 27.8,
+ "first_chorus_med": 60.9,
+ "chorus_inst_med": 1.0,
+ "e30_ratio_med": -3.9,
+ "dur_med": 234.0,
+ "songs": [
+  {
+   "stem": "后弦_-_苏州城外的微笑",
+   "first_vocal": 16.9,
+   "first_chorus": 60.5,
+   "chorus_instances": 1,
+   "e30_ratio": -6.0,
+   "duration": 243.5
+  },
+  {
+   "stem": "Beyond_-_光辉岁月",
+   "first_vocal": 27.9,
+   "first_chorus": 66.8,
+   "chorus_instances": 1,
+   "e30_ratio": -3.1,
+   "duration": 300.0
+  },
+  {
+   "stem": "李翊君_-_雨蝶",
+   "first_vocal": 32.1,
+   "first_chorus": 62.2,
+   "chorus_instances": 1,
+   "e30_ratio": -6.0,
+   "duration": 230.2
+  },
+  {
+   "stem": "张韶涵_-_隐形的翅膀",
+   "first_vocal": 27.7,
+   "first_chorus": 81.0,
+   "chorus_instances": 1,
+   "e30_ratio": -3.9,
+   "duration": 222.1
+  },
+  {
+   "stem": "张芸京_-_偏爱",
+   "first_vocal": 0.0,
+   "first_chorus": 0.0,
+   "chorus_instances": 2,
+   "e30_ratio": -8.7,
+   "duration": 212.9
+  },
+  {
+   "stem": "五月天_-_拥抱",
+   "first_vocal": 15.9,
+   "first_chorus": null,
+   "chorus_instances": 0,
+   "e30_ratio": -6.0,
+   "duration": 253.0
+  },
+  {
+   "stem": "王力宏-我们的歌",
+   "first_vocal": 14.8,
+   "first_chorus": 69.6,
+   "chorus_instances": 1,
+   "e30_ratio": -2.8,
+   "duration": 244.6
+  },
+  {
+   "stem": "Tank-会长大的幸福",
+   "first_vocal": 27.1,
+   "first_chorus": 79.0,
+   "chorus_instances": 1,
+   "e30_ratio": -3.0,
+   "duration": 272.6
+  },
+  {
+   "stem": "阿里郎_-_兰花指",
+   "first_vocal": 19.6,
+   "first_chorus": 56.6,
+   "chorus_instances": 1,
+   "e30_ratio": -4.6,
+   "duration": 217.6
+  },
+  {
+   "stem": "黄立行_刘若英-分开旅行",
+   "first_vocal": 33.7,
+   "first_chorus": 56.0,
+   "chorus_instances": 1,
+   "e30_ratio": -0.6,
+   "duration": 248.5
+  },
+  {
+   "stem": "花儿乐队_-_我的果汁分你一半",
+   "first_vocal": 20.7,
+   "first_chorus": 20.7,
+   "chorus_instances": 2,
+   "e30_ratio": -7.2,
+   "duration": 216.4
+  },
+  {
+   "stem": "伍佰_And_China_Blue-突然的自我-_路边野餐_电影插曲",
+   "first_vocal": 30.9,
+   "first_chorus": 83.2,
+   "chorus_instances": 1,
+   "e30_ratio": -3.2,
+   "duration": 215.2
+  },
+  {
+   "stem": "蔡健雅_-_红色高跟鞋",
+   "first_vocal": 21.9,
+   "first_chorus": 43.7,
+   "chorus_instances": 2,
+   "e30_ratio": -2.4,
+   "duration": 206.6
+  },
+  {
+   "stem": "梁静茹-小手拉大手",
+   "first_vocal": 9.4,
+   "first_chorus": 53.7,
+   "chorus_instances": 1,
+   "e30_ratio": -4.0,
+   "duration": 246.6
+  },
+  {
+   "stem": "S_H_E-中国话",
+   "first_vocal": 0.0,
+   "first_chorus": null,
+   "chorus_instances": 2,
+   "e30_ratio": -1.3,
+   "duration": 191.3
+  },
+  {
+   "stem": "S_H_E-不想长大",
+   "first_vocal": 20.7,
+   "first_chorus": 62.0,
+   "chorus_instances": 1,
+   "e30_ratio": -3.4,
+   "duration": 225.5
+  },
+  {
+   "stem": "信乐团_-_假如",
+   "first_vocal": 22.7,
+   "first_chorus": 67.3,
+   "chorus_instances": 1,
+   "e30_ratio": -1.9,
+   "duration": 264.5
+  },
+  {
+   "stem": "周杰伦-青花瓷",
+   "first_vocal": 22.6,
+   "first_chorus": 58.1,
+   "chorus_instances": 1,
+   "e30_ratio": -3.9,
+   "duration": 237.2
+  },
+  {
+   "stem": "唐磊_-_丁香花",
+   "first_vocal": 25.4,
+   "first_chorus": 67.8,
+   "chorus_instances": 1,
+   "e30_ratio": -5.1,
+   "duration": 265.7
+  },
+  {
+   "stem": "王心凌-睫毛弯弯",
+   "first_vocal": 52.9,
+   "first_chorus": 87.5,
+   "chorus_instances": 1,
+   "e30_ratio": -2.7,
+   "duration": 247.1
+  },
+  {
+   "stem": "S_H_E-天灰",
+   "first_vocal": 26.3,
+   "first_chorus": 65.2,
+   "chorus_instances": 1,
+   "e30_ratio": -5.4,
+   "duration": 243.3
+  },
+  {
+   "stem": "香香-猪之歌-_人怕出名猪怕壮_电影主题曲",
+   "first_vocal": 29.5,
+   "first_chorus": 61.2,
+   "chorus_instances": 1,
+   "e30_ratio": -5.9,
+   "duration": 201.5
+  },
+  {
+   "stem": "山野_-_分开不一定分手",
+   "first_vocal": 16.4,
+   "first_chorus": 16.4,
+   "chorus_instances": 2,
+   "e30_ratio": -4.3,
+   "duration": 202.9
+  },
+  {
+   "stem": "陈琳-爱就爱了",
+   "first_vocal": 31.6,
+   "first_chorus": 90.7,
+   "chorus_instances": 1,
+   "e30_ratio": -2.0,
+   "duration": 248.1
+  },
+  {
+   "stem": "苏打绿_-_小情歌",
+   "first_vocal": 29.8,
+   "first_chorus": null,
+   "chorus_instances": 0,
+   "e30_ratio": -5.4,
+   "duration": 273.6
+  },
+  {
+   "stem": "张惠妹_-_记得",
+   "first_vocal": 17.6,
+   "first_chorus": null,
+   "chorus_instances": 0,
+   "e30_ratio": -5.4,
+   "duration": 288.3
+  },
+  {
+   "stem": "蔡依林_-_日不落",
+   "first_vocal": 26.4,
+   "first_chorus": 56.4,
+   "chorus_instances": 1,
+   "e30_ratio": -9.4,
+   "duration": 228.5
+  },
+  {
+   "stem": "方雅贤-遇到-_恶作剧之吻_电视剧主题曲",
+   "first_vocal": 16.6,
+   "first_chorus": 45.7,
+   "chorus_instances": 1,
+   "e30_ratio": -7.6,
+   "duration": 183.8
+  },
+  {
+   "stem": "BoBo-恋爱新手",
+   "first_vocal": 14.9,
+   "first_chorus": 59.2,
+   "chorus_instances": 1,
+   "e30_ratio": -2.1,
+   "duration": 184.4
+  },
+  {
+   "stem": "孙燕姿-奔",
+   "first_vocal": 15.8,
+   "first_chorus": 33.1,
+   "chorus_instances": 2,
+   "e30_ratio": -3.4,
+   "duration": 220.8
+  },
+  {
+   "stem": "雷诺儿_-_别在我离开之前离开",
+   "first_vocal": 18.6,
+   "first_chorus": 59.2,
+   "chorus_instances": 1,
+   "e30_ratio": -1.7,
+   "duration": 238.3
+  },
+  {
+   "stem": "花儿乐队_-_化蝶飞",
+   "first_vocal": 0.0,
+   "first_chorus": 0.0,
+   "chorus_instances": 2,
+   "e30_ratio": -1.4,
+   "duration": 218.8
+  }
+ ]
+}

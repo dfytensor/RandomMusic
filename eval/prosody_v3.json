@@ -1,0 +1,86 @@
+{
+  "01": {
+    "total": 81.2,
+    "rhyme": 0.776,
+    "uniformity": 0.972,
+    "tone_pair": 0.7,
+    "couplet_len": 0.786
+  },
+  "02": {
+    "total": 86.6,
+    "rhyme": 0.859,
+    "uniformity": 0.956,
+    "tone_pair": 0.803,
+    "couplet_len": 0.829
+  },
+  "03": {
+    "total": 84.5,
+    "rhyme": 0.958,
+    "uniformity": 0.948,
+    "tone_pair": 0.793,
+    "couplet_len": 0.571
+  },
+  "04": {
+    "total": 80.8,
+    "rhyme": 0.906,
+    "uniformity": 0.955,
+    "tone_pair": 0.364,
+    "couplet_len": 0.895
+  },
+  "05": {
+    "total": 81.4,
+    "rhyme": 0.74,
+    "uniformity": 0.96,
+    "tone_pair": 0.714,
+    "couplet_len": 0.862
+  },
+  "06": {
+    "total": 82.3,
+    "rhyme": 0.76,
+    "uniformity": 0.976,
+    "tone_pair": 0.698,
+    "couplet_len": 0.867
+  },
+  "07": {
+    "total": 92.4,
+    "rhyme": 0.875,
+    "uniformity": 1.0,
+    "tone_pair": 0.838,
+    "couplet_len": 1.0
+  },
+  "08": {
+    "total": 80.2,
+    "rhyme": 0.766,
+    "uniformity": 0.983,
+    "tone_pair": 0.507,
+    "couplet_len": 0.933
+  },
+  "09": {
+    "total": 89.7,
+    "rhyme": 1.0,
+    "uniformity": 0.983,
+    "tone_pair": 0.575,
+    "couplet_len": 0.933
+  },
+  "10": {
+    "total": 81.2,
+    "rhyme": 0.703,
+    "uniformity": 0.978,
+    "tone_pair": 0.75,
+    "couplet_len": 0.857
+  },
+  "11": {
+    "total": 86.6,
+    "rhyme": 0.875,
+    "uniformity": 0.922,
+    "tone_pair": 1.0,
+    "couplet_len": 0.648
+  },
+  "12": {
+    "total": 90.6,
+    "rhyme": 0.917,
+    "uniformity": 0.961,
+    "tone_pair": 0.933,
+    "couplet_len": 0.79
+  }
+}

@@ -1,0 +1,9 @@
+0.0	0.37	intro
+0.37	22.85	intro
+22.85	37.85	verse
+37.85	52.85	verse
+52.85	71.6	pre-chorus
+71.6	86.6	chorus
+86.6	94.1	interlude
+94.1	109.1	verse
+109.1	122.91866666666667	verse

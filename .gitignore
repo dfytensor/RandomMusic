@@ -1,0 +1,72 @@
+# ===== 大文件 / 模型 / 音频 =====
+*.flac
+*.wav
+*.mp3
+*.npy
+*.npz
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.pkl
+*.bin
+*.onnx
+*.mid
+*.lab
+*.tsv
+*.abc
+
+# ===== 目录（模型/环境/音频产物/分析数据）=====
+models/
+_dl_tmp/
+.venv*/
+venv/
+seed-vc*/
+render_stems/
+human_stems/
+ai_stems/
+album_voice/
+refs/
+downloads/
+checkpoints/
+outputs/
+ace_step_output/
+covers/
+creations/
+corpus/
+listen_test/
+SheetSage2/
+__pycache__/
+eval/clips/
+eval/library_transcripts/
+eval/library_wavs/
+eval/novel_transcripts/
+eval/novel_transcripts_redo/
+eval/transcriptions/
+eval/wavs/
+
+# ===== 音频产物（歌词 txt 保留）=====
+novel_songs/**/*.flac
+novel_songs/**/*.wav
+novel_songs/**/*.mp3
+novel_songs/**/*.npy
+novel_songs/**/*.mid
+novel_songs/**/*.json
+
+# ===== 日志 =====
+*.log
+*_log.txt
+*_log2.txt
+*_log3.txt
+pp_err.txt
+pp_out.txt
+tech_check.txt
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ===== 系统 =====
+Thumbs.db
+.DS_Store

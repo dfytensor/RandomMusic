@@ -1,0 +1,83 @@
+{
+  "human": {
+    "tempo": 103.4,
+    "ioi_quant_err": 0.060649999999999996,
+    "ioi_quant_err_std": 0.03475,
+    "ioi_entropy_norm": 0.7755000000000001,
+    "bar_err_med": 0.2865,
+    "bar_err_sem_med": 0.35,
+    "rubato_cv": 0.16720000000000002,
+    "rubato_range": 0.4934,
+    "phase_R": 0.2215
+  },
+  "ai_champ": {
+    "tempo": 95.85,
+    "ioi_quant_err": 0.05935,
+    "ioi_quant_err_std": 0.03695,
+    "ioi_entropy_norm": 0.84,
+    "bar_err_med": 0.2985,
+    "bar_err_sem_med": 0.41000000000000003,
+    "rubato_cv": 0.22955,
+    "rubato_range": 0.71065,
+    "phase_R": 0.3155
+  },
+  "ai_01v2": {
+    "tempo": 92.3,
+    "ioi_quant_err": 0.0595,
+    "ioi_quant_err_std": 0.0338,
+    "ioi_entropy_norm": 0.813,
+    "bar_err_med": 0.254,
+    "bar_err_sem_med": 0.379,
+    "rubato_cv": 0.171,
+    "rubato_range": 0.5113,
+    "phase_R": 0.231
+  },
+  "ai_04v3": {
+    "tempo": 117.5,
+    "ioi_quant_err": 0.0577,
+    "ioi_quant_err_std": 0.03685,
+    "ioi_entropy_norm": 0.8734999999999999,
+    "bar_err_med": 0.2475,
+    "bar_err_sem_med": 0.49749999999999994,
+    "rubato_cv": 0.29905,
+    "rubato_range": 1.04935,
+    "phase_R": 0.305
+  },
+  "mannwhitney": {
+    "ioi_quant_err": {
+      "human_med": 0.060649999999999996,
+      "ai_med": 0.05935,
+      "p": 0.8673117271738096
+    },
+    "ioi_entropy_norm": {
+      "human_med": 0.7755000000000001,
+      "ai_med": 0.84,
+      "p": 0.04348121283763815
+    },
+    "bar_err_med": {
+      "human_med": 0.2865,
+      "ai_med": 0.2985,
+      "p": 0.7382676961927089
+    },
+    "bar_err_sem_med": {
+      "human_med": 0.35,
+      "ai_med": 0.41000000000000003,
+      "p": 0.3804496726842097
+    },
+    "rubato_cv": {
+      "human_med": 0.16720000000000002,
+      "ai_med": 0.22955,
+      "p": 0.03554505769070056
+    },
+    "rubato_range": {
+      "human_med": 0.4934,
+      "ai_med": 0.71065,
+      "p": 0.01728837042851638
+    },
+    "phase_R": {
+      "human_med": 0.2215,
+      "ai_med": 0.3155,
+      "p": 0.062109974406606365
+    }
+  }
+}

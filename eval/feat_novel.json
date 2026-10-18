@@ -1,0 +1,242 @@
+[
+ {
+  "file": "novel_01_欠天地一笔.wav",
+  "duration_s": 120.0,
+  "bpm": 129.2,
+  "key": "D# major",
+  "rms_db": -19.5,
+  "dyn_p95_p10_db": 16.3,
+  "centroid_hz": 2182,
+  "rolloff_hz": 4619,
+  "zcr": 0.0885,
+  "band_share": [
+   0.5825,
+   0.3415,
+   0.0672,
+   0.0087
+  ],
+  "onset_density": 2.66,
+  "onset_strength": 1.283,
+  "stereo_width": 0.227
+ },
+ {
+  "file": "novel_02_平账人.wav",
+  "duration_s": 120.0,
+  "bpm": 99.4,
+  "key": "D# minor",
+  "rms_db": -16.9,
+  "dyn_p95_p10_db": 12.2,
+  "centroid_hz": 2093,
+  "rolloff_hz": 4418,
+  "zcr": 0.0803,
+  "band_share": [
+   0.4812,
+   0.4925,
+   0.0199,
+   0.0064
+  ],
+  "onset_density": 2.99,
+  "onset_strength": 1.482,
+  "stereo_width": 0.217
+ },
+ {
+  "file": "novel_03_白户.wav",
+  "duration_s": 120.0,
+  "bpm": 152.0,
+  "key": "D# major",
+  "rms_db": -18.7,
+  "dyn_p95_p10_db": 16.7,
+  "centroid_hz": 1815,
+  "rolloff_hz": 3866,
+  "zcr": 0.0774,
+  "band_share": [
+   0.4441,
+   0.5299,
+   0.0211,
+   0.0048
+  ],
+  "onset_density": 2.08,
+  "onset_strength": 1.199,
+  "stereo_width": 0.265
+ },
+ {
+  "file": "novel_04_剁手魔.wav",
+  "duration_s": 120.0,
+  "bpm": 117.5,
+  "key": "D minor",
+  "rms_db": -17.3,
+  "dyn_p95_p10_db": 17.4,
+  "centroid_hz": 2453,
+  "rolloff_hz": 5336,
+  "zcr": 0.0914,
+  "band_share": [
+   0.4963,
+   0.4595,
+   0.0344,
+   0.0098
+  ],
+  "onset_density": 3.57,
+  "onset_strength": 1.728,
+  "stereo_width": 0.267
+ },
+ {
+  "file": "novel_05_心疼说成省钱.wav",
+  "duration_s": 120.0,
+  "bpm": 152.0,
+  "key": "A# major",
+  "rms_db": -19.8,
+  "dyn_p95_p10_db": 16.7,
+  "centroid_hz": 2395,
+  "rolloff_hz": 4985,
+  "zcr": 0.1006,
+  "band_share": [
+   0.3375,
+   0.6013,
+   0.0484,
+   0.0128
+  ],
+  "onset_density": 2.74,
+  "onset_strength": 1.274,
+  "stereo_width": 0.28
+ },
+ {
+  "file": "novel_06_第320代记账人.wav",
+  "duration_s": 120.0,
+  "bpm": 152.0,
+  "key": "D# minor",
+  "rms_db": -20.4,
+  "dyn_p95_p10_db": 21.6,
+  "centroid_hz": 1936,
+  "rolloff_hz": 4008,
+  "zcr": 0.0724,
+  "band_share": [
+   0.516,
+   0.4601,
+   0.0187,
+   0.0051
+  ],
+  "onset_density": 2.17,
+  "onset_strength": 1.18,
+  "stereo_width": 0.275
+ },
+ {
+  "file": "novel_07_规矩.wav",
+  "duration_s": 120.0,
+  "bpm": 117.5,
+  "key": "D# major",
+  "rms_db": -18.5,
+  "dyn_p95_p10_db": 18.1,
+  "centroid_hz": 1994,
+  "rolloff_hz": 4371,
+  "zcr": 0.0688,
+  "band_share": [
+   0.6304,
+   0.3244,
+   0.0345,
+   0.0105
+  ],
+  "onset_density": 1.72,
+  "onset_strength": 1.287,
+  "stereo_width": 0.233
+ },
+ {
+  "file": "novel_08_月供日.wav",
+  "duration_s": 120.0,
+  "bpm": 107.7,
+  "key": "G major",
+  "rms_db": -19.5,
+  "dyn_p95_p10_db": 18.6,
+  "centroid_hz": 2148,
+  "rolloff_hz": 4734,
+  "zcr": 0.0783,
+  "band_share": [
+   0.6659,
+   0.3019,
+   0.0249,
+   0.0073
+  ],
+  "onset_density": 2.66,
+  "onset_strength": 1.575,
+  "stereo_width": 0.244
+ },
+ {
+  "file": "novel_09_断供.wav",
+  "duration_s": 120.0,
+  "bpm": 129.2,
+  "key": "D# major",
+  "rms_db": -19.2,
+  "dyn_p95_p10_db": 13.5,
+  "centroid_hz": 2271,
+  "rolloff_hz": 4849,
+  "zcr": 0.0923,
+  "band_share": [
+   0.5021,
+   0.4339,
+   0.0522,
+   0.0116
+  ],
+  "onset_density": 2.44,
+  "onset_strength": 1.271,
+  "stereo_width": 0.308
+ },
+ {
+  "file": "novel_10_糕与药包.wav",
+  "duration_s": 120.0,
+  "bpm": 152.0,
+  "key": "G major",
+  "rms_db": -18.0,
+  "dyn_p95_p10_db": 13.7,
+  "centroid_hz": 2033,
+  "rolloff_hz": 4571,
+  "zcr": 0.0696,
+  "band_share": [
+   0.4115,
+   0.5607,
+   0.0211,
+   0.0067
+  ],
+  "onset_density": 2.34,
+  "onset_strength": 1.283,
+  "stereo_width": 0.326
+ },
+ {
+  "file": "novel_11_烂尾劫.wav",
+  "duration_s": 120.0,
+  "bpm": 129.2,
+  "key": "D# minor",
+  "rms_db": -17.2,
+  "dyn_p95_p10_db": 6.8,
+  "centroid_hz": 2542,
+  "rolloff_hz": 5496,
+  "zcr": 0.1026,
+  "band_share": [
+   0.5239,
+   0.404,
+   0.0621,
+   0.01
+  ],
+  "onset_density": 3.16,
+  "onset_strength": 1.328,
+  "stereo_width": 0.271
+ },
+ {
+  "file": "novel_12_新契.wav",
+  "duration_s": 120.0,
+  "bpm": 117.5,
+  "key": "D# major",
+  "rms_db": -18.1,
+  "dyn_p95_p10_db": 12.6,
+  "centroid_hz": 2445,
+  "rolloff_hz": 5126,
+  "zcr": 0.0959,
+  "band_share": [
+   0.5571,
+   0.3453,
+   0.0886,
+   0.0089
+  ],
+  "onset_density": 3.29,
+  "onset_strength": 1.278,
+  "stereo_width": 0.308
+ }
+]

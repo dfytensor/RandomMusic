@@ -1,0 +1,1066 @@
+{
+ "eval/library_wavs/lib_183Club_-_真爱.wav": {
+  "group": "human",
+  "t0": 59.9,
+  "mix": {
+   "n_runs": 14,
+   "vib_ratio": 0.14285714285714285,
+   "vib_depth": 145.26066977418066,
+   "phase_R": 0.3527135595485476,
+   "onset_rise_db": 2.9077930450439453,
+   "long_smooth": 0.7012805938720703,
+   "long_trend_frac": 0.34477990158884314
+  },
+  "stem": {
+   "n_runs": 10,
+   "vib_ratio": 0.5,
+   "vib_depth": 169.88378473571845,
+   "phase_R": 0.6539742115621904,
+   "onset_rise_db": 15.366670608520508,
+   "long_smooth": 1.10296630859375,
+   "long_trend_frac": 0.13584324001716072
+  }
+ },
+ "eval/library_wavs/lib_5566-我难过.wav": {
+  "group": "human",
+  "t0": 69.9,
+  "mix": {
+   "n_runs": 18,
+   "vib_ratio": 0.1111111111111111,
+   "vib_depth": 128.1435121499987,
+   "phase_R": 0.37570331777191646,
+   "onset_rise_db": 1.9563827514648438,
+   "long_smooth": 0.4663405418395996,
+   "long_trend_frac": 0.1671243770697015
+  },
+  "stem": {
+   "n_runs": 14,
+   "vib_ratio": 0.2857142857142857,
+   "vib_depth": 117.57482545872764,
+   "phase_R": 0.24492601547629284,
+   "onset_rise_db": 2.9756832122802734,
+   "long_smooth": 0.701533317565918,
+   "long_trend_frac": 0.1325770911811569
+  }
+ },
+ "eval/library_wavs/lib_ai.mini-遇.wav": {
+  "group": "human",
+  "t0": 69.9,
+  "mix": {
+   "n_runs": 17,
+   "vib_ratio": 0.11764705882352941,
+   "vib_depth": 89.80508534987104,
+   "phase_R": 0.3499215342040862,
+   "onset_rise_db": 1.5807790756225586,
+   "long_smooth": 0.5264368057250977,
+   "long_trend_frac": 0.1706487058669558
+  },
+  "stem": {
+   "n_runs": 8,
+   "vib_ratio": 0.625,
+   "vib_depth": 107.2007232812437,
+   "phase_R": 0.10635502539260713,
+   "onset_rise_db": 8.94559097290039,
+   "long_smooth": 0.7226352691650391,
+   "long_trend_frac": 0.07662562348663621
+  }
+ },
+ "eval/library_wavs/lib_Atlus_-_活埋.wav": {
+  "group": "human",
+  "t0": 69.9,
+  "mix": {
+   "n_runs": 12,
+   "vib_ratio": 0.3333333333333333,
+   "vib_depth": 254.65905843250331,
+   "phase_R": 0.26735497849993356,
+   "onset_rise_db": 2.6952826976776123,
+   "long_smooth": 0.5539789199829102,
+   "long_trend_frac": 0.07497203759495459
+  },
+  "stem": {
+   "n_runs": 8,
+   "vib_ratio": 0.125,
+   "vib_depth": 280.2424730060091,
+   "phase_R": 0.10521234970665815,
+   "onset_rise_db": 11.170738220214844,
+   "long_smooth": 0.6653783321380615,
+   "long_trend_frac": 0.15140714684961112
+  }
+ },
+ "eval/library_wavs/lib_Beyond_-_光辉岁月.wav": {
+  "group": "human",
+  "t0": 54.9,
+  "mix": {
+   "n_runs": 11,
+   "vib_ratio": 0.09090909090909091,
+   "vib_depth": 109.47359219638709,
+   "phase_R": 0.19090136836654203,
+   "onset_rise_db": 5.310983657836914,
+   "long_smooth": 0.4772520065307617,
+   "long_trend_frac": 0.22032667733852696
+  },
+  "stem": {
+   "n_runs": 12,
+   "vib_ratio": 0.16666666666666666,
+   "vib_depth": 178.439835629912,
+   "phase_R": 0.2971223773637042,
+   "onset_rise_db": 29.067609786987305,
+   "long_smooth": 1.2874374389648438,
+   "long_trend_frac": 0.25835430121842246
+  }
+ },
+ "eval/library_wavs/lib_Beyond_-_真的爱你.wav": {
+  "group": "human",
+  "t0": 54.9,
+  "mix": {
+   "n_runs": 15,
+   "vib_ratio": 0.06666666666666667,
+   "vib_depth": 106.48848749637747,
+   "phase_R": 0.6520949818859482,
+   "onset_rise_db": 4.523303747177124,
+   "long_smooth": 0.5321426391601562,
+   "long_trend_frac": 0.10052401557172735
+  },
+  "stem": {
+   "n_runs": 10,
+   "vib_ratio": 0.2,
+   "vib_depth": 234.74330968629314,
+   "phase_R": 0.1464728656932046,
+   "onset_rise_db": 16.98619842529297,
+   "long_smooth": 1.2447500228881836,
+   "long_trend_frac": 0.25790366583777724
+  }
+ },
+ "eval/library_wavs/lib_BoBo-光荣.wav": {
+  "group": "human",
+  "t0": 39.9,
+  "mix": {
+   "n_runs": 15,
+   "vib_ratio": 0.06666666666666667,
+   "vib_depth": 113.65990798281453,
+   "phase_R": 0.2867220473966616,
+   "onset_rise_db": 1.286992073059082,
+   "long_smooth": 0.42622804641723633,
+   "long_trend_frac": 0.4191537486255048
+  },
+  "stem": {
+   "n_runs": 11,
+   "vib_ratio": 0.36363636363636365,
+   "vib_depth": 175.80151099680575,
+   "phase_R": 0.05438538422817421,
+   "onset_rise_db": 9.949319839477539,
+   "long_smooth": 0.8082008361816406,
+   "long_trend_frac": 0.32309822436164237
+  }
+ },
+ "eval/library_wavs/lib_BoBo-恋爱新手.wav": {
+  "group": "human",
+  "t0": 54.9,
+  "mix": {
+   "n_runs": 9,
+   "vib_ratio": 0.2222222222222222,
+   "vib_depth": 139.89236759668654,
+   "phase_R": 0.7697468133510905,
+   "onset_rise_db": 1.6687469482421875,
+   "long_smooth": 0.7607755661010742,
+   "long_trend_frac": 0.17748309637228776
+  },
+  "stem": {
+   "n_runs": 11,
+   "vib_ratio": 0.18181818181818182,
+   "vib_depth": 38.218272641416625,
+   "phase_R": 0.4782893393362645,
+   "onset_rise_db": 0.7410726547241211,
+   "long_smooth": 0.9390726089477539,
+   "long_trend_frac": 0.21060814898479388
+  }
+ },
+ "eval/library_wavs/lib_By2_-_发呆.wav": {
+  "group": "human",
+  "t0": 44.9,
+  "mix": {
+   "n_runs": 23,
+   "vib_ratio": 0.21739130434782608,
+   "vib_depth": 197.0822493084938,
+   "phase_R": 0.46992948486820235,
+   "onset_rise_db": 1.5249767303466797,
+   "long_smooth": 0.7074880599975586,
+   "long_trend_frac": 0.37230120875617045
+  },
+  "stem": {
+   "n_runs": 7,
+   "vib_ratio": 0.14285714285714285,
+   "vib_depth": 115.72711823385778,
+   "phase_R": 0.32692842680107337,
+   "onset_rise_db": 8.82444429397583,
+   "long_smooth": 1.0770392417907715,
+   "long_trend_frac": 0.048848878326741466
+  }
+ },
+ "eval/library_wavs/lib_By2_-_我知道.wav": {
+  "group": "human",
+  "t0": 49.9,
+  "mix": {
+   "n_runs": 19,
+   "vib_ratio": 0.21052631578947367,
+   "vib_depth": 84.47189997437314,
+   "phase_R": 0.4987794491387907,
+   "onset_rise_db": 2.3696951866149902,
+   "long_smooth": 0.5224153995513916,
+   "long_trend_frac": 0.2500243157404548
+  },
+  "stem": null
+ },
+ "eval/library_wavs/lib_By2_-_爱丫爱丫.wav": {
+  "group": "human",
+  "t0": 59.9,
+  "mix": {
+   "n_runs": 17,
+   "vib_ratio": 0.29411764705882354,
+   "vib_depth": 202.6208585523277,
+   "phase_R": 0.6698854174082903,
+   "onset_rise_db": 0.781611442565918,
+   "long_smooth": 0.33972644805908203,
+   "long_trend_frac": 0.1834891704727062
+  },
+  "stem": {
+   "n_runs": 14,
+   "vib_ratio": 0.7142857142857143,
+   "vib_depth": 92.15799056072734,
+   "phase_R": 0.30297918727609335,
+   "onset_rise_db": 16.67136573791504,
+   "long_smooth": 0.8072574138641357,
+   "long_trend_frac": 0.1750092958658422
+  }
+ },
+ "eval/library_wavs/lib_By2_-_爱的双重魔力.wav": {
+  "group": "human",
+  "t0": 39.9,
+  "mix": {
+   "n_runs": 18,
+   "vib_ratio": 0.2777777777777778,
+   "vib_depth": 259.6726507614364,
+   "phase_R": 0.14024308293870397,
+   "onset_rise_db": 2.0896143913269043,
+   "long_smooth": 0.6849541664123535,
+   "long_trend_frac": 0.25550851497714
+  },
+  "stem": {
+   "n_runs": 12,
+   "vib_ratio": 0.4166666666666667,
+   "vib_depth": 128.93199970903947,
+   "phase_R": 0.24184433388153317,
+   "onset_rise_db": 10.674105644226074,
+   "long_smooth": 1.1109113693237305,
+   "long_trend_frac": 0.14778052946632034
+  }
+ },
+ "eval/library_wavs/lib_F.I.R._-_Lydia.wav": {
+  "group": "human",
+  "t0": 39.9,
+  "mix": {
+   "n_runs": 9,
+   "vib_ratio": 0.2222222222222222,
+   "vib_depth": 57.011054826560255,
+   "phase_R": 0.17783880054501025,
+   "onset_rise_db": 0.5119447708129883,
+   "long_smooth": 0.45030999183654785,
+   "long_trend_frac": 0.4004726845289443
+  },
+  "stem": {
+   "n_runs": 7,
+   "vib_ratio": 0.0,
+   "vib_depth": null,
+   "phase_R": 0.38643474049175147,
+   "onset_rise_db": 19.201818466186523,
+   "long_smooth": 0.7849507331848145,
+   "long_trend_frac": 0.16737229170806192
+  }
+ },
+ "eval/library_wavs/lib_F.I.R._-_三个心愿.wav": {
+  "group": "human",
+  "t0": 69.9,
+  "mix": {
+   "n_runs": 18,
+   "vib_ratio": 0.2222222222222222,
+   "vib_depth": 108.35485955689077,
+   "phase_R": 0.6922228334573016,
+   "onset_rise_db": 2.612257957458496,
+   "long_smooth": 0.4051520824432373,
+   "long_trend_frac": 0.2114989455499447
+  },
+  "stem": {
+   "n_runs": 13,
+   "vib_ratio": 0.23076923076923078,
+   "vib_depth": 126.29423817040347,
+   "phase_R": 0.3302189887537843,
+   "onset_rise_db": 7.446666717529297,
+   "long_smooth": 0.8110671043395996,
+   "long_trend_frac": 0.13668055341257712
+  }
+ },
+ "eval/library_wavs/lib_F.I.R._-_你的微笑.wav": {
+  "group": "human",
+  "t0": 64.9,
+  "mix": {
+   "n_runs": 11,
+   "vib_ratio": 0.0,
+   "vib_depth": null,
+   "phase_R": 0.06500652510002108,
+   "onset_rise_db": 2.2326223850250244,
+   "long_smooth": null,
+   "long_trend_frac": null
+  },
+  "stem": {
+   "n_runs": 17,
+   "vib_ratio": 0.29411764705882354,
+   "vib_depth": 126.96029002663975,
+   "phase_R": 0.35267783363081673,
+   "onset_rise_db": 6.132944107055664,
+   "long_smooth": 0.9846441745758057,
+   "long_trend_frac": 0.10573378785565007
+  }
+ },
+ "eval/library_wavs/lib_F.I.R._-_千年之恋.wav": {
+  "group": "human",
+  "t0": 69.9,
+  "mix": {
+   "n_runs": 8,
+   "vib_ratio": 0.25,
+   "vib_depth": 221.28786895081316,
+   "phase_R": 0.5533305398140884,
+   "onset_rise_db": 1.1606354713439941,
+   "long_smooth": 0.38731932640075684,
+   "long_trend_frac": 0.4109279097606481
+  },
+  "stem": {
+   "n_runs": 14,
+   "vib_ratio": 0.42857142857142855,
+   "vib_depth": 111.50225564681762,
+   "phase_R": 0.21204212854160326,
+   "onset_rise_db": 12.133717060089111,
+   "long_smooth": 0.743680477142334,
+   "long_trend_frac": 0.16048111093902157
+  }
+ },
+ "eval/library_wavs/lib_F.I.R._-_我们的爱.wav": {
+  "group": "human",
+  "t0": 69.9,
+  "mix": {
+   "n_runs": 15,
+   "vib_ratio": 0.26666666666666666,
+   "vib_depth": 75.45681486470986,
+   "phase_R": 0.21153182694948383,
+   "onset_rise_db": 2.255791664123535,
+   "long_smooth": 0.4431614875793457,
+   "long_trend_frac": 0.20264182599052866
+  },
+  "stem": {
+   "n_runs": 13,
+   "vib_ratio": 0.3076923076923077,
+   "vib_depth": 219.33212612080683,
+   "phase_R": 0.12322118067081558,
+   "onset_rise_db": 16.050657272338867,
+   "long_smooth": 0.7258987426757812,
+   "long_trend_frac": 0.4342236938999441
+  }
+ },
+ "eval/library_wavs/lib_F.I.R._-_月牙湾.wav": {
+  "group": "human",
+  "t0": 59.9,
+  "mix": {
+   "n_runs": 23,
+   "vib_ratio": 0.2608695652173913,
+   "vib_depth": 107.7456181671374,
+   "phase_R": 0.19871245758745854,
+   "onset_rise_db": 1.4132061004638672,
+   "long_smooth": 0.4071671962738037,
+   "long_trend_frac": 0.31797370534671643
+  },
+  "stem": {
+   "n_runs": 11,
+   "vib_ratio": 0.2727272727272727,
+   "vib_depth": 196.2294860814906,
+   "phase_R": 0.5901898634110192,
+   "onset_rise_db": 10.00507116317749,
+   "long_smooth": 0.818455696105957,
+   "long_trend_frac": 0.18239156833181883
+  }
+ },
+ "eval/library_wavs/lib_F4_-_流星雨.wav": {
+  "group": "human",
+  "t0": 69.9,
+  "mix": {
+   "n_runs": 16,
+   "vib_ratio": 0.375,
+   "vib_depth": 96.10677814476891,
+   "phase_R": 0.2758586836807813,
+   "onset_rise_db": 4.731813430786133,
+   "long_smooth": 0.582188606262207,
+   "long_trend_frac": 0.23028261990377952
+  },
+  "stem": null
+ },
+ "eval/library_wavs/lib_JS-杀破狼-《仙剑奇侠传》电视剧片头曲.wav": {
+  "group": "human",
+  "t0": 64.9,
+  "mix": {
+   "n_runs": 23,
+   "vib_ratio": 0.13043478260869565,
+   "vib_depth": 184.70948241799778,
+   "phase_R": 0.044463561488362655,
+   "onset_rise_db": 1.6707792282104492,
+   "long_smooth": 0.3860006332397461,
+   "long_trend_frac": 0.41356841337948097
+  },
+  "stem": {
+   "n_runs": 8,
+   "vib_ratio": 0.125,
+   "vib_depth": 277.4005642005838,
+   "phase_R": 0.4113407487959769,
+   "onset_rise_db": 16.995349884033203,
+   "long_smooth": 0.4386868476867676,
+   "long_trend_frac": 0.296045449504345
+  }
+ },
+ "eval/library_wavs/lib_M3_-_爱你(原唱：王心凌).wav": {
+  "group": "human",
+  "t0": 34.9,
+  "mix": {
+   "n_runs": 38,
+   "vib_ratio": 0.0,
+   "vib_depth": null,
+   "phase_R": 0.5675247891973706,
+   "onset_rise_db": 3.3744518756866455,
+   "long_smooth": 0.7279126644134521,
+   "long_trend_frac": 0.11844095097315657
+  },
+  "stem": {
+   "n_runs": 12,
+   "vib_ratio": 0.3333333333333333,
+   "vib_depth": 258.94145964036454,
+   "phase_R": 0.33493705213829783,
+   "onset_rise_db": 9.765802383422852,
+   "long_smooth": 1.3625149726867676,
+   "long_trend_frac": 0.1170728607091478
+  }
+ },
+ "eval/library_wavs/lib_QQ爱_-_王麟.wav": {
+  "group": "human",
+  "t0": 44.9,
+  "mix": {
+   "n_runs": 7,
+   "vib_ratio": 0.14285714285714285,
+   "vib_depth": 106.33163322235197,
+   "phase_R": 0.04673544166914485,
+   "onset_rise_db": 0.9869041442871094,
+   "long_smooth": 0.3270423412322998,
+   "long_trend_frac": 0.3302211873350782
+  },
+  "stem": {
+   "n_runs": 16,
+   "vib_ratio": 0.4375,
+   "vib_depth": 148.70066129586564,
+   "phase_R": 0.31369652882888244,
+   "onset_rise_db": 5.768558025360107,
+   "long_smooth": 1.1342658996582031,
+   "long_trend_frac": 0.09414595147458907
+  }
+ },
+ "eval/library_wavs/lib_S.H.E-Super_Star-《独自等待》电影插曲.wav": {
+  "group": "human",
+  "t0": 30.0,
+  "mix": {
+   "n_runs": 15,
+   "vib_ratio": 0.26666666666666666,
+   "vib_depth": 91.67240851347722,
+   "phase_R": 0.07001355889329004,
+   "onset_rise_db": 1.3688068389892578,
+   "long_smooth": 0.7119145393371582,
+   "long_trend_frac": 0.15484350667067232
+  },
+  "stem": {
+   "n_runs": 11,
+   "vib_ratio": 0.18181818181818182,
+   "vib_depth": 151.13727920834194,
+   "phase_R": 0.22250047559073768,
+   "onset_rise_db": 7.458464622497559,
+   "long_smooth": 0.903449296951294,
+   "long_trend_frac": 0.146375967936393
+  }
+ },
+ "eval/library_wavs/lib_S.H.E-一眼万年.wav": {
+  "group": "human",
+  "t0": 69.9,
+  "mix": {
+   "n_runs": 17,
+   "vib_ratio": 0.35294117647058826,
+   "vib_depth": 67.03963805238415,
+   "phase_R": 0.15321262378689482,
+   "onset_rise_db": 0.9321699142456055,
+   "long_smooth": 0.35745811462402344,
+   "long_trend_frac": 0.38260589368307074
+  },
+  "stem": {
+   "n_runs": 10,
+   "vib_ratio": 0.4,
+   "vib_depth": 109.3866982931715,
+   "phase_R": 0.18791389878175718,
+   "onset_rise_db": 8.524068355560303,
+   "long_smooth": 0.8314437866210938,
+   "long_trend_frac": 0.19880706551296107
+  }
+ },
+ "eval/library_wavs/lib_S.H.E-不想长大.wav": {
+  "group": "human",
+  "t0": 69.9,
+  "mix": {
+   "n_runs": 13,
+   "vib_ratio": 0.23076923076923078,
+   "vib_depth": 89.45485011011533,
+   "phase_R": 0.2609963328079605,
+   "onset_rise_db": 3.503614902496338,
+   "long_smooth": 0.8291163444519043,
+   "long_trend_frac": 0.21491923386431158
+  },
+  "stem": {
+   "n_runs": 9,
+   "vib_ratio": 0.3333333333333333,
+   "vib_depth": 91.74163672576948,
+   "phase_R": 0.24842805247331154,
+   "onset_rise_db": 13.314913749694824,
+   "long_smooth": 1.225597858428955,
+   "long_trend_frac": 0.17428301726550585
+  }
+ },
+ "eval/library_wavs/lib_S.H.E-中国话.wav": {
+  "group": "human",
+  "t0": 15.0,
+  "mix": {
+   "n_runs": 17,
+   "vib_ratio": 0.0,
+   "vib_depth": null,
+   "phase_R": 0.11562286365003495,
+   "onset_rise_db": 2.4202404022216797,
+   "long_smooth": 0.6276178359985352,
+   "long_trend_frac": 0.29209959732922014
+  },
+  "stem": {
+   "n_runs": 10,
+   "vib_ratio": 0.4,
+   "vib_depth": 243.53022355179786,
+   "phase_R": 0.361131950666124,
+   "onset_rise_db": 4.500924110412598,
+   "long_smooth": 1.3299064636230469,
+   "long_trend_frac": 0.08012773625179956
+  }
+ },
+ "eval/library_wavs/lib_S.H.E-他还是不懂.wav": {
+  "group": "human",
+  "t0": 59.9,
+  "mix": {
+   "n_runs": 16,
+   "vib_ratio": 0.3125,
+   "vib_depth": 58.81388187909851,
+   "phase_R": 0.5236338824689745,
+   "onset_rise_db": 2.899941921234131,
+   "long_smooth": 0.5998492240905762,
+   "long_trend_frac": 0.2234920824815227
+  },
+  "stem": {
+   "n_runs": 9,
+   "vib_ratio": 0.0,
+   "vib_depth": null,
+   "phase_R": 0.4260104260652338,
+   "onset_rise_db": 13.980535507202148,
+   "long_smooth": 0.6377325057983398,
+   "long_trend_frac": 0.15303699453675004
+  }
+ },
+ "eval/library_wavs/lib_S.H.E-你曾是少年-《少年班》电影主题曲丨《青春有你2》训练生表演原曲.wav": {
+  "group": "human",
+  "t0": 69.9,
+  "mix": {
+   "n_runs": 23,
+   "vib_ratio": 0.043478260869565216,
+   "vib_depth": 120.68822188275844,
+   "phase_R": 0.16009282924381268,
+   "onset_rise_db": 3.1214733123779297,
+   "long_smooth": 0.4357421398162842,
+   "long_trend_frac": 0.2977042081136198
+  },
+  "stem": {
+   "n_runs": 11,
+   "vib_ratio": 0.5454545454545454,
+   "vib_depth": 139.37109292356115,
+   "phase_R": 0.37334179559468517,
+   "onset_rise_db": 10.132006645202637,
+   "long_smooth": 0.5950231552124023,
+   "long_trend_frac": 0.1708321629865278
+  }
+ },
+ "eval/library_wavs/lib_S.H.E-候鸟.wav": {
+  "group": "human",
+  "t0": 69.9,
+  "mix": {
+   "n_runs": 14,
+   "vib_ratio": 0.5714285714285714,
+   "vib_depth": 152.36994295260521,
+   "phase_R": 0.2252103346049657,
+   "onset_rise_db": 2.0308399200439453,
+   "long_smooth": 0.36086440086364746,
+   "long_trend_frac": 0.38185731462336425
+  },
+  "stem": {
+   "n_runs": 11,
+   "vib_ratio": 0.36363636363636365,
+   "vib_depth": 181.6909010411219,
+   "phase_R": 0.20252713806538722,
+   "onset_rise_db": 8.02615737915039,
+   "long_smooth": 0.8143100738525391,
+   "long_trend_frac": 0.1287711165401692
+  }
+ },
+ "eval/library_wavs/lib_S.H.E-半糖主义.wav": {
+  "group": "human",
+  "t0": 10.0,
+  "mix": {
+   "n_runs": 24,
+   "vib_ratio": 0.041666666666666664,
+   "vib_depth": 503.98574822816926,
+   "phase_R": 0.16508674089854047,
+   "onset_rise_db": 2.188535213470459,
+   "long_smooth": 0.7276358604431152,
+   "long_trend_frac": 0.3976572997571498
+  },
+  "stem": {
+   "n_runs": 10,
+   "vib_ratio": 0.3,
+   "vib_depth": 167.10721544947924,
+   "phase_R": 0.23987100347561938,
+   "onset_rise_db": 9.792065620422363,
+   "long_smooth": 0.5998430252075195,
+   "long_trend_frac": 0.15623402466014347
+  }
+ },
+ "novel_songs/batch_gacha/01_v2/seed58888.flac": {
+  "group": "champ",
+  "t0": 124.8,
+  "mix": {
+   "n_runs": 16,
+   "vib_ratio": 0.125,
+   "vib_depth": 321.2972398933884,
+   "phase_R": 0.0716535671303938,
+   "onset_rise_db": 16.966629028320312,
+   "long_smooth": 0.4103891849517822,
+   "long_trend_frac": 0.11945889449140637
+  },
+  "stem": {
+   "n_runs": 9,
+   "vib_ratio": 0.5555555555555556,
+   "vib_depth": 202.2941861940558,
+   "phase_R": 0.1865773787569691,
+   "onset_rise_db": 18.18852710723877,
+   "long_smooth": 0.6459579467773438,
+   "long_trend_frac": 0.2719851632347729
+  }
+ },
+ "novel_songs/batch_gacha/02_wide/seed7778.flac": {
+  "group": "champ",
+  "t0": 39.9,
+  "mix": {
+   "n_runs": 10,
+   "vib_ratio": 0.3,
+   "vib_depth": 589.1186159096329,
+   "phase_R": 0.7916489589127589,
+   "onset_rise_db": 2.460904598236084,
+   "long_smooth": 0.455613374710083,
+   "long_trend_frac": 0.23276286517585393
+  },
+  "stem": null
+ },
+ "novel_songs/batch_gacha/03_v2/seed61001.flac": {
+  "group": "champ",
+  "t0": 119.8,
+  "mix": {
+   "n_runs": 13,
+   "vib_ratio": 0.3076923076923077,
+   "vib_depth": 45.29409513000101,
+   "phase_R": 0.3023749555344243,
+   "onset_rise_db": 2.472784996032715,
+   "long_smooth": 0.2865128517150879,
+   "long_trend_frac": 0.26037980006041705
+  },
+  "stem": null
+ },
+ "novel_songs/batch_gacha/04/seed90406.flac": {
+  "group": "champ",
+  "t0": 64.9,
+  "mix": {
+   "n_runs": 24,
+   "vib_ratio": 0.20833333333333334,
+   "vib_depth": 396.0656748867912,
+   "phase_R": 0.7197416797585625,
+   "onset_rise_db": 1.7585783004760742,
+   "long_smooth": 0.5753946304321289,
+   "long_trend_frac": 0.2626748322600524
+  },
+  "stem": {
+   "n_runs": 8,
+   "vib_ratio": 0.125,
+   "vib_depth": 196.30623549706687,
+   "phase_R": 0.45787252382475513,
+   "onset_rise_db": 15.125223159790039,
+   "long_smooth": 0.759343147277832,
+   "long_trend_frac": 0.10342694980377104
+  }
+ },
+ "novel_songs/batch_gacha/05_wide/seed1111.flac": {
+  "group": "champ",
+  "t0": 124.8,
+  "mix": {
+   "n_runs": 29,
+   "vib_ratio": 0.1724137931034483,
+   "vib_depth": 82.67912025880962,
+   "phase_R": 0.44131756375942754,
+   "onset_rise_db": 5.507664680480957,
+   "long_smooth": 0.4898982048034668,
+   "long_trend_frac": 0.08560216975972959
+  },
+  "stem": {
+   "n_runs": 11,
+   "vib_ratio": 0.45454545454545453,
+   "vib_depth": 101.54008318846716,
+   "phase_R": 0.5348613331204004,
+   "onset_rise_db": 13.361073970794678,
+   "long_smooth": 0.6488461494445801,
+   "long_trend_frac": 0.28488836112684573
+  }
+ },
+ "novel_songs/batch_gacha/06_wide/seed3690.flac": {
+  "group": "champ",
+  "t0": 154.8,
+  "mix": {
+   "n_runs": 15,
+   "vib_ratio": 0.3333333333333333,
+   "vib_depth": 83.04783680894866,
+   "phase_R": 0.2156900780464915,
+   "onset_rise_db": 1.8551526069641113,
+   "long_smooth": 0.3622927665710449,
+   "long_trend_frac": 0.25161583147971445
+  },
+  "stem": {
+   "n_runs": 7,
+   "vib_ratio": 0.14285714285714285,
+   "vib_depth": 106.33372748839672,
+   "phase_R": 0.7810502984169392,
+   "onset_rise_db": 14.492669105529785,
+   "long_smooth": 0.4207751750946045,
+   "long_trend_frac": 0.30136811470556896
+  }
+ },
+ "novel_songs/batch_gacha/07_adj/seed1357_r1.flac": {
+  "group": "champ",
+  "t0": 124.8,
+  "mix": {
+   "n_runs": 21,
+   "vib_ratio": 0.23809523809523808,
+   "vib_depth": 489.843098937616,
+   "phase_R": 0.6313190870154326,
+   "onset_rise_db": 0.5003323554992676,
+   "long_smooth": 0.43329286575317383,
+   "long_trend_frac": 0.2516322332377564
+  },
+  "stem": null
+ },
+ "novel_songs/batch_gacha/11/seed91104.flac": {
+  "group": "champ",
+  "t0": 124.8,
+  "mix": {
+   "n_runs": 19,
+   "vib_ratio": 0.15789473684210525,
+   "vib_depth": 99.04356402334156,
+   "phase_R": 0.3408677481817723,
+   "onset_rise_db": 1.1938490867614746,
+   "long_smooth": 0.4110379219055176,
+   "long_trend_frac": 0.1898157399735368
+  },
+  "stem": null
+ },
+ "novel_songs/batch_gacha/09/seed90904.flac": {
+  "group": "champ",
+  "t0": 154.8,
+  "mix": {
+   "n_runs": 15,
+   "vib_ratio": 0.4,
+   "vib_depth": 297.90026733551065,
+   "phase_R": 0.14112282184761132,
+   "onset_rise_db": 1.6461505889892578,
+   "long_smooth": 0.35451579093933105,
+   "long_trend_frac": 0.11774341932188996
+  },
+  "stem": null
+ },
+ "novel_songs/batch_gacha/10/seed91007.flac": {
+  "group": "champ",
+  "t0": 119.8,
+  "mix": {
+   "n_runs": 12,
+   "vib_ratio": 0.5,
+   "vib_depth": 120.30731187954908,
+   "phase_R": 0.2271115945720452,
+   "onset_rise_db": 0.6513690948486328,
+   "long_smooth": 0.3441910743713379,
+   "long_trend_frac": 0.03542566304631112
+  },
+  "stem": {
+   "n_runs": 8,
+   "vib_ratio": 0.125,
+   "vib_depth": 181.73320569496238,
+   "phase_R": 0.49043532868357365,
+   "onset_rise_db": 18.98590660095215,
+   "long_smooth": 0.4949045181274414,
+   "long_trend_frac": 0.24860264148268046
+  }
+ },
+ "novel_songs/batch_gacha/11/seed91103.flac": {
+  "group": "champ",
+  "t0": 144.8,
+  "mix": {
+   "n_runs": 13,
+   "vib_ratio": 0.3076923076923077,
+   "vib_depth": 90.70522128228507,
+   "phase_R": 0.19036578688849845,
+   "onset_rise_db": 1.2839570045471191,
+   "long_smooth": 0.34909963607788086,
+   "long_trend_frac": 0.18736420830582456
+  },
+  "stem": null
+ },
+ "novel_songs/batch_gacha/12/seed91202.flac": {
+  "group": "champ",
+  "t0": 149.8,
+  "mix": {
+   "n_runs": 19,
+   "vib_ratio": 0.2631578947368421,
+   "vib_depth": 84.23494370198931,
+   "phase_R": 0.5145738742212465,
+   "onset_rise_db": 1.364577293395996,
+   "long_smooth": 0.4035193920135498,
+   "long_trend_frac": 0.140003863842937
+  },
+  "stem": {
+   "n_runs": 6,
+   "vib_ratio": 0.0,
+   "vib_depth": null,
+   "phase_R": 0.7428953404139778,
+   "onset_rise_db": 29.349873542785645,
+   "long_smooth": 0.4803028106689453,
+   "long_trend_frac": 0.32438131014401084
+  }
+ },
+ "novel_songs/batch_gacha/01_v2/seed1024.flac": {
+  "group": "seed01",
+  "t0": 25.0,
+  "mix": {
+   "n_runs": 13,
+   "vib_ratio": 0.6153846153846154,
+   "vib_depth": 577.5806372208231,
+   "phase_R": 0.32251431639030126,
+   "onset_rise_db": 5.113969326019287,
+   "long_smooth": 0.5026130676269531,
+   "long_trend_frac": 0.15198678620643413
+  },
+  "stem": {
+   "n_runs": 12,
+   "vib_ratio": 0.75,
+   "vib_depth": 114.1586366046438,
+   "phase_R": 0.5207076452235514,
+   "onset_rise_db": 20.983607292175293,
+   "long_smooth": 0.5799922943115234,
+   "long_trend_frac": 0.44895744729050263
+  }
+ },
+ "novel_songs/batch_gacha/01_v2/seed27182.flac": {
+  "group": "seed01",
+  "t0": 144.8,
+  "mix": {
+   "n_runs": 19,
+   "vib_ratio": 0.2631578947368421,
+   "vib_depth": 384.2732222072623,
+   "phase_R": 0.24913115404200634,
+   "onset_rise_db": 4.916706562042236,
+   "long_smooth": 0.4344348907470703,
+   "long_trend_frac": 0.26582626211935595
+  },
+  "stem": {
+   "n_runs": 6,
+   "vib_ratio": 0.5,
+   "vib_depth": 469.188665372281,
+   "phase_R": 0.4880599138070699,
+   "onset_rise_db": 15.921344757080078,
+   "long_smooth": 0.5480332374572754,
+   "long_trend_frac": 0.4090297827043961
+  }
+ },
+ "novel_songs/batch_gacha/01_v2/seed58887.flac": {
+  "group": "seed01",
+  "t0": 84.9,
+  "mix": {
+   "n_runs": 24,
+   "vib_ratio": 0.20833333333333334,
+   "vib_depth": 394.5584539031486,
+   "phase_R": 0.3514168138670744,
+   "onset_rise_db": 5.277212142944336,
+   "long_smooth": 0.4188709259033203,
+   "long_trend_frac": 0.3708441778864097
+  },
+  "stem": {
+   "n_runs": 9,
+   "vib_ratio": 0.5555555555555556,
+   "vib_depth": 190.72829515804867,
+   "phase_R": 0.4208459784272699,
+   "onset_rise_db": 18.284976959228516,
+   "long_smooth": 0.7102756500244141,
+   "long_trend_frac": 0.1996638992894415
+  }
+ },
+ "novel_songs/batch_gacha/01_v2/seed58889.flac": {
+  "group": "seed01",
+  "t0": 84.9,
+  "mix": {
+   "n_runs": 18,
+   "vib_ratio": 0.3888888888888889,
+   "vib_depth": 261.41810778723766,
+   "phase_R": 0.42132042749526766,
+   "onset_rise_db": 5.955079555511475,
+   "long_smooth": 0.4034843444824219,
+   "long_trend_frac": 0.14431438124145943
+  },
+  "stem": {
+   "n_runs": 13,
+   "vib_ratio": 0.6153846153846154,
+   "vib_depth": 179.62039999117474,
+   "phase_R": 0.22935103311362956,
+   "onset_rise_db": 20.004097938537598,
+   "long_smooth": 0.8602390289306641,
+   "long_trend_frac": 0.3313042814521421
+  }
+ },
+ "novel_songs/batch_gacha/01_v2/seed65535.flac": {
+  "group": "seed01",
+  "t0": 109.8,
+  "mix": {
+   "n_runs": 21,
+   "vib_ratio": 0.23809523809523808,
+   "vib_depth": 154.1344821883575,
+   "phase_R": 0.42786486610187047,
+   "onset_rise_db": 2.5711755752563477,
+   "long_smooth": 0.42198753356933594,
+   "long_trend_frac": 0.18827279725814344
+  },
+  "stem": {
+   "n_runs": 11,
+   "vib_ratio": 0.6363636363636364,
+   "vib_depth": 143.2360006256452,
+   "phase_R": 0.6870950515719872,
+   "onset_rise_db": 21.53742027282715,
+   "long_smooth": 0.574033260345459,
+   "long_trend_frac": 0.2850751944594675
+  }
+ },
+ "novel_songs/batch_gacha/01_v2/seed90121.flac": {
+  "group": "seed01",
+  "t0": 99.8,
+  "mix": {
+   "n_runs": 14,
+   "vib_ratio": 0.21428571428571427,
+   "vib_depth": 322.3473309279247,
+   "phase_R": 0.21900382593662776,
+   "onset_rise_db": 1.4049930572509766,
+   "long_smooth": 0.4029061794281006,
+   "long_trend_frac": 0.14748646328986886
+  },
+  "stem": null
+ },
+ "novel_songs/batch_gacha/01_v2/seed90123.flac": {
+  "group": "seed01",
+  "t0": 39.9,
+  "mix": {
+   "n_runs": 21,
+   "vib_ratio": 0.2857142857142857,
+   "vib_depth": 555.9421688105012,
+   "phase_R": 0.73710354587911,
+   "onset_rise_db": 3.494924545288086,
+   "long_smooth": 0.46826982498168945,
+   "long_trend_frac": 0.23643711121282293
+  },
+  "stem": {
+   "n_runs": 8,
+   "vib_ratio": 0.125,
+   "vib_depth": 87.5518132225769,
+   "phase_R": 0.3544332647192009,
+   "onset_rise_db": 11.809998512268066,
+   "long_smooth": 0.5500907897949219,
+   "long_trend_frac": 0.1112931396658089
+  }
+ },
+ "novel_songs/batch_gacha/01_v2/seed90124.flac": {
+  "group": "seed01",
+  "t0": 74.9,
+  "mix": {
+   "n_runs": 8,
+   "vib_ratio": 0.5,
+   "vib_depth": 858.1255043994584,
+   "phase_R": 0.11531383331899749,
+   "onset_rise_db": 6.409917831420898,
+   "long_smooth": 0.5524251461029053,
+   "long_trend_frac": 0.08184359942499733
+  },
+  "stem": {
+   "n_runs": 11,
+   "vib_ratio": 0.2727272727272727,
+   "vib_depth": 318.9239776130097,
+   "phase_R": null,
+   "onset_rise_db": 3.4320831298828125,
+   "long_smooth": 1.087615966796875,
+   "long_trend_frac": 0.04794552596469947
+  }
+ },
+ "novel_songs/batch_gacha/01_v2/seed90125.flac": {
+  "group": "seed01",
+  "t0": 104.8,
+  "mix": {
+   "n_runs": 16,
+   "vib_ratio": 0.375,
+   "vib_depth": 481.43603802931193,
+   "phase_R": 0.34699566212280397,
+   "onset_rise_db": 11.95181655883789,
+   "long_smooth": 0.44084930419921875,
+   "long_trend_frac": 0.12162781300431266
+  },
+  "stem": null
+ },
+ "novel_songs/batch_gacha/01_v2/seed90126.flac": {
+  "group": "seed01",
+  "t0": 59.9,
+  "mix": {
+   "n_runs": 24,
+   "vib_ratio": 0.4166666666666667,
+   "vib_depth": 705.145509048132,
+   "phase_R": 0.19336914958322035,
+   "onset_rise_db": 7.51692008972168,
+   "long_smooth": 0.5503606796264648,
+   "long_trend_frac": 0.09312140039810096
+  },
+  "stem": {
+   "n_runs": 7,
+   "vib_ratio": 0.5714285714285714,
+   "vib_depth": 104.92880667467568,
+   "phase_R": 0.2389340162031275,
+   "onset_rise_db": 23.808170318603516,
+   "long_smooth": 0.7867336273193359,
+   "long_trend_frac": 0.36345231267208966
+  }
+ }
+}

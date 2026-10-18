@@ -1,0 +1,6634 @@
+{
+ "corpus_n": 568,
+ "corpus_full_pass_pct": 0.2,
+ "corpus": [
+  {
+   "no": "lib_183Club_-_真爱",
+   "title": "lib_183Club_-_真爱",
+   "passed": 2,
+   "total": 4,
+   "density": 5.06,
+   "range": 15,
+   "motif": 0.384,
+   "prog": null
+  },
+  {
+   "no": "lib_5566-我难过",
+   "title": "lib_5566-我难过",
+   "passed": 1,
+   "total": 4,
+   "density": 8.05,
+   "range": 22,
+   "motif": 0.349,
+   "prog": null
+  },
+  {
+   "no": "lib_ai.mini-遇",
+   "title": "lib_ai.mini-遇",
+   "passed": 2,
+   "total": 4,
+   "density": 4.68,
+   "range": 17,
+   "motif": 0.506,
+   "prog": null
+  },
+  {
+   "no": "lib_Atlus_-_活埋",
+   "title": "lib_Atlus_-_活埋",
+   "passed": 2,
+   "total": 4,
+   "density": 7.68,
+   "range": 19,
+   "motif": 0.411,
+   "prog": null
+  },
+  {
+   "no": "lib_Beyond_-_光辉岁月",
+   "title": "lib_Beyond_-_光辉岁月",
+   "passed": 2,
+   "total": 4,
+   "density": 6.09,
+   "range": 19,
+   "motif": 0.434,
+   "prog": null
+  },
+  {
+   "no": "lib_Beyond_-_真的爱你",
+   "title": "lib_Beyond_-_真的爱你",
+   "passed": 3,
+   "total": 4,
+   "density": 7.35,
+   "range": 14,
+   "motif": 0.426,
+   "prog": null
+  },
+  {
+   "no": "lib_BoBo-光荣",
+   "title": "lib_BoBo-光荣",
+   "passed": 1,
+   "total": 4,
+   "density": 6.78,
+   "range": 29,
+   "motif": 0.144,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -20.0,
+     -12.9
+    ],
+    "slope": 7.1
+   }
+  },
+  {
+   "no": "lib_BoBo-恋爱新手",
+   "title": "lib_BoBo-恋爱新手",
+   "passed": 3,
+   "total": 4,
+   "density": 4.57,
+   "range": 12,
+   "motif": 0.544,
+   "prog": null
+  },
+  {
+   "no": "lib_By2_-_发呆",
+   "title": "lib_By2_-_发呆",
+   "passed": 1,
+   "total": 4,
+   "density": 6.97,
+   "range": 17,
+   "motif": 0.345,
+   "prog": null
+  },
+  {
+   "no": "lib_By2_-_我知道",
+   "title": "lib_By2_-_我知道",
+   "passed": 2,
+   "total": 4,
+   "density": 8.51,
+   "range": 15,
+   "motif": 0.328,
+   "prog": null
+  },
+  {
+   "no": "lib_By2_-_爱丫爱丫",
+   "title": "lib_By2_-_爱丫爱丫",
+   "passed": 1,
+   "total": 4,
+   "density": 6.91,
+   "range": 19,
+   "motif": 0.246,
+   "prog": null
+  },
+  {
+   "no": "lib_By2_-_爱的双重魔力",
+   "title": "lib_By2_-_爱的双重魔力",
+   "passed": 3,
+   "total": 4,
+   "density": 7.23,
+   "range": 12,
+   "motif": 0.439,
+   "prog": null
+  },
+  {
+   "no": "lib_F.I.R._-_Lydia",
+   "title": "lib_F.I.R._-_Lydia",
+   "passed": 1,
+   "total": 4,
+   "density": 4.52,
+   "range": 19,
+   "motif": 0.093,
+   "prog": null
+  },
+  {
+   "no": "lib_F.I.R._-_三个心愿",
+   "title": "lib_F.I.R._-_三个心愿",
+   "passed": 2,
+   "total": 4,
+   "density": 5.45,
+   "range": 19,
+   "motif": 0.534,
+   "prog": null
+  },
+  {
+   "no": "lib_F.I.R._-_你的微笑",
+   "title": "lib_F.I.R._-_你的微笑",
+   "passed": 2,
+   "total": 4,
+   "density": 6.06,
+   "range": 26,
+   "motif": 0.595,
+   "prog": null
+  },
+  {
+   "no": "lib_F.I.R._-_千年之恋",
+   "title": "lib_F.I.R._-_千年之恋",
+   "passed": 2,
+   "total": 4,
+   "density": 7.04,
+   "range": 17,
+   "motif": 0.405,
+   "prog": null
+  },
+  {
+   "no": "lib_F.I.R._-_我们的爱",
+   "title": "lib_F.I.R._-_我们的爱",
+   "passed": 1,
+   "total": 4,
+   "density": 5.56,
+   "range": 19,
+   "motif": 0.337,
+   "prog": null
+  },
+  {
+   "no": "lib_F.I.R._-_月牙湾",
+   "title": "lib_F.I.R._-_月牙湾",
+   "passed": 2,
+   "total": 4,
+   "density": 6.38,
+   "range": 24,
+   "motif": 0.41,
+   "prog": null
+  },
+  {
+   "no": "lib_F4_-_流星雨",
+   "title": "lib_F4_-_流星雨",
+   "passed": 1,
+   "total": 4,
+   "density": 6.9,
+   "range": 22,
+   "motif": 0.294,
+   "prog": null
+  },
+  {
+   "no": "lib_JS-杀破狼-《仙剑奇侠传》电视剧片头曲",
+   "title": "lib_JS-杀破狼-《仙剑奇侠传》电视剧片头曲",
+   "passed": 2,
+   "total": 4,
+   "density": 6.7,
+   "range": 23,
+   "motif": 0.429,
+   "prog": null
+  },
+  {
+   "no": "lib_M3_-_爱你(原唱：王心凌)",
+   "title": "lib_M3_-_爱你(原唱：王心凌)",
+   "passed": 1,
+   "total": 4,
+   "density": 6.91,
+   "range": 21,
+   "motif": 0.332,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -7.9,
+     -6.7
+    ],
+    "slope": 1.2
+   }
+  },
+  {
+   "no": "lib_QQ爱_-_王麟",
+   "title": "lib_QQ爱_-_王麟",
+   "passed": 2,
+   "total": 4,
+   "density": 5.96,
+   "range": 17,
+   "motif": 0.608,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-Super_Star-《独自",
+   "title": "lib_S.H.E-Super_Star-《独自等待》电影插曲",
+   "passed": 3,
+   "total": 4,
+   "density": 5.99,
+   "range": 15,
+   "motif": 0.472,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -8.7,
+     -8.6
+    ],
+    "slope": 0.1
+   }
+  },
+  {
+   "no": "lib_S.H.E-一眼万年",
+   "title": "lib_S.H.E-一眼万年",
+   "passed": 2,
+   "total": 4,
+   "density": 8.73,
+   "range": 17,
+   "motif": 0.43,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-不想长大",
+   "title": "lib_S.H.E-不想长大",
+   "passed": 2,
+   "total": 4,
+   "density": 7.77,
+   "range": 17,
+   "motif": 0.603,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-中国话",
+   "title": "lib_S.H.E-中国话",
+   "passed": 2,
+   "total": 4,
+   "density": 10.34,
+   "range": 12,
+   "motif": 0.843,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-他还是不懂",
+   "title": "lib_S.H.E-他还是不懂",
+   "passed": 1,
+   "total": 4,
+   "density": 7.87,
+   "range": 18,
+   "motif": 0.393,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-你曾是少年-《少年班》电影主",
+   "title": "lib_S.H.E-你曾是少年-《少年班》电影主题曲丨《青春有你2》训练生表演原曲",
+   "passed": 1,
+   "total": 4,
+   "density": 8.3,
+   "range": 21,
+   "motif": 0.368,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-候鸟",
+   "title": "lib_S.H.E-候鸟",
+   "passed": 1,
+   "total": 4,
+   "density": 6.15,
+   "range": 19,
+   "motif": 0.315,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-半糖主义",
+   "title": "lib_S.H.E-半糖主义",
+   "passed": 2,
+   "total": 4,
+   "density": 6.74,
+   "range": 17,
+   "motif": 0.579,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-天灰",
+   "title": "lib_S.H.E-天灰",
+   "passed": 1,
+   "total": 4,
+   "density": 5.45,
+   "range": 19,
+   "motif": 0.278,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-安静了",
+   "title": "lib_S.H.E-安静了",
+   "passed": 2,
+   "total": 4,
+   "density": 7.73,
+   "range": 17,
+   "motif": 0.412,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-怎么办(What_To_Do",
+   "title": "lib_S.H.E-怎么办(What_To_Do)",
+   "passed": 3,
+   "total": 4,
+   "density": 9.24,
+   "range": 12,
+   "motif": 0.534,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-恋人未满",
+   "title": "lib_S.H.E-恋人未满",
+   "passed": 2,
+   "total": 4,
+   "density": 5.92,
+   "range": 26,
+   "motif": 0.469,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-波斯猫",
+   "title": "lib_S.H.E-波斯猫",
+   "passed": 2,
+   "total": 4,
+   "density": 5.72,
+   "range": 21,
+   "motif": 0.636,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-热带雨林",
+   "title": "lib_S.H.E-热带雨林",
+   "passed": 3,
+   "total": 4,
+   "density": 5.9,
+   "range": 12,
+   "motif": 0.447,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-紫藤花",
+   "title": "lib_S.H.E-紫藤花",
+   "passed": 2,
+   "total": 4,
+   "density": 7.87,
+   "range": 19,
+   "motif": 0.421,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-美丽新世界",
+   "title": "lib_S.H.E-美丽新世界",
+   "passed": 2,
+   "total": 4,
+   "density": 4.31,
+   "range": 22,
+   "motif": 0.443,
+   "prog": null
+  },
+  {
+   "no": "lib_S.H.E-触电",
+   "title": "lib_S.H.E-触电",
+   "passed": 2,
+   "total": 4,
+   "density": 6.76,
+   "range": 17,
+   "motif": 0.492,
+   "prog": null
+  },
+  {
+   "no": "lib_Sweety-樱花草",
+   "title": "lib_Sweety-樱花草",
+   "passed": 2,
+   "total": 4,
+   "density": 6.54,
+   "range": 18,
+   "motif": 0.509,
+   "prog": null
+  },
+  {
+   "no": "lib_Tank-三国恋-电视剧《七剑下天山》主",
+   "title": "lib_Tank-三国恋-电视剧《七剑下天山》主题曲",
+   "passed": 2,
+   "total": 4,
+   "density": 7.01,
+   "range": 21,
+   "motif": 0.485,
+   "prog": null
+  },
+  {
+   "no": "lib_Tank-专属天使-《花样少男少女》电视",
+   "title": "lib_Tank-专属天使-《花样少男少女》电视剧片尾曲",
+   "passed": 3,
+   "total": 4,
+   "density": 5.86,
+   "range": 15,
+   "motif": 0.465,
+   "prog": null
+  },
+  {
+   "no": "lib_Tank-会长大的幸福",
+   "title": "lib_Tank-会长大的幸福",
+   "passed": 2,
+   "total": 4,
+   "density": 5.8,
+   "range": 17,
+   "motif": 0.422,
+   "prog": null
+  },
+  {
+   "no": "lib_Tank-千年泪-《天外飞仙》电视剧插曲",
+   "title": "lib_Tank-千年泪-《天外飞仙》电视剧插曲",
+   "passed": 2,
+   "total": 4,
+   "density": 7.07,
+   "range": 17,
+   "motif": 0.421,
+   "prog": null
+  },
+  {
+   "no": "lib_Tank-如果我变成回忆",
+   "title": "lib_Tank-如果我变成回忆",
+   "passed": 1,
+   "total": 4,
+   "density": 5.68,
+   "range": 22,
+   "motif": 0.305,
+   "prog": null
+  },
+  {
+   "no": "lib_Tank-给我你的爱",
+   "title": "lib_Tank-给我你的爱",
+   "passed": 1,
+   "total": 4,
+   "density": 6.59,
+   "range": 17,
+   "motif": 0.273,
+   "prog": null
+  },
+  {
+   "no": "lib_Tank-非你莫属",
+   "title": "lib_Tank-非你莫属",
+   "passed": 2,
+   "total": 4,
+   "density": 5.1,
+   "range": 13,
+   "motif": 0.293,
+   "prog": null
+  },
+  {
+   "no": "lib_The_S#Arp_-_눈물",
+   "title": "lib_The_S#Arp_-_눈물",
+   "passed": 1,
+   "total": 4,
+   "density": 4.81,
+   "range": 19,
+   "motif": 0.35,
+   "prog": null
+  },
+  {
+   "no": "lib_乔洋-你的烂借口",
+   "title": "lib_乔洋-你的烂借口",
+   "passed": 1,
+   "total": 4,
+   "density": 6.94,
+   "range": 23,
+   "motif": 0.265,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -13.1,
+     -13.6
+    ],
+    "slope": -0.5
+   }
+  },
+  {
+   "no": "lib_五月天_-_倔强",
+   "title": "lib_五月天_-_倔强",
+   "passed": 3,
+   "total": 4,
+   "density": 7.03,
+   "range": 15,
+   "motif": 0.439,
+   "prog": null
+  },
+  {
+   "no": "lib_五月天_-_恋爱ing",
+   "title": "lib_五月天_-_恋爱ing",
+   "passed": 0,
+   "total": 4,
+   "density": 2.74,
+   "range": 17,
+   "motif": 0.356,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -10.2,
+     -10.0
+    ],
+    "slope": 0.2
+   }
+  },
+  {
+   "no": "lib_五月天_-_拥抱",
+   "title": "lib_五月天_-_拥抱",
+   "passed": 3,
+   "total": 4,
+   "density": 6.58,
+   "range": 11,
+   "motif": 0.623,
+   "prog": null
+  },
+  {
+   "no": "lib_五月天_-_温柔",
+   "title": "lib_五月天_-_温柔",
+   "passed": 3,
+   "total": 4,
+   "density": 6.17,
+   "range": 13,
+   "motif": 0.572,
+   "prog": null
+  },
+  {
+   "no": "lib_五月天_-_相信",
+   "title": "lib_五月天_-_相信",
+   "passed": 3,
+   "total": 4,
+   "density": 5.22,
+   "range": 15,
+   "motif": 0.402,
+   "prog": null
+  },
+  {
+   "no": "lib_五月天_-_知足",
+   "title": "lib_五月天_-_知足",
+   "passed": 1,
+   "total": 4,
+   "density": 5.21,
+   "range": 18,
+   "motif": 0.166,
+   "prog": null
+  },
+  {
+   "no": "lib_五月天_陈绮贞-私奔到月球",
+   "title": "lib_五月天_陈绮贞-私奔到月球",
+   "passed": 2,
+   "total": 4,
+   "density": 5.94,
+   "range": 16,
+   "motif": 0.384,
+   "prog": null
+  },
+  {
+   "no": "lib_任贤齐-流着泪的你的脸",
+   "title": "lib_任贤齐-流着泪的你的脸",
+   "passed": 3,
+   "total": 4,
+   "density": 7.02,
+   "range": 15,
+   "motif": 0.566,
+   "prog": null
+  },
+  {
+   "no": "lib_任贤齐_-_伤心太平洋",
+   "title": "lib_任贤齐_-_伤心太平洋",
+   "passed": 3,
+   "total": 4,
+   "density": 9.0,
+   "range": 15,
+   "motif": 0.607,
+   "prog": null
+  },
+  {
+   "no": "lib_任贤齐_-_天涯",
+   "title": "lib_任贤齐_-_天涯",
+   "passed": 2,
+   "total": 4,
+   "density": 9.75,
+   "range": 17,
+   "motif": 0.685,
+   "prog": null
+  },
+  {
+   "no": "lib_任贤齐_-_心太软",
+   "title": "lib_任贤齐_-_心太软",
+   "passed": 2,
+   "total": 4,
+   "density": 4.97,
+   "range": 17,
+   "motif": 0.401,
+   "prog": null
+  },
+  {
+   "no": "lib_伊能静_-_念奴娇",
+   "title": "lib_伊能静_-_念奴娇",
+   "passed": 2,
+   "total": 4,
+   "density": 6.27,
+   "range": 19,
+   "motif": 0.647,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -10.6,
+     -10.8
+    ],
+    "slope": -0.2
+   }
+  },
+  {
+   "no": "lib_伍佰_And_China_Blue-挪威",
+   "title": "lib_伍佰_And_China_Blue-挪威的森林",
+   "passed": 3,
+   "total": 4,
+   "density": 7.9,
+   "range": 12,
+   "motif": 0.773,
+   "prog": null
+  },
+  {
+   "no": "lib_伍佰_And_China_Blue-突然",
+   "title": "lib_伍佰_And_China_Blue-突然的自我-《路边野餐》电影插曲",
+   "passed": 1,
+   "total": 4,
+   "density": 5.22,
+   "range": 17,
+   "motif": 0.357,
+   "prog": null
+  },
+  {
+   "no": "lib_何炅-栀子花开",
+   "title": "lib_何炅-栀子花开",
+   "passed": 1,
+   "total": 4,
+   "density": 5.19,
+   "range": 17,
+   "motif": 0.148,
+   "prog": null
+  },
+  {
+   "no": "lib_侃侃_-_嘀嗒",
+   "title": "lib_侃侃_-_嘀嗒",
+   "passed": 2,
+   "total": 4,
+   "density": 4.29,
+   "range": 17,
+   "motif": 0.574,
+   "prog": null
+  },
+  {
+   "no": "lib_依然爱你-王力宏",
+   "title": "lib_依然爱你-王力宏",
+   "passed": 3,
+   "total": 4,
+   "density": 6.58,
+   "range": 15,
+   "motif": 0.439,
+   "prog": null
+  },
+  {
+   "no": "lib_俞灏明-让我为你唱首歌-电视剧《一起来看",
+   "title": "lib_俞灏明-让我为你唱首歌-电视剧《一起来看流星雨》主题曲",
+   "passed": 1,
+   "total": 4,
+   "density": 6.81,
+   "range": 17,
+   "motif": 0.316,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.6,
+     -11.2
+    ],
+    "slope": 0.4
+   }
+  },
+  {
+   "no": "lib_信-如果你还在就好了",
+   "title": "lib_信-如果你还在就好了",
+   "passed": 1,
+   "total": 4,
+   "density": 4.81,
+   "range": 21,
+   "motif": 0.397,
+   "prog": null
+  },
+  {
+   "no": "lib_信_-_火烧的寂寞",
+   "title": "lib_信_-_火烧的寂寞",
+   "passed": 2,
+   "total": 4,
+   "density": 5.92,
+   "range": 21,
+   "motif": 0.402,
+   "prog": null
+  },
+  {
+   "no": "lib_信_-_魂",
+   "title": "lib_信_-_魂",
+   "passed": 3,
+   "total": 4,
+   "density": 6.7,
+   "range": 14,
+   "motif": 0.635,
+   "prog": null
+  },
+  {
+   "no": "lib_信乐团-死了都要爱-《死了都要爱之信乐团",
+   "title": "lib_信乐团-死了都要爱-《死了都要爱之信乐团的故事》电视剧主题曲",
+   "passed": 1,
+   "total": 4,
+   "density": 5.66,
+   "range": 24,
+   "motif": 0.155,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -17.1,
+     -10.5
+    ],
+    "slope": 6.6
+   }
+  },
+  {
+   "no": "lib_信乐团_-_One_Night_in_北",
+   "title": "lib_信乐团_-_One_Night_in_北京",
+   "passed": 2,
+   "total": 4,
+   "density": 5.74,
+   "range": 29,
+   "motif": 0.408,
+   "prog": null
+  },
+  {
+   "no": "lib_信乐团_-_假如",
+   "title": "lib_信乐团_-_假如",
+   "passed": 1,
+   "total": 4,
+   "density": 4.66,
+   "range": 19,
+   "motif": 0.266,
+   "prog": null
+  },
+  {
+   "no": "lib_信乐团_-_天高地厚",
+   "title": "lib_信乐团_-_天高地厚",
+   "passed": 1,
+   "total": 4,
+   "density": 5.66,
+   "range": 21,
+   "motif": 0.306,
+   "prog": null
+  },
+  {
+   "no": "lib_信乐团_-_海阔天空",
+   "title": "lib_信乐团_-_海阔天空",
+   "passed": 2,
+   "total": 4,
+   "density": 5.55,
+   "range": 9,
+   "motif": 0.314,
+   "prog": null
+  },
+  {
+   "no": "lib_信乐团_-_离歌",
+   "title": "lib_信乐团_-_离歌",
+   "passed": 1,
+   "total": 4,
+   "density": 4.95,
+   "range": 22,
+   "motif": 0.262,
+   "prog": null
+  },
+  {
+   "no": "lib_光良-第一次-《白色恋曲》电视剧片尾曲",
+   "title": "lib_光良-第一次-《白色恋曲》电视剧片尾曲",
+   "passed": 2,
+   "total": 4,
+   "density": 5.16,
+   "range": 17,
+   "motif": 0.518,
+   "prog": null
+  },
+  {
+   "no": "lib_光良-约定",
+   "title": "lib_光良-约定",
+   "passed": 2,
+   "total": 4,
+   "density": 4.88,
+   "range": 19,
+   "motif": 0.447,
+   "prog": null
+  },
+  {
+   "no": "lib_光良_-_童话",
+   "title": "lib_光良_-_童话",
+   "passed": 1,
+   "total": 4,
+   "density": 5.61,
+   "range": 17,
+   "motif": 0.309,
+   "prog": null
+  },
+  {
+   "no": "lib_六哲-多情的人总被无情的伤",
+   "title": "lib_六哲-多情的人总被无情的伤",
+   "passed": 1,
+   "total": 4,
+   "density": 10.7,
+   "range": 19,
+   "motif": 0.476,
+   "prog": null
+  },
+  {
+   "no": "lib_刀郎,王翰仪,云朵_-_爱是你我",
+   "title": "lib_刀郎,王翰仪,云朵_-_爱是你我",
+   "passed": 0,
+   "total": 4,
+   "density": 3.25,
+   "range": 31,
+   "motif": 0.103,
+   "prog": null
+  },
+  {
+   "no": "lib_刀郎-冲动的惩罚",
+   "title": "lib_刀郎-冲动的惩罚",
+   "passed": 1,
+   "total": 4,
+   "density": 5.18,
+   "range": 17,
+   "motif": 0.364,
+   "prog": null
+  },
+  {
+   "no": "lib_刀郎-情人",
+   "title": "lib_刀郎-情人",
+   "passed": 2,
+   "total": 4,
+   "density": 4.03,
+   "range": 12,
+   "motif": 0.388,
+   "prog": null
+  },
+  {
+   "no": "lib_刀郎_-_2002年的第一场雪",
+   "title": "lib_刀郎_-_2002年的第一场雪",
+   "passed": 3,
+   "total": 4,
+   "density": 5.93,
+   "range": 13,
+   "motif": 0.707,
+   "prog": null
+  },
+  {
+   "no": "lib_刀郎_-_披着羊皮的狼",
+   "title": "lib_刀郎_-_披着羊皮的狼",
+   "passed": 2,
+   "total": 4,
+   "density": 4.84,
+   "range": 19,
+   "motif": 0.489,
+   "prog": null
+  },
+  {
+   "no": "lib_刀郎_-_西海情歌",
+   "title": "lib_刀郎_-_西海情歌",
+   "passed": 2,
+   "total": 4,
+   "density": 3.74,
+   "range": 12,
+   "motif": 0.623,
+   "prog": null
+  },
+  {
+   "no": "lib_刘亦菲_-_心悸",
+   "title": "lib_刘亦菲_-_心悸",
+   "passed": 3,
+   "total": 4,
+   "density": 4.44,
+   "range": 13,
+   "motif": 0.657,
+   "prog": null
+  },
+  {
+   "no": "lib_刘允乐_-_太早",
+   "title": "lib_刘允乐_-_太早",
+   "passed": 1,
+   "total": 4,
+   "density": 5.56,
+   "range": 22,
+   "motif": 0.379,
+   "prog": null
+  },
+  {
+   "no": "lib_刘可-寂寞才说爱",
+   "title": "lib_刘可-寂寞才说爱",
+   "passed": 3,
+   "total": 4,
+   "density": 5.38,
+   "range": 15,
+   "motif": 0.539,
+   "prog": null
+  },
+  {
+   "no": "lib_刘嘉亮-你到底爱谁",
+   "title": "lib_刘嘉亮-你到底爱谁",
+   "passed": 1,
+   "total": 4,
+   "density": 6.6,
+   "range": 20,
+   "motif": 0.386,
+   "prog": null
+  },
+  {
+   "no": "lib_刘德华_-_来生缘",
+   "title": "lib_刘德华_-_来生缘",
+   "passed": 3,
+   "total": 4,
+   "density": 7.47,
+   "range": 14,
+   "motif": 0.506,
+   "prog": null
+  },
+  {
+   "no": "lib_刘惜君-我很快乐",
+   "title": "lib_刘惜君-我很快乐",
+   "passed": 2,
+   "total": 4,
+   "density": 10.39,
+   "range": 12,
+   "motif": 0.445,
+   "prog": null
+  },
+  {
+   "no": "lib_刘若英-一辈子的孤单-《粉红女郎》电视剧",
+   "title": "lib_刘若英-一辈子的孤单-《粉红女郎》电视剧主题曲",
+   "passed": 0,
+   "total": 4,
+   "density": 3.83,
+   "range": 17,
+   "motif": 0.354,
+   "prog": null
+  },
+  {
+   "no": "lib_刘若英_-_为爱痴狂",
+   "title": "lib_刘若英_-_为爱痴狂",
+   "passed": 0,
+   "total": 4,
+   "density": 3.99,
+   "range": 24,
+   "motif": 0.105,
+   "prog": null
+  },
+  {
+   "no": "lib_刘若英_-_后来",
+   "title": "lib_刘若英_-_后来",
+   "passed": 1,
+   "total": 4,
+   "density": 4.87,
+   "range": 19,
+   "motif": 0.331,
+   "prog": null
+  },
+  {
+   "no": "lib_动力火车-那就这样吧",
+   "title": "lib_动力火车-那就这样吧",
+   "passed": 2,
+   "total": 4,
+   "density": 6.03,
+   "range": 19,
+   "motif": 0.528,
+   "prog": null
+  },
+  {
+   "no": "lib_南合文斗-让泪化作相思雨",
+   "title": "lib_南合文斗-让泪化作相思雨",
+   "passed": 2,
+   "total": 4,
+   "density": 9.08,
+   "range": 17,
+   "motif": 0.669,
+   "prog": null
+  },
+  {
+   "no": "lib_南拳妈妈_-_下雨天",
+   "title": "lib_南拳妈妈_-_下雨天",
+   "passed": 2,
+   "total": 4,
+   "density": 7.88,
+   "range": 21,
+   "motif": 0.421,
+   "prog": null
+  },
+  {
+   "no": "lib_南拳妈妈_-_决斗巴哈",
+   "title": "lib_南拳妈妈_-_决斗巴哈",
+   "passed": 2,
+   "total": 4,
+   "density": 4.83,
+   "range": 23,
+   "motif": 0.47,
+   "prog": null
+  },
+  {
+   "no": "lib_南拳妈妈_-_牡丹江",
+   "title": "lib_南拳妈妈_-_牡丹江",
+   "passed": 2,
+   "total": 4,
+   "density": 8.04,
+   "range": 24,
+   "motif": 0.527,
+   "prog": null
+  },
+  {
+   "no": "lib_南拳妈妈_-_香草吧噗",
+   "title": "lib_南拳妈妈_-_香草吧噗",
+   "passed": 2,
+   "total": 4,
+   "density": 10.63,
+   "range": 12,
+   "motif": 0.85,
+   "prog": null
+  },
+  {
+   "no": "lib_卢巧音,王力宏_-_好心分手",
+   "title": "lib_卢巧音,王力宏_-_好心分手",
+   "passed": 1,
+   "total": 4,
+   "density": 5.58,
+   "range": 17,
+   "motif": 0.26,
+   "prog": null
+  },
+  {
+   "no": "lib_古巨基-劲歌金曲",
+   "title": "lib_古巨基-劲歌金曲",
+   "passed": 1,
+   "total": 4,
+   "density": 6.31,
+   "range": 19,
+   "motif": 0.236,
+   "prog": null
+  },
+  {
+   "no": "lib_古巨基-好想好想-《情深深雨濛濛》电视剧",
+   "title": "lib_古巨基-好想好想-《情深深雨濛濛》电视剧片尾曲",
+   "passed": 0,
+   "total": 4,
+   "density": 3.2,
+   "range": 17,
+   "motif": 0.228,
+   "prog": null
+  },
+  {
+   "no": "lib_可米小子-青春纪念册",
+   "title": "lib_可米小子-青春纪念册",
+   "passed": 1,
+   "total": 4,
+   "density": 4.7,
+   "range": 17,
+   "motif": 0.299,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.6,
+     -12.0
+    ],
+    "slope": -0.4
+   }
+  },
+  {
+   "no": "lib_后弦_-_九公主",
+   "title": "lib_后弦_-_九公主",
+   "passed": 1,
+   "total": 4,
+   "density": 6.96,
+   "range": 24,
+   "motif": 0.313,
+   "prog": null
+  },
+  {
+   "no": "lib_后弦_-_单车恋人",
+   "title": "lib_后弦_-_单车恋人",
+   "passed": 2,
+   "total": 4,
+   "density": 7.09,
+   "range": 21,
+   "motif": 0.467,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -10.9,
+     -11.1
+    ],
+    "slope": -0.2
+   }
+  },
+  {
+   "no": "lib_后弦_-_娃娃脸",
+   "title": "lib_后弦_-_娃娃脸",
+   "passed": 1,
+   "total": 4,
+   "density": 5.87,
+   "range": 19,
+   "motif": 0.355,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -13.5,
+     -13.4
+    ],
+    "slope": 0.1
+   }
+  },
+  {
+   "no": "lib_后弦_-_昆明湖",
+   "title": "lib_后弦_-_昆明湖",
+   "passed": 2,
+   "total": 4,
+   "density": 5.67,
+   "range": 21,
+   "motif": 0.545,
+   "prog": null
+  },
+  {
+   "no": "lib_后弦_-_海口",
+   "title": "lib_后弦_-_海口",
+   "passed": 1,
+   "total": 4,
+   "density": 7.92,
+   "range": 20,
+   "motif": 0.35,
+   "prog": null
+  },
+  {
+   "no": "lib_后弦_-_苏州城外的微笑",
+   "title": "lib_后弦_-_苏州城外的微笑",
+   "passed": 1,
+   "total": 4,
+   "density": 7.24,
+   "range": 24,
+   "motif": 0.246,
+   "prog": null
+  },
+  {
+   "no": "lib_后弦_-_西厢",
+   "title": "lib_后弦_-_西厢",
+   "passed": 1,
+   "total": 4,
+   "density": 9.49,
+   "range": 19,
+   "motif": 0.34,
+   "prog": null
+  },
+  {
+   "no": "lib_吴克群-为你写诗",
+   "title": "lib_吴克群-为你写诗",
+   "passed": 1,
+   "total": 4,
+   "density": 7.17,
+   "range": 17,
+   "motif": 0.344,
+   "prog": null
+  },
+  {
+   "no": "lib_吴克群_-_大舌头",
+   "title": "lib_吴克群_-_大舌头",
+   "passed": 2,
+   "total": 4,
+   "density": 6.71,
+   "range": 17,
+   "motif": 0.58,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -9.9,
+     -8.7
+    ],
+    "slope": 1.2
+   }
+  },
+  {
+   "no": "lib_吴克群_-_将军令",
+   "title": "lib_吴克群_-_将军令",
+   "passed": 1,
+   "total": 4,
+   "density": 10.85,
+   "range": 17,
+   "motif": 0.757,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -10.4,
+     -10.6
+    ],
+    "slope": -0.2
+   }
+  },
+  {
+   "no": "lib_吴奇隆_-_转弯",
+   "title": "lib_吴奇隆_-_转弯",
+   "passed": 1,
+   "total": 4,
+   "density": 7.07,
+   "range": 17,
+   "motif": 0.399,
+   "prog": null
+  },
+  {
+   "no": "lib_吴雨霏_-_生生世世爱",
+   "title": "lib_吴雨霏_-_生生世世爱",
+   "passed": 2,
+   "total": 4,
+   "density": 4.58,
+   "range": 17,
+   "motif": 0.654,
+   "prog": null
+  },
+  {
+   "no": "lib_周传雄-寂寞沙洲冷",
+   "title": "lib_周传雄-寂寞沙洲冷",
+   "passed": 2,
+   "total": 4,
+   "density": 8.68,
+   "range": 17,
+   "motif": 0.433,
+   "prog": null
+  },
+  {
+   "no": "lib_周传雄-男人海洋",
+   "title": "lib_周传雄-男人海洋",
+   "passed": 3,
+   "total": 4,
+   "density": 9.66,
+   "range": 16,
+   "motif": 0.628,
+   "prog": null
+  },
+  {
+   "no": "lib_周传雄_-_记事本",
+   "title": "lib_周传雄_-_记事本",
+   "passed": 1,
+   "total": 4,
+   "density": 5.15,
+   "range": 21,
+   "motif": 0.332,
+   "prog": null
+  },
+  {
+   "no": "lib_周传雄_-_黄昏",
+   "title": "lib_周传雄_-_黄昏",
+   "passed": 2,
+   "total": 4,
+   "density": 4.72,
+   "range": 17,
+   "motif": 0.402,
+   "prog": null
+  },
+  {
+   "no": "lib_周小曼_-_异性朋友",
+   "title": "lib_周小曼_-_异性朋友",
+   "passed": 1,
+   "total": 4,
+   "density": 6.18,
+   "range": 24,
+   "motif": 0.192,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-一路向北-《头文字D》电影插曲",
+   "title": "lib_周杰伦-一路向北-《头文字D》电影插曲",
+   "passed": 1,
+   "total": 4,
+   "density": 5.22,
+   "range": 18,
+   "motif": 0.249,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-七里香",
+   "title": "lib_周杰伦-七里香",
+   "passed": 2,
+   "total": 4,
+   "density": 6.36,
+   "range": 17,
+   "motif": 0.434,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-三年二班",
+   "title": "lib_周杰伦-三年二班",
+   "passed": 2,
+   "total": 4,
+   "density": 11.0,
+   "range": 16,
+   "motif": 0.821,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-不能说的秘密-《不能说的秘密》电",
+   "title": "lib_周杰伦-不能说的秘密-《不能说的秘密》电影插曲",
+   "passed": 2,
+   "total": 4,
+   "density": 5.8,
+   "range": 17,
+   "motif": 0.497,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-东风破",
+   "title": "lib_周杰伦-东风破",
+   "passed": 3,
+   "total": 4,
+   "density": 5.73,
+   "range": 15,
+   "motif": 0.443,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-以父之名",
+   "title": "lib_周杰伦-以父之名",
+   "passed": 3,
+   "total": 4,
+   "density": 6.21,
+   "range": 9,
+   "motif": 0.652,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-借口",
+   "title": "lib_周杰伦-借口",
+   "passed": 2,
+   "total": 4,
+   "density": 6.8,
+   "range": 14,
+   "motif": 0.355,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-兰亭序",
+   "title": "lib_周杰伦-兰亭序",
+   "passed": 1,
+   "total": 4,
+   "density": 5.92,
+   "range": 21,
+   "motif": 0.397,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-半兽人",
+   "title": "lib_周杰伦-半兽人",
+   "passed": 2,
+   "total": 4,
+   "density": 7.33,
+   "range": 17,
+   "motif": 0.52,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-半岛铁盒",
+   "title": "lib_周杰伦-半岛铁盒",
+   "passed": 2,
+   "total": 4,
+   "density": 9.06,
+   "range": 17,
+   "motif": 0.545,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-双截棍-《青蜂侠》电影片尾曲",
+   "title": "lib_周杰伦-双截棍-《青蜂侠》电影片尾曲",
+   "passed": 2,
+   "total": 4,
+   "density": 11.52,
+   "range": 3,
+   "motif": 0.969,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-发如雪",
+   "title": "lib_周杰伦-发如雪",
+   "passed": 2,
+   "total": 4,
+   "density": 8.1,
+   "range": 18,
+   "motif": 0.408,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-听妈妈的话",
+   "title": "lib_周杰伦-听妈妈的话",
+   "passed": 2,
+   "total": 4,
+   "density": 7.43,
+   "range": 19,
+   "motif": 0.79,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-回到过去",
+   "title": "lib_周杰伦-回到过去",
+   "passed": 1,
+   "total": 4,
+   "density": 5.32,
+   "range": 17,
+   "motif": 0.365,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-外婆",
+   "title": "lib_周杰伦-外婆",
+   "passed": 2,
+   "total": 4,
+   "density": 8.36,
+   "range": 24,
+   "motif": 0.823,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-夜曲",
+   "title": "lib_周杰伦-夜曲",
+   "passed": 2,
+   "total": 4,
+   "density": 9.41,
+   "range": 17,
+   "motif": 0.719,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-威廉古堡",
+   "title": "lib_周杰伦-威廉古堡",
+   "passed": 3,
+   "total": 4,
+   "density": 9.76,
+   "range": 16,
+   "motif": 0.527,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-安静",
+   "title": "lib_周杰伦-安静",
+   "passed": 3,
+   "total": 4,
+   "density": 5.84,
+   "range": 12,
+   "motif": 0.421,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-开不了口",
+   "title": "lib_周杰伦-开不了口",
+   "passed": 2,
+   "total": 4,
+   "density": 8.46,
+   "range": 17,
+   "motif": 0.519,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-彩虹-《命运呼叫转移》电影主题曲",
+   "title": "lib_周杰伦-彩虹-《命运呼叫转移》电影主题曲",
+   "passed": 1,
+   "total": 4,
+   "density": 5.38,
+   "range": 19,
+   "motif": 0.248,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-忍者-2d003d616f20",
+   "title": "lib_周杰伦-忍者-2d003d616f20",
+   "passed": 2,
+   "total": 4,
+   "density": 9.73,
+   "range": 18,
+   "motif": 0.957,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-我的地盘",
+   "title": "lib_周杰伦-我的地盘",
+   "passed": 1,
+   "total": 4,
+   "density": 10.97,
+   "range": 19,
+   "motif": 0.61,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-搁浅",
+   "title": "lib_周杰伦-搁浅",
+   "passed": 1,
+   "total": 4,
+   "density": 7.61,
+   "range": 17,
+   "motif": 0.293,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-断了的弦-《寻找周杰伦》电影插曲",
+   "title": "lib_周杰伦-断了的弦-《寻找周杰伦》电影插曲",
+   "passed": 3,
+   "total": 4,
+   "density": 6.07,
+   "range": 16,
+   "motif": 0.403,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -13.0,
+     -11.5
+    ],
+    "slope": 1.5
+   }
+  },
+  {
+   "no": "lib_周杰伦-晴天",
+   "title": "lib_周杰伦-晴天",
+   "passed": 1,
+   "total": 4,
+   "density": 7.66,
+   "range": 17,
+   "motif": 0.284,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-暗号",
+   "title": "lib_周杰伦-暗号",
+   "passed": 2,
+   "total": 4,
+   "density": 9.31,
+   "range": 17,
+   "motif": 0.445,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-最后的战役",
+   "title": "lib_周杰伦-最后的战役",
+   "passed": 2,
+   "total": 4,
+   "density": 10.15,
+   "range": 13,
+   "motif": 0.565,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-最长的电影",
+   "title": "lib_周杰伦-最长的电影",
+   "passed": 1,
+   "total": 4,
+   "density": 6.15,
+   "range": 25,
+   "motif": 0.366,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-枫",
+   "title": "lib_周杰伦-枫",
+   "passed": 3,
+   "total": 4,
+   "density": 5.93,
+   "range": 14,
+   "motif": 0.42,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-爱在西元前",
+   "title": "lib_周杰伦-爱在西元前",
+   "passed": 3,
+   "total": 4,
+   "density": 6.03,
+   "range": 15,
+   "motif": 0.534,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-爱我别走(Live)",
+   "title": "lib_周杰伦-爱我别走(Live)",
+   "passed": 2,
+   "total": 4,
+   "density": 4.59,
+   "range": 17,
+   "motif": 0.441,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-甜甜的",
+   "title": "lib_周杰伦-甜甜的",
+   "passed": 2,
+   "total": 4,
+   "density": 5.45,
+   "range": 20,
+   "motif": 0.417,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -13.4,
+     -12.5
+    ],
+    "slope": 0.9
+   }
+  },
+  {
+   "no": "lib_周杰伦-稻香",
+   "title": "lib_周杰伦-稻香",
+   "passed": 3,
+   "total": 4,
+   "density": 8.97,
+   "range": 12,
+   "motif": 0.671,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-简单爱",
+   "title": "lib_周杰伦-简单爱",
+   "passed": 3,
+   "total": 4,
+   "density": 6.32,
+   "range": 16,
+   "motif": 0.551,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-给我一首歌的时间",
+   "title": "lib_周杰伦-给我一首歌的时间",
+   "passed": 2,
+   "total": 4,
+   "density": 10.98,
+   "range": 12,
+   "motif": 0.474,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-花海",
+   "title": "lib_周杰伦-花海",
+   "passed": 1,
+   "total": 4,
+   "density": 5.21,
+   "range": 17,
+   "motif": 0.315,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-菊花台-《满城尽带黄金甲》电影片",
+   "title": "lib_周杰伦-菊花台-《满城尽带黄金甲》电影片尾曲",
+   "passed": 1,
+   "total": 4,
+   "density": 4.62,
+   "range": 19,
+   "motif": 0.315,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-蒲公英的约定",
+   "title": "lib_周杰伦-蒲公英的约定",
+   "passed": 2,
+   "total": 4,
+   "density": 5.68,
+   "range": 15,
+   "motif": 0.224,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-蜗牛(Live)-《一万公里的约",
+   "title": "lib_周杰伦-蜗牛(Live)-《一万公里的约定》电影主题曲",
+   "passed": 1,
+   "total": 4,
+   "density": 5.14,
+   "range": 17,
+   "motif": 0.164,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-说好的幸福呢",
+   "title": "lib_周杰伦-说好的幸福呢",
+   "passed": 3,
+   "total": 4,
+   "density": 9.18,
+   "range": 15,
+   "motif": 0.47,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-轨迹-《寻找周杰伦》电影主题曲",
+   "title": "lib_周杰伦-轨迹-《寻找周杰伦》电影主题曲",
+   "passed": 3,
+   "total": 4,
+   "density": 4.94,
+   "range": 12,
+   "motif": 0.441,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-退后",
+   "title": "lib_周杰伦-退后",
+   "passed": 1,
+   "total": 4,
+   "density": 6.73,
+   "range": 17,
+   "motif": 0.389,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-青花瓷",
+   "title": "lib_周杰伦-青花瓷",
+   "passed": 3,
+   "total": 4,
+   "density": 5.35,
+   "range": 13,
+   "motif": 0.528,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-黑色毛衣",
+   "title": "lib_周杰伦-黑色毛衣",
+   "passed": 1,
+   "total": 4,
+   "density": 7.5,
+   "range": 17,
+   "motif": 0.358,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦-龙卷风",
+   "title": "lib_周杰伦-龙卷风",
+   "passed": 2,
+   "total": 4,
+   "density": 7.95,
+   "range": 17,
+   "motif": 0.427,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦_梁心颐-珊瑚海",
+   "title": "lib_周杰伦_梁心颐-珊瑚海",
+   "passed": 1,
+   "total": 4,
+   "density": 5.39,
+   "range": 22,
+   "motif": 0.321,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦_潘儿-夜的第七章",
+   "title": "lib_周杰伦_潘儿-夜的第七章",
+   "passed": 1,
+   "total": 4,
+   "density": 10.07,
+   "range": 17,
+   "motif": 0.669,
+   "prog": null
+  },
+  {
+   "no": "lib_周杰伦_费玉清-千里之外",
+   "title": "lib_周杰伦_费玉清-千里之外",
+   "passed": 2,
+   "total": 4,
+   "density": 7.59,
+   "range": 18,
+   "motif": 0.48,
+   "prog": null
+  },
+  {
+   "no": "lib_周柏豪,郑融_-_一事无成",
+   "title": "lib_周柏豪,郑融_-_一事无成",
+   "passed": 1,
+   "total": 4,
+   "density": 6.5,
+   "range": 20,
+   "motif": 0.286,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -13.1,
+     -12.9
+    ],
+    "slope": 0.2
+   }
+  },
+  {
+   "no": "lib_周笔畅_-_笔记",
+   "title": "lib_周笔畅_-_笔记",
+   "passed": 1,
+   "total": 4,
+   "density": 5.33,
+   "range": 18,
+   "motif": 0.264,
+   "prog": null
+  },
+  {
+   "no": "lib_周迅_-_飘摇",
+   "title": "lib_周迅_-_飘摇",
+   "passed": 2,
+   "total": 4,
+   "density": 3.22,
+   "range": 16,
+   "motif": 0.448,
+   "prog": null
+  },
+  {
+   "no": "lib_唐磊_-_丁香花",
+   "title": "lib_唐磊_-_丁香花",
+   "passed": 2,
+   "total": 4,
+   "density": 3.94,
+   "range": 15,
+   "motif": 0.434,
+   "prog": null
+  },
+  {
+   "no": "lib_夏天Alex_-_不再联系",
+   "title": "lib_夏天Alex_-_不再联系",
+   "passed": 1,
+   "total": 4,
+   "density": 10.36,
+   "range": 17,
+   "motif": 0.415,
+   "prog": null
+  },
+  {
+   "no": "lib_大嘴巴_-_国王皇后",
+   "title": "lib_大嘴巴_-_国王皇后",
+   "passed": 2,
+   "total": 4,
+   "density": 5.19,
+   "range": 20,
+   "motif": 0.562,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -9.6,
+     -9.4
+    ],
+    "slope": 0.2
+   }
+  },
+  {
+   "no": "lib_央金兰泽_-_遇上你是我的缘",
+   "title": "lib_央金兰泽_-_遇上你是我的缘",
+   "passed": 0,
+   "total": 4,
+   "density": 3.37,
+   "range": 24,
+   "motif": 0.321,
+   "prog": null
+  },
+  {
+   "no": "lib_夹子道_-_死心塌地",
+   "title": "lib_夹子道_-_死心塌地",
+   "passed": 1,
+   "total": 4,
+   "density": 7.03,
+   "range": 21,
+   "motif": 0.335,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -15.2,
+     -15.8
+    ],
+    "slope": -0.6
+   }
+  },
+  {
+   "no": "lib_孙楠,韩红_-_美丽的神话",
+   "title": "lib_孙楠,韩红_-_美丽的神话",
+   "passed": 1,
+   "total": 4,
+   "density": 4.72,
+   "range": 19,
+   "motif": 0.378,
+   "prog": null
+  },
+  {
+   "no": "lib_孙楠_-_拯救",
+   "title": "lib_孙楠_-_拯救",
+   "passed": 2,
+   "total": 4,
+   "density": 4.43,
+   "range": 14,
+   "motif": 0.331,
+   "prog": null
+  },
+  {
+   "no": "lib_孙燕姿-奔",
+   "title": "lib_孙燕姿-奔",
+   "passed": 2,
+   "total": 4,
+   "density": 5.3,
+   "range": 15,
+   "motif": 0.348,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -10.1,
+     -9.8
+    ],
+    "slope": 0.3
+   }
+  },
+  {
+   "no": "lib_孙燕姿_-_天黑黑",
+   "title": "lib_孙燕姿_-_天黑黑",
+   "passed": 2,
+   "total": 4,
+   "density": 4.68,
+   "range": 21,
+   "motif": 0.436,
+   "prog": null
+  },
+  {
+   "no": "lib_孙燕姿_-_开始懂了",
+   "title": "lib_孙燕姿_-_开始懂了",
+   "passed": 1,
+   "total": 4,
+   "density": 7.97,
+   "range": 19,
+   "motif": 0.324,
+   "prog": null
+  },
+  {
+   "no": "lib_孙燕姿_-_神奇",
+   "title": "lib_孙燕姿_-_神奇",
+   "passed": 3,
+   "total": 4,
+   "density": 7.36,
+   "range": 16,
+   "motif": 0.411,
+   "prog": null
+  },
+  {
+   "no": "lib_孙燕姿_-_绿光",
+   "title": "lib_孙燕姿_-_绿光",
+   "passed": 2,
+   "total": 4,
+   "density": 6.3,
+   "range": 14,
+   "motif": 0.388,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.5,
+     -11.5
+    ],
+    "slope": 0.0
+   }
+  },
+  {
+   "no": "lib_孙燕姿_-_遇见",
+   "title": "lib_孙燕姿_-_遇见",
+   "passed": 1,
+   "total": 4,
+   "density": 4.62,
+   "range": 19,
+   "motif": 0.276,
+   "prog": null
+  },
+  {
+   "no": "lib_宇桐非,胡雯_-_擦肩而过",
+   "title": "lib_宇桐非,胡雯_-_擦肩而过",
+   "passed": 1,
+   "total": 4,
+   "density": 3.51,
+   "range": 27,
+   "motif": 0.405,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -12.6,
+     -11.4
+    ],
+    "slope": 1.2
+   }
+  },
+  {
+   "no": "lib_宇桐非-感动天感动地-《幸福归来》电视剧",
+   "title": "lib_宇桐非-感动天感动地-《幸福归来》电视剧插曲丨《天真遇到现实》电视剧插曲丨《妈咪》电影插曲",
+   "passed": 1,
+   "total": 4,
+   "density": 6.05,
+   "range": 21,
+   "motif": 0.295,
+   "prog": null
+  },
+  {
+   "no": "lib_安琥_-_天使的翅膀",
+   "title": "lib_安琥_-_天使的翅膀",
+   "passed": 2,
+   "total": 4,
+   "density": 5.58,
+   "range": 17,
+   "motif": 0.442,
+   "prog": null
+  },
+  {
+   "no": "lib_容祖儿-挥着翅膀的女孩-《我的骄傲》国语",
+   "title": "lib_容祖儿-挥着翅膀的女孩-《我的骄傲》国语版",
+   "passed": 1,
+   "total": 4,
+   "density": 5.95,
+   "range": 19,
+   "motif": 0.233,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -13.5,
+     -13.1
+    ],
+    "slope": 0.4
+   }
+  },
+  {
+   "no": "lib_山野_-_分开不一定分手",
+   "title": "lib_山野_-_分开不一定分手",
+   "passed": 1,
+   "total": 4,
+   "density": 6.93,
+   "range": 24,
+   "motif": 0.205,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.4,
+     -11.0
+    ],
+    "slope": 0.4
+   }
+  },
+  {
+   "no": "lib_山野_-_如果爱能早些说出来",
+   "title": "lib_山野_-_如果爱能早些说出来",
+   "passed": 2,
+   "total": 4,
+   "density": 4.8,
+   "range": 19,
+   "motif": 0.505,
+   "prog": null
+  },
+  {
+   "no": "lib_山野_-_我们的无奈",
+   "title": "lib_山野_-_我们的无奈",
+   "passed": 2,
+   "total": 4,
+   "density": 9.77,
+   "range": 17,
+   "motif": 0.433,
+   "prog": null
+  },
+  {
+   "no": "lib_庞龙-两只蝴蝶",
+   "title": "lib_庞龙-两只蝴蝶",
+   "passed": 2,
+   "total": 4,
+   "density": 4.41,
+   "range": 17,
+   "motif": 0.471,
+   "prog": null
+  },
+  {
+   "no": "lib_庞龙-你是我的玫瑰花",
+   "title": "lib_庞龙-你是我的玫瑰花",
+   "passed": 1,
+   "total": 4,
+   "density": 5.13,
+   "range": 21,
+   "motif": 0.296,
+   "prog": null
+  },
+  {
+   "no": "lib_庾澄庆-情非得已-《流星花园》电视剧主题",
+   "title": "lib_庾澄庆-情非得已-《流星花园》电视剧主题曲",
+   "passed": 1,
+   "total": 4,
+   "density": 4.76,
+   "range": 19,
+   "motif": 0.269,
+   "prog": null
+  },
+  {
+   "no": "lib_庾澄庆-春泥",
+   "title": "lib_庾澄庆-春泥",
+   "passed": 2,
+   "total": 4,
+   "density": 5.63,
+   "range": 14,
+   "motif": 0.281,
+   "prog": null
+  },
+  {
+   "no": "lib_张信哲-信仰",
+   "title": "lib_张信哲-信仰",
+   "passed": 2,
+   "total": 4,
+   "density": 7.25,
+   "range": 17,
+   "motif": 0.44,
+   "prog": null
+  },
+  {
+   "no": "lib_张信哲-过火",
+   "title": "lib_张信哲-过火",
+   "passed": 1,
+   "total": 4,
+   "density": 8.11,
+   "range": 17,
+   "motif": 0.372,
+   "prog": null
+  },
+  {
+   "no": "lib_张含韵-想唱就唱-超级女声主题曲",
+   "title": "lib_张含韵-想唱就唱-超级女声主题曲",
+   "passed": 1,
+   "total": 4,
+   "density": 6.53,
+   "range": 20,
+   "motif": 0.202,
+   "prog": null
+  },
+  {
+   "no": "lib_张含韵-酸酸甜甜就是我",
+   "title": "lib_张含韵-酸酸甜甜就是我",
+   "passed": 1,
+   "total": 4,
+   "density": 4.39,
+   "range": 18,
+   "motif": 0.395,
+   "prog": null
+  },
+  {
+   "no": "lib_张国荣_-_倩女幽魂_(粤语版)",
+   "title": "lib_张国荣_-_倩女幽魂_(粤语版)",
+   "passed": 1,
+   "total": 4,
+   "density": 2.54,
+   "range": 20,
+   "motif": 0.488,
+   "prog": null
+  },
+  {
+   "no": "lib_张学友_-_一千个伤心的理由_(Live",
+   "title": "lib_张学友_-_一千个伤心的理由_(Live)",
+   "passed": 1,
+   "total": 4,
+   "density": 6.22,
+   "range": 17,
+   "motif": 0.36,
+   "prog": null
+  },
+  {
+   "no": "lib_张学友_-_如果这都不算爱",
+   "title": "lib_张学友_-_如果这都不算爱",
+   "passed": 1,
+   "total": 4,
+   "density": 4.0,
+   "range": 21,
+   "motif": 0.209,
+   "prog": null
+  },
+  {
+   "no": "lib_张学友_-_烦恼歌",
+   "title": "lib_张学友_-_烦恼歌",
+   "passed": 2,
+   "total": 4,
+   "density": 7.29,
+   "range": 25,
+   "motif": 0.438,
+   "prog": null
+  },
+  {
+   "no": "lib_张学友_-_谁想轻轻偷走我的吻",
+   "title": "lib_张学友_-_谁想轻轻偷走我的吻",
+   "passed": 1,
+   "total": 4,
+   "density": 3.72,
+   "range": 15,
+   "motif": 0.371,
+   "prog": null
+  },
+  {
+   "no": "lib_张学友_-_饿狼传说",
+   "title": "lib_张学友_-_饿狼传说",
+   "passed": 1,
+   "total": 4,
+   "density": 4.35,
+   "range": 20,
+   "motif": 0.338,
+   "prog": null
+  },
+  {
+   "no": "lib_张宇_-_月亮惹的祸",
+   "title": "lib_张宇_-_月亮惹的祸",
+   "passed": 3,
+   "total": 4,
+   "density": 9.32,
+   "range": 14,
+   "motif": 0.444,
+   "prog": null
+  },
+  {
+   "no": "lib_张宇_-_雨一直下",
+   "title": "lib_张宇_-_雨一直下",
+   "passed": 2,
+   "total": 4,
+   "density": 6.93,
+   "range": 15,
+   "motif": 0.336,
+   "prog": null
+  },
+  {
+   "no": "lib_张惠妹-我可以抱你吗",
+   "title": "lib_张惠妹-我可以抱你吗",
+   "passed": 3,
+   "total": 4,
+   "density": 7.62,
+   "range": 14,
+   "motif": 0.494,
+   "prog": null
+  },
+  {
+   "no": "lib_张惠妹-火",
+   "title": "lib_张惠妹-火",
+   "passed": 2,
+   "total": 4,
+   "density": 4.41,
+   "range": 19,
+   "motif": 0.565,
+   "prog": null
+  },
+  {
+   "no": "lib_张惠妹-解脱",
+   "title": "lib_张惠妹-解脱",
+   "passed": 3,
+   "total": 4,
+   "density": 4.24,
+   "range": 12,
+   "motif": 0.519,
+   "prog": null
+  },
+  {
+   "no": "lib_张惠妹_-_姐妹",
+   "title": "lib_张惠妹_-_姐妹",
+   "passed": 3,
+   "total": 4,
+   "density": 5.28,
+   "range": 14,
+   "motif": 0.474,
+   "prog": null
+  },
+  {
+   "no": "lib_张惠妹_-_记得",
+   "title": "lib_张惠妹_-_记得",
+   "passed": 1,
+   "total": 4,
+   "density": 7.01,
+   "range": 19,
+   "motif": 0.235,
+   "prog": null
+  },
+  {
+   "no": "lib_张振宇_-_不要再来伤害我",
+   "title": "lib_张振宇_-_不要再来伤害我",
+   "passed": 1,
+   "total": 4,
+   "density": 3.66,
+   "range": 15,
+   "motif": 0.23,
+   "prog": null
+  },
+  {
+   "no": "lib_张振宇_-_别说我的眼泪你无所谓",
+   "title": "lib_张振宇_-_别说我的眼泪你无所谓",
+   "passed": 1,
+   "total": 4,
+   "density": 8.18,
+   "range": 21,
+   "motif": 0.306,
+   "prog": null
+  },
+  {
+   "no": "lib_张政_-_香烟爱上火柴",
+   "title": "lib_张政_-_香烟爱上火柴",
+   "passed": 2,
+   "total": 4,
+   "density": 6.37,
+   "range": 22,
+   "motif": 0.406,
+   "prog": null
+  },
+  {
+   "no": "lib_张敬轩_-_吻得太逼真",
+   "title": "lib_张敬轩_-_吻得太逼真",
+   "passed": 1,
+   "total": 4,
+   "density": 8.51,
+   "range": 29,
+   "motif": 0.21,
+   "prog": null
+  },
+  {
+   "no": "lib_张敬轩_-_断点",
+   "title": "lib_张敬轩_-_断点",
+   "passed": 1,
+   "total": 4,
+   "density": 5.56,
+   "range": 19,
+   "motif": 0.298,
+   "prog": null
+  },
+  {
+   "no": "lib_张敬轩_-_酷爱",
+   "title": "lib_张敬轩_-_酷爱",
+   "passed": 1,
+   "total": 4,
+   "density": 8.79,
+   "range": 29,
+   "motif": 0.238,
+   "prog": null
+  },
+  {
+   "no": "lib_张杰_-_天下",
+   "title": "lib_张杰_-_天下",
+   "passed": 3,
+   "total": 4,
+   "density": 7.51,
+   "range": 16,
+   "motif": 0.452,
+   "prog": null
+  },
+  {
+   "no": "lib_张杰_-_我们都一样",
+   "title": "lib_张杰_-_我们都一样",
+   "passed": 2,
+   "total": 4,
+   "density": 6.85,
+   "range": 13,
+   "motif": 0.368,
+   "prog": null
+  },
+  {
+   "no": "lib_张杰_-_明天过后",
+   "title": "lib_张杰_-_明天过后",
+   "passed": 3,
+   "total": 4,
+   "density": 9.18,
+   "range": 15,
+   "motif": 0.547,
+   "prog": null
+  },
+  {
+   "no": "lib_张柏芝_-_星语心愿",
+   "title": "lib_张柏芝_-_星语心愿",
+   "passed": 2,
+   "total": 4,
+   "density": 4.37,
+   "range": 12,
+   "motif": 0.346,
+   "prog": null
+  },
+  {
+   "no": "lib_张栋梁_-_北极星的眼泪",
+   "title": "lib_张栋梁_-_北极星的眼泪",
+   "passed": 1,
+   "total": 4,
+   "density": 5.75,
+   "range": 17,
+   "motif": 0.189,
+   "prog": null
+  },
+  {
+   "no": "lib_张栋梁_-_当你孤单你会想起谁",
+   "title": "lib_张栋梁_-_当你孤单你会想起谁",
+   "passed": 1,
+   "total": 4,
+   "density": 5.13,
+   "range": 18,
+   "motif": 0.332,
+   "prog": null
+  },
+  {
+   "no": "lib_张翰,朱梓骁,魏晨_-_星空物语",
+   "title": "lib_张翰,朱梓骁,魏晨_-_星空物语",
+   "passed": 2,
+   "total": 4,
+   "density": 4.18,
+   "range": 15,
+   "motif": 0.333,
+   "prog": null
+  },
+  {
+   "no": "lib_张芸京_-_偏爱",
+   "title": "lib_张芸京_-_偏爱",
+   "passed": 1,
+   "total": 4,
+   "density": 6.72,
+   "range": 19,
+   "motif": 0.233,
+   "prog": null
+  },
+  {
+   "no": "lib_张雨生-大海",
+   "title": "lib_张雨生-大海",
+   "passed": 2,
+   "total": 4,
+   "density": 5.37,
+   "range": 17,
+   "motif": 0.567,
+   "prog": null
+  },
+  {
+   "no": "lib_张震岳,蔡健雅_-_思念是一种病",
+   "title": "lib_张震岳,蔡健雅_-_思念是一种病",
+   "passed": 3,
+   "total": 4,
+   "density": 7.55,
+   "range": 14,
+   "motif": 0.432,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -18.8,
+     -10.0
+    ],
+    "slope": 8.8
+   }
+  },
+  {
+   "no": "lib_张震岳_-_再见",
+   "title": "lib_张震岳_-_再见",
+   "passed": 2,
+   "total": 4,
+   "density": 3.99,
+   "range": 14,
+   "motif": 0.512,
+   "prog": null
+  },
+  {
+   "no": "lib_张震岳_-_爱的初体验",
+   "title": "lib_张震岳_-_爱的初体验",
+   "passed": 3,
+   "total": 4,
+   "density": 4.04,
+   "range": 9,
+   "motif": 0.57,
+   "prog": null
+  },
+  {
+   "no": "lib_张靓颖-如果这就是爱情",
+   "title": "lib_张靓颖-如果这就是爱情",
+   "passed": 2,
+   "total": 4,
+   "density": 6.19,
+   "range": 21,
+   "motif": 0.474,
+   "prog": null
+  },
+  {
+   "no": "lib_张靓颖_-_画心",
+   "title": "lib_张靓颖_-_画心",
+   "passed": 1,
+   "total": 4,
+   "density": 5.57,
+   "range": 19,
+   "motif": 0.339,
+   "prog": null
+  },
+  {
+   "no": "lib_张韶涵-亲爱的，那不是爱情-《宫-野蛮王",
+   "title": "lib_张韶涵-亲爱的，那不是爱情-《宫-野蛮王妃》电视剧片尾曲",
+   "passed": 1,
+   "total": 4,
+   "density": 5.84,
+   "range": 21,
+   "motif": 0.371,
+   "prog": null
+  },
+  {
+   "no": "lib_张韶涵-梦里花",
+   "title": "lib_张韶涵-梦里花",
+   "passed": 1,
+   "total": 4,
+   "density": 5.13,
+   "range": 20,
+   "motif": 0.311,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -15.6,
+     -12.7
+    ],
+    "slope": 2.9
+   }
+  },
+  {
+   "no": "lib_张韶涵-欧若拉",
+   "title": "lib_张韶涵-欧若拉",
+   "passed": 2,
+   "total": 4,
+   "density": 8.22,
+   "range": 17,
+   "motif": 0.676,
+   "prog": null
+  },
+  {
+   "no": "lib_张韶涵-遗失的美好-《海豚湾恋人》电视剧",
+   "title": "lib_张韶涵-遗失的美好-《海豚湾恋人》电视剧片尾曲",
+   "passed": 3,
+   "total": 4,
+   "density": 5.04,
+   "range": 15,
+   "motif": 0.449,
+   "prog": null
+  },
+  {
+   "no": "lib_张韶涵-香水百合-e2d23655e15",
+   "title": "lib_张韶涵-香水百合-e2d23655e152",
+   "passed": 2,
+   "total": 4,
+   "density": 4.25,
+   "range": 12,
+   "motif": 0.371,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -9.4,
+     -9.5
+    ],
+    "slope": -0.1
+   }
+  },
+  {
+   "no": "lib_张韶涵_-_隐形的翅膀",
+   "title": "lib_张韶涵_-_隐形的翅膀",
+   "passed": 2,
+   "total": 4,
+   "density": 5.53,
+   "range": 17,
+   "motif": 0.459,
+   "prog": null
+  },
+  {
+   "no": "lib_弦子_-_第三者的第三者",
+   "title": "lib_弦子_-_第三者的第三者",
+   "passed": 2,
+   "total": 4,
+   "density": 6.22,
+   "range": 16,
+   "motif": 0.321,
+   "prog": null
+  },
+  {
+   "no": "lib_弦子_-_舍不得",
+   "title": "lib_弦子_-_舍不得",
+   "passed": 1,
+   "total": 4,
+   "density": 4.44,
+   "range": 17,
+   "motif": 0.306,
+   "prog": null
+  },
+  {
+   "no": "lib_弦子_-_醉清风_(2005版)",
+   "title": "lib_弦子_-_醉清风_(2005版)",
+   "passed": 2,
+   "total": 4,
+   "density": 3.97,
+   "range": 10,
+   "motif": 0.56,
+   "prog": null
+  },
+  {
+   "no": "lib_彭佳慧_-_相见恨晚",
+   "title": "lib_彭佳慧_-_相见恨晚",
+   "passed": 2,
+   "total": 4,
+   "density": 8.21,
+   "range": 20,
+   "motif": 0.467,
+   "prog": null
+  },
+  {
+   "no": "lib_徐怀钰_-_分飞",
+   "title": "lib_徐怀钰_-_分飞",
+   "passed": 2,
+   "total": 4,
+   "density": 5.61,
+   "range": 17,
+   "motif": 0.579,
+   "prog": null
+  },
+  {
+   "no": "lib_徐良,刘丹萌_-_抽离",
+   "title": "lib_徐良,刘丹萌_-_抽离",
+   "passed": 2,
+   "total": 4,
+   "density": 7.95,
+   "range": 18,
+   "motif": 0.502,
+   "prog": null
+  },
+  {
+   "no": "lib_徐良,孙羽幽_-_七秒钟的记忆",
+   "title": "lib_徐良,孙羽幽_-_七秒钟的记忆",
+   "passed": 1,
+   "total": 4,
+   "density": 7.43,
+   "range": 31,
+   "motif": 0.203,
+   "prog": null
+  },
+  {
+   "no": "lib_徐良,孙羽幽_-_虐心",
+   "title": "lib_徐良,孙羽幽_-_虐心",
+   "passed": 1,
+   "total": 4,
+   "density": 5.83,
+   "range": 25,
+   "motif": 0.187,
+   "prog": null
+  },
+  {
+   "no": "lib_徐良,小凌_-_坏女孩",
+   "title": "lib_徐良,小凌_-_坏女孩",
+   "passed": 2,
+   "total": 4,
+   "density": 6.26,
+   "range": 24,
+   "motif": 0.564,
+   "prog": null
+  },
+  {
+   "no": "lib_徐良,汪苏泷_-_后会无期",
+   "title": "lib_徐良,汪苏泷_-_后会无期",
+   "passed": 3,
+   "total": 4,
+   "density": 7.18,
+   "range": 15,
+   "motif": 0.456,
+   "prog": {
+    "instances": 3,
+    "dbs": [
+     -11.6,
+     -10.9,
+     -11.7
+    ],
+    "slope": -0.1
+   }
+  },
+  {
+   "no": "lib_徐良_-_和平分手",
+   "title": "lib_徐良_-_和平分手",
+   "passed": 2,
+   "total": 4,
+   "density": 7.77,
+   "range": 19,
+   "motif": 0.299,
+   "prog": {
+    "instances": 3,
+    "dbs": [
+     -18.2,
+     -10.0,
+     -9.9
+    ],
+    "slope": 8.3
+   }
+  },
+  {
+   "no": "lib_徐良_-_在回忆中死去",
+   "title": "lib_徐良_-_在回忆中死去",
+   "passed": 2,
+   "total": 4,
+   "density": 9.59,
+   "range": 25,
+   "motif": 0.583,
+   "prog": null
+  },
+  {
+   "no": "lib_徐良_-_天真",
+   "title": "lib_徐良_-_天真",
+   "passed": 2,
+   "total": 4,
+   "density": 9.79,
+   "range": 17,
+   "motif": 0.729,
+   "prog": null
+  },
+  {
+   "no": "lib_徐良_-_犯贱_remix版",
+   "title": "lib_徐良_-_犯贱_remix版",
+   "passed": 2,
+   "total": 4,
+   "density": 6.69,
+   "range": 19,
+   "motif": 0.468,
+   "prog": null
+  },
+  {
+   "no": "lib_徐良_-_红装",
+   "title": "lib_徐良_-_红装",
+   "passed": 2,
+   "total": 4,
+   "density": 9.12,
+   "range": 26,
+   "motif": 0.4,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -12.0,
+     -11.8
+    ],
+    "slope": 0.2
+   }
+  },
+  {
+   "no": "lib_徐良_小凌-客官不可以",
+   "title": "lib_徐良_小凌-客官不可以",
+   "passed": 2,
+   "total": 4,
+   "density": 7.16,
+   "range": 22,
+   "motif": 0.794,
+   "prog": null
+  },
+  {
+   "no": "lib_徐誉滕-等一分钟",
+   "title": "lib_徐誉滕-等一分钟",
+   "passed": 2,
+   "total": 4,
+   "density": 7.44,
+   "range": 17,
+   "motif": 0.589,
+   "prog": null
+  },
+  {
+   "no": "lib_斯琴高丽_顾峰-犯错",
+   "title": "lib_斯琴高丽_顾峰-犯错",
+   "passed": 1,
+   "total": 4,
+   "density": 8.27,
+   "range": 17,
+   "motif": 0.399,
+   "prog": null
+  },
+  {
+   "no": "lib_方大同-爱爱爱",
+   "title": "lib_方大同-爱爱爱",
+   "passed": 1,
+   "total": 4,
+   "density": 7.8,
+   "range": 19,
+   "motif": 0.353,
+   "prog": null
+  },
+  {
+   "no": "lib_方大同_-_三人游",
+   "title": "lib_方大同_-_三人游",
+   "passed": 1,
+   "total": 4,
+   "density": 7.09,
+   "range": 19,
+   "motif": 0.238,
+   "prog": null
+  },
+  {
+   "no": "lib_曹格,卓文萱_-_梁山伯与茱丽叶",
+   "title": "lib_曹格,卓文萱_-_梁山伯与茱丽叶",
+   "passed": 2,
+   "total": 4,
+   "density": 10.03,
+   "range": 14,
+   "motif": 0.483,
+   "prog": null
+  },
+  {
+   "no": "lib_曹雪_-_确定一定以及肯定",
+   "title": "lib_曹雪_-_确定一定以及肯定",
+   "passed": 2,
+   "total": 4,
+   "density": 6.65,
+   "range": 17,
+   "motif": 0.486,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -12.0,
+     -10.9
+    ],
+    "slope": 1.1
+   }
+  },
+  {
+   "no": "lib_曾轶可_-_狮子座",
+   "title": "lib_曾轶可_-_狮子座",
+   "passed": 2,
+   "total": 4,
+   "density": 5.39,
+   "range": 15,
+   "motif": 0.221,
+   "prog": null
+  },
+  {
+   "no": "lib_朴树-生如夏花",
+   "title": "lib_朴树-生如夏花",
+   "passed": 2,
+   "total": 4,
+   "density": 4.39,
+   "range": 20,
+   "motif": 0.576,
+   "prog": null
+  },
+  {
+   "no": "lib_朴树-那些花儿-《春风沉醉的夜晚》电影插",
+   "title": "lib_朴树-那些花儿-《春风沉醉的夜晚》电影插曲",
+   "passed": 2,
+   "total": 4,
+   "density": 3.69,
+   "range": 14,
+   "motif": 0.415,
+   "prog": null
+  },
+  {
+   "no": "lib_李佳璐_-_无法原谅",
+   "title": "lib_李佳璐_-_无法原谅",
+   "passed": 0,
+   "total": 4,
+   "density": 3.59,
+   "range": 21,
+   "motif": 0.092,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.2,
+     -9.7
+    ],
+    "slope": 1.5
+   }
+  },
+  {
+   "no": "lib_李佳薇_-_煎熬",
+   "title": "lib_李佳薇_-_煎熬",
+   "passed": 2,
+   "total": 4,
+   "density": 4.47,
+   "range": 19,
+   "motif": 0.636,
+   "prog": null
+  },
+  {
+   "no": "lib_李克勤_-_月半小夜曲",
+   "title": "lib_李克勤_-_月半小夜曲",
+   "passed": 2,
+   "total": 4,
+   "density": 5.24,
+   "range": 16,
+   "motif": 0.245,
+   "prog": null
+  },
+  {
+   "no": "lib_李克勤_-_红日",
+   "title": "lib_李克勤_-_红日",
+   "passed": 3,
+   "total": 4,
+   "density": 5.95,
+   "range": 14,
+   "motif": 0.534,
+   "prog": null
+  },
+  {
+   "no": "lib_李圣杰_-_你那么爱她",
+   "title": "lib_李圣杰_-_你那么爱她",
+   "passed": 1,
+   "total": 4,
+   "density": 7.72,
+   "range": 21,
+   "motif": 0.377,
+   "prog": null
+  },
+  {
+   "no": "lib_李圣杰_-_手放开",
+   "title": "lib_李圣杰_-_手放开",
+   "passed": 2,
+   "total": 4,
+   "density": 5.96,
+   "range": 19,
+   "motif": 0.418,
+   "prog": null
+  },
+  {
+   "no": "lib_李圣杰_-_痴心绝对",
+   "title": "lib_李圣杰_-_痴心绝对",
+   "passed": 2,
+   "total": 4,
+   "density": 5.03,
+   "range": 22,
+   "motif": 0.418,
+   "prog": null
+  },
+  {
+   "no": "lib_李宇春_-_下个，路口，见",
+   "title": "lib_李宇春_-_下个，路口，见",
+   "passed": 3,
+   "total": 4,
+   "density": 5.01,
+   "range": 15,
+   "motif": 0.545,
+   "prog": null
+  },
+  {
+   "no": "lib_李慧珍-爱死了昨天",
+   "title": "lib_李慧珍-爱死了昨天",
+   "passed": 1,
+   "total": 4,
+   "density": 4.45,
+   "range": 19,
+   "motif": 0.238,
+   "prog": null
+  },
+  {
+   "no": "lib_李智楠-红色石头-《十八岁的天空》电视剧",
+   "title": "lib_李智楠-红色石头-《十八岁的天空》电视剧片头曲",
+   "passed": 0,
+   "total": 4,
+   "density": 3.46,
+   "range": 21,
+   "motif": 0.25,
+   "prog": null
+  },
+  {
+   "no": "lib_李殊_-_人间情多",
+   "title": "lib_李殊_-_人间情多",
+   "passed": 2,
+   "total": 4,
+   "density": 4.89,
+   "range": 15,
+   "motif": 0.362,
+   "prog": null
+  },
+  {
+   "no": "lib_李玖哲-想太多-《原来我不帅》电视剧插曲",
+   "title": "lib_李玖哲-想太多-《原来我不帅》电视剧插曲",
+   "passed": 1,
+   "total": 4,
+   "density": 4.52,
+   "range": 24,
+   "motif": 0.257,
+   "prog": null
+  },
+  {
+   "no": "lib_李翊君_-_雨蝶",
+   "title": "lib_李翊君_-_雨蝶",
+   "passed": 2,
+   "total": 4,
+   "density": 4.39,
+   "range": 17,
+   "motif": 0.472,
+   "prog": null
+  },
+  {
+   "no": "lib_李雅微-我们的纪念-《放羊的星星》电视剧",
+   "title": "lib_李雅微-我们的纪念-《放羊的星星》电视剧插曲",
+   "passed": 1,
+   "total": 4,
+   "density": 7.34,
+   "range": 26,
+   "motif": 0.285,
+   "prog": null
+  },
+  {
+   "no": "lib_杜婧荧,王艺翔_-_雪",
+   "title": "lib_杜婧荧,王艺翔_-_雪",
+   "passed": 1,
+   "total": 4,
+   "density": 5.32,
+   "range": 26,
+   "motif": 0.364,
+   "prog": null
+  },
+  {
+   "no": "lib_杨丞琳-暧昧-《恶魔在身边》偶像剧片尾曲",
+   "title": "lib_杨丞琳-暧昧-《恶魔在身边》偶像剧片尾曲",
+   "passed": 1,
+   "total": 4,
+   "density": 4.79,
+   "range": 18,
+   "motif": 0.367,
+   "prog": null
+  },
+  {
+   "no": "lib_杨丞琳_-_左边",
+   "title": "lib_杨丞琳_-_左边",
+   "passed": 2,
+   "total": 4,
+   "density": 4.8,
+   "range": 17,
+   "motif": 0.46,
+   "prog": null
+  },
+  {
+   "no": "lib_杨丞琳_-_雨爱",
+   "title": "lib_杨丞琳_-_雨爱",
+   "passed": 2,
+   "total": 4,
+   "density": 6.29,
+   "range": 13,
+   "motif": 0.331,
+   "prog": null
+  },
+  {
+   "no": "lib_杨坤-空城",
+   "title": "lib_杨坤-空城",
+   "passed": 2,
+   "total": 4,
+   "density": 5.74,
+   "range": 20,
+   "motif": 0.487,
+   "prog": null
+  },
+  {
+   "no": "lib_杨臣刚-老鼠爱大米",
+   "title": "lib_杨臣刚-老鼠爱大米",
+   "passed": 1,
+   "total": 4,
+   "density": 7.12,
+   "range": 17,
+   "motif": 0.332,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰,蔡卓妍_-_小酒窝",
+   "title": "lib_林俊杰,蔡卓妍_-_小酒窝",
+   "passed": 1,
+   "total": 4,
+   "density": 5.45,
+   "range": 17,
+   "motif": 0.242,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰,金莎_-_被风吹过的夏天",
+   "title": "lib_林俊杰,金莎_-_被风吹过的夏天",
+   "passed": 1,
+   "total": 4,
+   "density": 8.28,
+   "range": 24,
+   "motif": 0.278,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰-就是我",
+   "title": "lib_林俊杰-就是我",
+   "passed": 3,
+   "total": 4,
+   "density": 6.1,
+   "range": 12,
+   "motif": 0.526,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_X",
+   "title": "lib_林俊杰_-_X",
+   "passed": 3,
+   "total": 4,
+   "density": 4.45,
+   "range": 14,
+   "motif": 0.646,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_一千年以后",
+   "title": "lib_林俊杰_-_一千年以后",
+   "passed": 1,
+   "total": 4,
+   "density": 7.78,
+   "range": 17,
+   "motif": 0.22,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_一眼万年",
+   "title": "lib_林俊杰_-_一眼万年",
+   "passed": 3,
+   "total": 4,
+   "density": 8.1,
+   "range": 13,
+   "motif": 0.438,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_不死之身",
+   "title": "lib_林俊杰_-_不死之身",
+   "passed": 3,
+   "total": 4,
+   "density": 5.76,
+   "range": 16,
+   "motif": 0.44,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_不潮不用花钱",
+   "title": "lib_林俊杰_-_不潮不用花钱",
+   "passed": 2,
+   "total": 4,
+   "density": 4.76,
+   "range": 17,
+   "motif": 0.589,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_冻结",
+   "title": "lib_林俊杰_-_冻结",
+   "passed": 3,
+   "total": 4,
+   "density": 9.21,
+   "range": 15,
+   "motif": 0.46,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_可惜没如果",
+   "title": "lib_林俊杰_-_可惜没如果",
+   "passed": 2,
+   "total": 4,
+   "density": 6.32,
+   "range": 17,
+   "motif": 0.505,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_她说",
+   "title": "lib_林俊杰_-_她说",
+   "passed": 1,
+   "total": 4,
+   "density": 4.54,
+   "range": 23,
+   "motif": 0.355,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_学不会",
+   "title": "lib_林俊杰_-_学不会",
+   "passed": 2,
+   "total": 4,
+   "density": 6.65,
+   "range": 17,
+   "motif": 0.416,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_当你",
+   "title": "lib_林俊杰_-_当你",
+   "passed": 2,
+   "total": 4,
+   "density": 7.57,
+   "range": 15,
+   "motif": 0.378,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_曹操",
+   "title": "lib_林俊杰_-_曹操",
+   "passed": 2,
+   "total": 4,
+   "density": 6.43,
+   "range": 15,
+   "motif": 0.244,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_杀手",
+   "title": "lib_林俊杰_-_杀手",
+   "passed": 2,
+   "total": 4,
+   "density": 7.0,
+   "range": 19,
+   "motif": 0.55,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_江南",
+   "title": "lib_林俊杰_-_江南",
+   "passed": 2,
+   "total": 4,
+   "density": 8.63,
+   "range": 14,
+   "motif": 0.392,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_爱笑的眼睛",
+   "title": "lib_林俊杰_-_爱笑的眼睛",
+   "passed": 2,
+   "total": 4,
+   "density": 8.1,
+   "range": 24,
+   "motif": 0.459,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_编号89757",
+   "title": "lib_林俊杰_-_编号89757",
+   "passed": 2,
+   "total": 4,
+   "density": 8.95,
+   "range": 17,
+   "motif": 0.456,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_美人鱼",
+   "title": "lib_林俊杰_-_美人鱼",
+   "passed": 2,
+   "total": 4,
+   "density": 6.16,
+   "range": 19,
+   "motif": 0.537,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_背对背拥抱",
+   "title": "lib_林俊杰_-_背对背拥抱",
+   "passed": 2,
+   "total": 4,
+   "density": 6.3,
+   "range": 16,
+   "motif": 0.261,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_醉赤壁",
+   "title": "lib_林俊杰_-_醉赤壁",
+   "passed": 1,
+   "total": 4,
+   "density": 5.21,
+   "range": 18,
+   "motif": 0.309,
+   "prog": null
+  },
+  {
+   "no": "lib_林俊杰_-_黑武士",
+   "title": "lib_林俊杰_-_黑武士",
+   "passed": 2,
+   "total": 4,
+   "density": 6.96,
+   "range": 16,
+   "motif": 0.26,
+   "prog": null
+  },
+  {
+   "no": "lib_林宥嘉-你是我的眼",
+   "title": "lib_林宥嘉-你是我的眼",
+   "passed": 1,
+   "total": 4,
+   "density": 7.6,
+   "range": 21,
+   "motif": 0.257,
+   "prog": null
+  },
+  {
+   "no": "lib_林宥嘉-说谎-《杜拉拉升职记》电视剧插曲",
+   "title": "lib_林宥嘉-说谎-《杜拉拉升职记》电视剧插曲丨《针尖上的天使》电影主题曲",
+   "passed": 1,
+   "total": 4,
+   "density": 5.66,
+   "range": 26,
+   "motif": 0.315,
+   "prog": null
+  },
+  {
+   "no": "lib_林忆莲_-_至少还有你",
+   "title": "lib_林忆莲_-_至少还有你",
+   "passed": 3,
+   "total": 4,
+   "density": 6.88,
+   "range": 16,
+   "motif": 0.462,
+   "prog": null
+  },
+  {
+   "no": "lib_林志炫_-_单身情歌",
+   "title": "lib_林志炫_-_单身情歌",
+   "passed": 2,
+   "total": 4,
+   "density": 4.4,
+   "range": 19,
+   "motif": 0.409,
+   "prog": null
+  },
+  {
+   "no": "lib_梁咏琪-向左走向右走-《向左走·向右走》",
+   "title": "lib_梁咏琪-向左走向右走-《向左走·向右走》国语版电影主题曲",
+   "passed": 1,
+   "total": 4,
+   "density": 4.49,
+   "range": 19,
+   "motif": 0.292,
+   "prog": null
+  },
+  {
+   "no": "lib_梁咏琪-胆小鬼",
+   "title": "lib_梁咏琪-胆小鬼",
+   "passed": 2,
+   "total": 4,
+   "density": 5.69,
+   "range": 22,
+   "motif": 0.444,
+   "prog": null
+  },
+  {
+   "no": "lib_梁汉文-七友",
+   "title": "lib_梁汉文-七友",
+   "passed": 1,
+   "total": 4,
+   "density": 4.28,
+   "range": 19,
+   "motif": 0.303,
+   "prog": null
+  },
+  {
+   "no": "lib_梁静茹-会呼吸的痛",
+   "title": "lib_梁静茹-会呼吸的痛",
+   "passed": 1,
+   "total": 4,
+   "density": 4.17,
+   "range": 17,
+   "motif": 0.37,
+   "prog": null
+  },
+  {
+   "no": "lib_梁静茹-小手拉大手",
+   "title": "lib_梁静茹-小手拉大手",
+   "passed": 1,
+   "total": 4,
+   "density": 5.53,
+   "range": 17,
+   "motif": 0.365,
+   "prog": null
+  },
+  {
+   "no": "lib_梁静茹-暖暖-《周末父母》电视剧片头曲",
+   "title": "lib_梁静茹-暖暖-《周末父母》电视剧片头曲",
+   "passed": 2,
+   "total": 4,
+   "density": 5.24,
+   "range": 18,
+   "motif": 0.439,
+   "prog": null
+  },
+  {
+   "no": "lib_梁静茹-燕尾蝶",
+   "title": "lib_梁静茹-燕尾蝶",
+   "passed": 2,
+   "total": 4,
+   "density": 5.81,
+   "range": 19,
+   "motif": 0.573,
+   "prog": null
+  },
+  {
+   "no": "lib_梁静茹_-_分手快乐",
+   "title": "lib_梁静茹_-_分手快乐",
+   "passed": 3,
+   "total": 4,
+   "density": 8.0,
+   "range": 12,
+   "motif": 0.636,
+   "prog": null
+  },
+  {
+   "no": "lib_梁静茹_-_勇气",
+   "title": "lib_梁静茹_-_勇气",
+   "passed": 2,
+   "total": 4,
+   "density": 9.01,
+   "range": 18,
+   "motif": 0.471,
+   "prog": null
+  },
+  {
+   "no": "lib_梁静茹_-_可惜不是你",
+   "title": "lib_梁静茹_-_可惜不是你",
+   "passed": 2,
+   "total": 4,
+   "density": 6.28,
+   "range": 19,
+   "motif": 0.437,
+   "prog": null
+  },
+  {
+   "no": "lib_梁静茹_-_宁夏",
+   "title": "lib_梁静茹_-_宁夏",
+   "passed": 1,
+   "total": 4,
+   "density": 5.6,
+   "range": 17,
+   "motif": 0.211,
+   "prog": null
+  },
+  {
+   "no": "lib_梁静茹_-_爱久见人心",
+   "title": "lib_梁静茹_-_爱久见人心",
+   "passed": 2,
+   "total": 4,
+   "density": 4.74,
+   "range": 16,
+   "motif": 0.335,
+   "prog": null
+  },
+  {
+   "no": "lib_梁静茹_-_爱你不是两三天",
+   "title": "lib_梁静茹_-_爱你不是两三天",
+   "passed": 1,
+   "total": 4,
+   "density": 6.49,
+   "range": 22,
+   "motif": 0.261,
+   "prog": null
+  },
+  {
+   "no": "lib_梦飞船_-_不值得",
+   "title": "lib_梦飞船_-_不值得",
+   "passed": 2,
+   "total": 4,
+   "density": 5.69,
+   "range": 17,
+   "motif": 0.524,
+   "prog": null
+  },
+  {
+   "no": "lib_棒棒堂_-_藏经阁",
+   "title": "lib_棒棒堂_-_藏经阁",
+   "passed": 2,
+   "total": 4,
+   "density": 6.14,
+   "range": 19,
+   "motif": 0.441,
+   "prog": null
+  },
+  {
+   "no": "lib_欧得洋_-_孤单北半球",
+   "title": "lib_欧得洋_-_孤单北半球",
+   "passed": 2,
+   "total": 4,
+   "density": 6.01,
+   "range": 19,
+   "motif": 0.503,
+   "prog": null
+  },
+  {
+   "no": "lib_毛阿敏_-_同一首歌",
+   "title": "lib_毛阿敏_-_同一首歌",
+   "passed": 0,
+   "total": 4,
+   "density": 3.31,
+   "range": 17,
+   "motif": 0.366,
+   "prog": null
+  },
+  {
+   "no": "lib_毛阿敏_-_相思",
+   "title": "lib_毛阿敏_-_相思",
+   "passed": 0,
+   "total": 4,
+   "density": 2.9,
+   "range": 19,
+   "motif": 0.261,
+   "prog": null
+  },
+  {
+   "no": "lib_水木年华-一生有你",
+   "title": "lib_水木年华-一生有你",
+   "passed": 2,
+   "total": 4,
+   "density": 4.47,
+   "range": 15,
+   "motif": 0.387,
+   "prog": null
+  },
+  {
+   "no": "lib_汤潮-狼爱上羊",
+   "title": "lib_汤潮-狼爱上羊",
+   "passed": 3,
+   "total": 4,
+   "density": 4.04,
+   "range": 15,
+   "motif": 0.581,
+   "prog": null
+  },
+  {
+   "no": "lib_汪苏泷_-_三国杀",
+   "title": "lib_汪苏泷_-_三国杀",
+   "passed": 1,
+   "total": 4,
+   "density": 7.56,
+   "range": 23,
+   "motif": 0.313,
+   "prog": null
+  },
+  {
+   "no": "lib_汪苏泷_-_不分手的恋爱",
+   "title": "lib_汪苏泷_-_不分手的恋爱",
+   "passed": 2,
+   "total": 4,
+   "density": 8.9,
+   "range": 19,
+   "motif": 0.485,
+   "prog": null
+  },
+  {
+   "no": "lib_汪苏泷_-_埋葬冬天",
+   "title": "lib_汪苏泷_-_埋葬冬天",
+   "passed": 2,
+   "total": 4,
+   "density": 7.8,
+   "range": 24,
+   "motif": 0.589,
+   "prog": null
+  },
+  {
+   "no": "lib_汪苏泷_-_苦笑",
+   "title": "lib_汪苏泷_-_苦笑",
+   "passed": 1,
+   "total": 4,
+   "density": 9.2,
+   "range": 20,
+   "motif": 0.327,
+   "prog": null
+  },
+  {
+   "no": "lib_沙宝亮-暗香-电视剧《金粉世界》主题曲",
+   "title": "lib_沙宝亮-暗香-电视剧《金粉世界》主题曲",
+   "passed": 1,
+   "total": 4,
+   "density": 4.14,
+   "range": 20,
+   "motif": 0.279,
+   "prog": null
+  },
+  {
+   "no": "lib_海楠_-_爱啦啦",
+   "title": "lib_海楠_-_爱啦啦",
+   "passed": 2,
+   "total": 4,
+   "density": 6.0,
+   "range": 21,
+   "motif": 0.528,
+   "prog": null
+  },
+  {
+   "no": "lib_海鸣威-你的承诺",
+   "title": "lib_海鸣威-你的承诺",
+   "passed": 2,
+   "total": 4,
+   "density": 9.73,
+   "range": 21,
+   "motif": 0.463,
+   "prog": null
+  },
+  {
+   "no": "lib_海鸣威-老人与海",
+   "title": "lib_海鸣威-老人与海",
+   "passed": 2,
+   "total": 4,
+   "density": 7.81,
+   "range": 27,
+   "motif": 0.564,
+   "prog": null
+  },
+  {
+   "no": "lib_游鸿明_-_下沙",
+   "title": "lib_游鸿明_-_下沙",
+   "passed": 2,
+   "total": 4,
+   "density": 4.53,
+   "range": 19,
+   "motif": 0.429,
+   "prog": null
+  },
+  {
+   "no": "lib_游鸿明_-_爱我的人和我爱的人",
+   "title": "lib_游鸿明_-_爱我的人和我爱的人",
+   "passed": 2,
+   "total": 4,
+   "density": 8.19,
+   "range": 16,
+   "motif": 0.301,
+   "prog": null
+  },
+  {
+   "no": "lib_游鸿明_-_白色恋人",
+   "title": "lib_游鸿明_-_白色恋人",
+   "passed": 2,
+   "total": 4,
+   "density": 3.35,
+   "range": 16,
+   "motif": 0.552,
+   "prog": null
+  },
+  {
+   "no": "lib_满溢,小馨_-_附送折磨",
+   "title": "lib_满溢,小馨_-_附送折磨",
+   "passed": 1,
+   "total": 4,
+   "density": 8.64,
+   "range": 17,
+   "motif": 0.234,
+   "prog": null
+  },
+  {
+   "no": "lib_潘玮柏,张韶涵_-_快乐崇拜",
+   "title": "lib_潘玮柏,张韶涵_-_快乐崇拜",
+   "passed": 2,
+   "total": 4,
+   "density": 7.7,
+   "range": 29,
+   "motif": 0.658,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -9.4,
+     -9.7
+    ],
+    "slope": -0.3
+   }
+  },
+  {
+   "no": "lib_潘玮柏,弦子_-_不得不爱",
+   "title": "lib_潘玮柏,弦子_-_不得不爱",
+   "passed": 2,
+   "total": 4,
+   "density": 8.56,
+   "range": 26,
+   "motif": 0.665,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -12.5,
+     -11.7
+    ],
+    "slope": 0.8
+   }
+  },
+  {
+   "no": "lib_潘玮柏,徐洁儿_-_Tell_Me",
+   "title": "lib_潘玮柏,徐洁儿_-_Tell_Me",
+   "passed": 2,
+   "total": 4,
+   "density": 8.88,
+   "range": 20,
+   "motif": 0.78,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -10.5,
+     -10.3
+    ],
+    "slope": 0.2
+   }
+  },
+  {
+   "no": "lib_潘玮柏-爱上未来的你",
+   "title": "lib_潘玮柏-爱上未来的你",
+   "passed": 3,
+   "total": 4,
+   "density": 7.26,
+   "range": 15,
+   "motif": 0.429,
+   "prog": null
+  },
+  {
+   "no": "lib_潘玮柏_-_WU_HA",
+   "title": "lib_潘玮柏_-_WU_HA",
+   "passed": 3,
+   "total": 4,
+   "density": 6.73,
+   "range": 15,
+   "motif": 0.74,
+   "prog": null
+  },
+  {
+   "no": "lib_潘玮柏_-_反转地球",
+   "title": "lib_潘玮柏_-_反转地球",
+   "passed": 2,
+   "total": 4,
+   "density": 12.54,
+   "range": 13,
+   "motif": 0.901,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -10.3,
+     -10.8
+    ],
+    "slope": -0.5
+   }
+  },
+  {
+   "no": "lib_潘玮柏_-_壁虎漫步",
+   "title": "lib_潘玮柏_-_壁虎漫步",
+   "passed": 2,
+   "total": 4,
+   "density": 9.31,
+   "range": 17,
+   "motif": 0.849,
+   "prog": null
+  },
+  {
+   "no": "lib_潘玮柏_-_我的麦克风",
+   "title": "lib_潘玮柏_-_我的麦克风",
+   "passed": 3,
+   "total": 4,
+   "density": 6.86,
+   "range": 10,
+   "motif": 0.51,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -12.4,
+     -12.4
+    ],
+    "slope": 0.0
+   }
+  },
+  {
+   "no": "lib_潘玮柏_苏芮-我想更懂你",
+   "title": "lib_潘玮柏_苏芮-我想更懂你",
+   "passed": 2,
+   "total": 4,
+   "density": 9.96,
+   "range": 24,
+   "motif": 0.64,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.8,
+     -9.7
+    ],
+    "slope": 2.1
+   }
+  },
+  {
+   "no": "lib_爱乐团王超_-_天涯",
+   "title": "lib_爱乐团王超_-_天涯",
+   "passed": 2,
+   "total": 4,
+   "density": 4.87,
+   "range": 22,
+   "motif": 0.469,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -19.3,
+     -11.4
+    ],
+    "slope": 7.9
+   }
+  },
+  {
+   "no": "lib_爱乐团王超_-_放开",
+   "title": "lib_爱乐团王超_-_放开",
+   "passed": 1,
+   "total": 4,
+   "density": 4.77,
+   "range": 19,
+   "motif": 0.173,
+   "prog": null
+  },
+  {
+   "no": "lib_王冰洋_-_飞舞",
+   "title": "lib_王冰洋_-_飞舞",
+   "passed": 1,
+   "total": 4,
+   "density": 8.25,
+   "range": 17,
+   "motif": 0.39,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -8.8,
+     -8.2
+    ],
+    "slope": 0.6
+   }
+  },
+  {
+   "no": "lib_王力宏-Can_You_Feel_My_",
+   "title": "lib_王力宏-Can_You_Feel_My_World",
+   "passed": 2,
+   "total": 4,
+   "density": 8.0,
+   "range": 20,
+   "motif": 0.521,
+   "prog": null
+  },
+  {
+   "no": "lib_王力宏-大城小爱",
+   "title": "lib_王力宏-大城小爱",
+   "passed": 1,
+   "total": 4,
+   "density": 9.74,
+   "range": 21,
+   "motif": 0.295,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -13.7,
+     -12.8
+    ],
+    "slope": 0.9
+   }
+  },
+  {
+   "no": "lib_王力宏-我们的歌",
+   "title": "lib_王力宏-我们的歌",
+   "passed": 2,
+   "total": 4,
+   "density": 8.74,
+   "range": 26,
+   "motif": 0.406,
+   "prog": null
+  },
+  {
+   "no": "lib_王力宏-改变自己",
+   "title": "lib_王力宏-改变自己",
+   "passed": 2,
+   "total": 4,
+   "density": 6.06,
+   "range": 20,
+   "motif": 0.42,
+   "prog": null
+  },
+  {
+   "no": "lib_王力宏-花田错-Sony_Ericsso",
+   "title": "lib_王力宏-花田错-Sony_Ericsson_W900i_广告主题曲",
+   "passed": 1,
+   "total": 4,
+   "density": 10.74,
+   "range": 19,
+   "motif": 0.532,
+   "prog": null
+  },
+  {
+   "no": "lib_王力宏_-_你不知道的事",
+   "title": "lib_王力宏_-_你不知道的事",
+   "passed": 2,
+   "total": 4,
+   "density": 4.77,
+   "range": 14,
+   "motif": 0.354,
+   "prog": null
+  },
+  {
+   "no": "lib_王力宏_-_唯一",
+   "title": "lib_王力宏_-_唯一",
+   "passed": 1,
+   "total": 4,
+   "density": 5.82,
+   "range": 22,
+   "motif": 0.371,
+   "prog": null
+  },
+  {
+   "no": "lib_王力宏_-_龙的传人",
+   "title": "lib_王力宏_-_龙的传人",
+   "passed": 3,
+   "total": 4,
+   "density": 4.74,
+   "range": 8,
+   "motif": 0.502,
+   "prog": null
+  },
+  {
+   "no": "lib_王力宏_张靓颖-另一个天堂",
+   "title": "lib_王力宏_张靓颖-另一个天堂",
+   "passed": 1,
+   "total": 4,
+   "density": 8.13,
+   "range": 26,
+   "motif": 0.236,
+   "prog": null
+  },
+  {
+   "no": "lib_王娅_-_爱情错觉",
+   "title": "lib_王娅_-_爱情错觉",
+   "passed": 2,
+   "total": 4,
+   "density": 5.6,
+   "range": 20,
+   "motif": 0.475,
+   "prog": null
+  },
+  {
+   "no": "lib_王强_-_不想让你哭",
+   "title": "lib_王强_-_不想让你哭",
+   "passed": 2,
+   "total": 4,
+   "density": 5.29,
+   "range": 22,
+   "motif": 0.432,
+   "prog": null
+  },
+  {
+   "no": "lib_王强_-_秋天不回来",
+   "title": "lib_王强_-_秋天不回来",
+   "passed": 2,
+   "total": 4,
+   "density": 6.41,
+   "range": 22,
+   "motif": 0.488,
+   "prog": null
+  },
+  {
+   "no": "lib_王心凌-Da_Da_Da",
+   "title": "lib_王心凌-Da_Da_Da",
+   "passed": 4,
+   "total": 4,
+   "density": 4.44,
+   "range": 7,
+   "motif": 0.531,
+   "prog": {
+    "instances": 3,
+    "dbs": [
+     -9.9,
+     -9.7,
+     -9.9
+    ],
+    "slope": 0.0
+   }
+  },
+  {
+   "no": "lib_王心凌-当你",
+   "title": "lib_王心凌-当你",
+   "passed": 3,
+   "total": 4,
+   "density": 7.35,
+   "range": 16,
+   "motif": 0.468,
+   "prog": null
+  },
+  {
+   "no": "lib_王心凌-彩虹的微笑",
+   "title": "lib_王心凌-彩虹的微笑",
+   "passed": 3,
+   "total": 4,
+   "density": 5.65,
+   "range": 16,
+   "motif": 0.451,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -12.1,
+     -12.1
+    ],
+    "slope": 0.0
+   }
+  },
+  {
+   "no": "lib_王心凌-我会好好的",
+   "title": "lib_王心凌-我会好好的",
+   "passed": 2,
+   "total": 4,
+   "density": 7.53,
+   "range": 18,
+   "motif": 0.522,
+   "prog": null
+  },
+  {
+   "no": "lib_王心凌-睫毛弯弯",
+   "title": "lib_王心凌-睫毛弯弯",
+   "passed": 1,
+   "total": 4,
+   "density": 7.78,
+   "range": 25,
+   "motif": 0.396,
+   "prog": null
+  },
+  {
+   "no": "lib_王心凌-第一次爱的人",
+   "title": "lib_王心凌-第一次爱的人",
+   "passed": 3,
+   "total": 4,
+   "density": 5.52,
+   "range": 14,
+   "motif": 0.415,
+   "prog": null
+  },
+  {
+   "no": "lib_王心凌-那年夏天宁静的海",
+   "title": "lib_王心凌-那年夏天宁静的海",
+   "passed": 1,
+   "total": 4,
+   "density": 4.32,
+   "range": 17,
+   "motif": 0.335,
+   "prog": null
+  },
+  {
+   "no": "lib_王心凌_-_花的嫁纱",
+   "title": "lib_王心凌_-_花的嫁纱",
+   "passed": 2,
+   "total": 4,
+   "density": 6.03,
+   "range": 12,
+   "motif": 0.399,
+   "prog": null
+  },
+  {
+   "no": "lib_王筝-我们都是好孩子",
+   "title": "lib_王筝-我们都是好孩子",
+   "passed": 2,
+   "total": 4,
+   "density": 5.35,
+   "range": 17,
+   "motif": 0.432,
+   "prog": null
+  },
+  {
+   "no": "lib_王若琳_-_有你的快乐",
+   "title": "lib_王若琳_-_有你的快乐",
+   "passed": 2,
+   "total": 4,
+   "density": 4.62,
+   "range": 16,
+   "motif": 0.234,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.4,
+     -11.0
+    ],
+    "slope": 0.4
+   }
+  },
+  {
+   "no": "lib_王若琳_-_迷宫",
+   "title": "lib_王若琳_-_迷宫",
+   "passed": 2,
+   "total": 4,
+   "density": 7.17,
+   "range": 15,
+   "motif": 0.317,
+   "prog": null
+  },
+  {
+   "no": "lib_王菲-旋木",
+   "title": "lib_王菲-旋木",
+   "passed": 3,
+   "total": 4,
+   "density": 4.82,
+   "range": 16,
+   "motif": 0.519,
+   "prog": null
+  },
+  {
+   "no": "lib_王菲_-_容易受伤的女人",
+   "title": "lib_王菲_-_容易受伤的女人",
+   "passed": 1,
+   "total": 4,
+   "density": 7.3,
+   "range": 17,
+   "motif": 0.323,
+   "prog": null
+  },
+  {
+   "no": "lib_王菲_-_约定",
+   "title": "lib_王菲_-_约定",
+   "passed": 1,
+   "total": 4,
+   "density": 4.61,
+   "range": 17,
+   "motif": 0.162,
+   "prog": null
+  },
+  {
+   "no": "lib_王蓉-哎呀",
+   "title": "lib_王蓉-哎呀",
+   "passed": 2,
+   "total": 4,
+   "density": 5.55,
+   "range": 20,
+   "motif": 0.605,
+   "prog": null
+  },
+  {
+   "no": "lib_王蓉-我不是黄蓉",
+   "title": "lib_王蓉-我不是黄蓉",
+   "passed": 2,
+   "total": 4,
+   "density": 4.94,
+   "range": 19,
+   "motif": 0.497,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -10.1,
+     -9.3
+    ],
+    "slope": 0.8
+   }
+  },
+  {
+   "no": "lib_王蓉-爸爸妈妈",
+   "title": "lib_王蓉-爸爸妈妈",
+   "passed": 3,
+   "total": 4,
+   "density": 6.56,
+   "range": 12,
+   "motif": 0.683,
+   "prog": null
+  },
+  {
+   "no": "lib_王蓝茵_-_恶作剧",
+   "title": "lib_王蓝茵_-_恶作剧",
+   "passed": 2,
+   "total": 4,
+   "density": 8.93,
+   "range": 17,
+   "motif": 0.459,
+   "prog": null
+  },
+  {
+   "no": "lib_王鹤铮_-_爱我就跟我走",
+   "title": "lib_王鹤铮_-_爱我就跟我走",
+   "passed": 2,
+   "total": 4,
+   "density": 5.76,
+   "range": 15,
+   "motif": 0.143,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -12.0,
+     -11.2
+    ],
+    "slope": 0.8
+   }
+  },
+  {
+   "no": "lib_瞿颖_-_加速度",
+   "title": "lib_瞿颖_-_加速度",
+   "passed": 2,
+   "total": 4,
+   "density": 4.16,
+   "range": 17,
+   "motif": 0.473,
+   "prog": null
+  },
+  {
+   "no": "lib_神木与瞳_-_为你而活",
+   "title": "lib_神木与瞳_-_为你而活",
+   "passed": 1,
+   "total": 4,
+   "density": 6.18,
+   "range": 24,
+   "motif": 0.209,
+   "prog": null
+  },
+  {
+   "no": "lib_罗志祥,徐熙娣_-_恋爱达人",
+   "title": "lib_罗志祥,徐熙娣_-_恋爱达人",
+   "passed": 3,
+   "total": 4,
+   "density": 5.99,
+   "range": 12,
+   "motif": 0.486,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -13.6,
+     -11.5
+    ],
+    "slope": 2.1
+   }
+  },
+  {
+   "no": "lib_罗志祥-灰色空间-(电视剧&#39;斗鱼",
+   "title": "lib_罗志祥-灰色空间-(电视剧&#39;斗鱼Ⅱ&#39;主题曲)-《斗鱼II》电视剧主题曲",
+   "passed": 0,
+   "total": 4,
+   "density": 2.28,
+   "range": 19,
+   "motif": 0.295,
+   "prog": null
+  },
+  {
+   "no": "lib_罗志祥_-_呛司呛司",
+   "title": "lib_罗志祥_-_呛司呛司",
+   "passed": 2,
+   "total": 4,
+   "density": 5.13,
+   "range": 17,
+   "motif": 0.476,
+   "prog": null
+  },
+  {
+   "no": "lib_罗志祥_-_爱转角",
+   "title": "lib_罗志祥_-_爱转角",
+   "passed": 2,
+   "total": 4,
+   "density": 5.56,
+   "range": 19,
+   "motif": 0.406,
+   "prog": null
+  },
+  {
+   "no": "lib_罗志祥_-_狐狸精",
+   "title": "lib_罗志祥_-_狐狸精",
+   "passed": 2,
+   "total": 4,
+   "density": 8.5,
+   "range": 21,
+   "motif": 0.645,
+   "prog": null
+  },
+  {
+   "no": "lib_罗志祥_-_精舞门",
+   "title": "lib_罗志祥_-_精舞门",
+   "passed": 3,
+   "total": 4,
+   "density": 4.57,
+   "range": 10,
+   "motif": 0.589,
+   "prog": null
+  },
+  {
+   "no": "lib_罗百吉_青春美少女-I_Miss_You",
+   "title": "lib_罗百吉_青春美少女-I_Miss_You",
+   "passed": 2,
+   "total": 4,
+   "density": 5.22,
+   "range": 17,
+   "motif": 0.417,
+   "prog": null
+  },
+  {
+   "no": "lib_羽·泉_-_冷酷到底",
+   "title": "lib_羽·泉_-_冷酷到底",
+   "passed": 3,
+   "total": 4,
+   "density": 7.1,
+   "range": 14,
+   "motif": 0.516,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.2,
+     -10.0
+    ],
+    "slope": 1.2
+   }
+  },
+  {
+   "no": "lib_胡彦斌_-_红颜",
+   "title": "lib_胡彦斌_-_红颜",
+   "passed": 1,
+   "total": 4,
+   "density": 6.56,
+   "range": 18,
+   "motif": 0.339,
+   "prog": null
+  },
+  {
+   "no": "lib_胡杨林-香水有毒",
+   "title": "lib_胡杨林-香水有毒",
+   "passed": 1,
+   "total": 4,
+   "density": 4.93,
+   "range": 26,
+   "motif": 0.34,
+   "prog": null
+  },
+  {
+   "no": "lib_胡歌-六月的雨-《仙剑奇侠传》电视剧插曲",
+   "title": "lib_胡歌-六月的雨-《仙剑奇侠传》电视剧插曲",
+   "passed": 3,
+   "total": 4,
+   "density": 5.5,
+   "range": 16,
+   "motif": 0.599,
+   "prog": null
+  },
+  {
+   "no": "lib_胡歌-逍遥叹-《仙剑奇侠传》电视剧插曲",
+   "title": "lib_胡歌-逍遥叹-《仙剑奇侠传》电视剧插曲",
+   "passed": 1,
+   "total": 4,
+   "density": 5.91,
+   "range": 17,
+   "motif": 0.37,
+   "prog": null
+  },
+  {
+   "no": "lib_自然卷_-_坐在巷口的那对男女",
+   "title": "lib_自然卷_-_坐在巷口的那对男女",
+   "passed": 3,
+   "total": 4,
+   "density": 4.4,
+   "range": 27,
+   "motif": 0.401,
+   "prog": {
+    "instances": 3,
+    "dbs": [
+     -13.9,
+     -13.7,
+     -13.6
+    ],
+    "slope": 0.3
+   }
+  },
+  {
+   "no": "lib_至上励合_-_棉花糖",
+   "title": "lib_至上励合_-_棉花糖",
+   "passed": 2,
+   "total": 4,
+   "density": 6.11,
+   "range": 18,
+   "motif": 0.421,
+   "prog": null
+  },
+  {
+   "no": "lib_至上励合_-_降临",
+   "title": "lib_至上励合_-_降临",
+   "passed": 3,
+   "total": 4,
+   "density": 7.01,
+   "range": 15,
+   "motif": 0.608,
+   "prog": null
+  },
+  {
+   "no": "lib_花儿乐队_-_化蝶飞",
+   "title": "lib_花儿乐队_-_化蝶飞",
+   "passed": 3,
+   "total": 4,
+   "density": 4.76,
+   "range": 15,
+   "motif": 0.662,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -12.3,
+     -10.8
+    ],
+    "slope": 1.5
+   }
+  },
+  {
+   "no": "lib_花儿乐队_-_嘻唰唰",
+   "title": "lib_花儿乐队_-_嘻唰唰",
+   "passed": 2,
+   "total": 4,
+   "density": 4.36,
+   "range": 17,
+   "motif": 0.708,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -13.2,
+     -12.2
+    ],
+    "slope": 1.0
+   }
+  },
+  {
+   "no": "lib_花儿乐队_-_我们能不能不分手",
+   "title": "lib_花儿乐队_-_我们能不能不分手",
+   "passed": 3,
+   "total": 4,
+   "density": 4.25,
+   "range": 16,
+   "motif": 0.219,
+   "prog": {
+    "instances": 3,
+    "dbs": [
+     -15.4,
+     -12.8,
+     -12.7
+    ],
+    "slope": 2.7
+   }
+  },
+  {
+   "no": "lib_花儿乐队_-_我的果汁分你一半",
+   "title": "lib_花儿乐队_-_我的果汁分你一半",
+   "passed": 3,
+   "total": 4,
+   "density": 8.14,
+   "range": 12,
+   "motif": 0.508,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.8,
+     -11.8
+    ],
+    "slope": 0.0
+   }
+  },
+  {
+   "no": "lib_花儿乐队_-_穷开心",
+   "title": "lib_花儿乐队_-_穷开心",
+   "passed": 3,
+   "total": 4,
+   "density": 6.39,
+   "range": 15,
+   "motif": 0.601,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -9.5,
+     -9.4
+    ],
+    "slope": 0.1
+   }
+  },
+  {
+   "no": "lib_花儿乐队_-_鹊桥汇",
+   "title": "lib_花儿乐队_-_鹊桥汇",
+   "passed": 3,
+   "total": 4,
+   "density": 5.01,
+   "range": 12,
+   "motif": 0.557,
+   "prog": null
+  },
+  {
+   "no": "lib_苏打绿_-_小情歌",
+   "title": "lib_苏打绿_-_小情歌",
+   "passed": 2,
+   "total": 4,
+   "density": 5.37,
+   "range": 16,
+   "motif": 0.232,
+   "prog": null
+  },
+  {
+   "no": "lib_苏打绿_-_无与伦比的美丽",
+   "title": "lib_苏打绿_-_无与伦比的美丽",
+   "passed": 3,
+   "total": 4,
+   "density": 8.43,
+   "range": 12,
+   "motif": 0.51,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -15.7,
+     -13.2
+    ],
+    "slope": 2.5
+   }
+  },
+  {
+   "no": "lib_范玮琪,曾静玟_-_可不可以不勇敢",
+   "title": "lib_范玮琪,曾静玟_-_可不可以不勇敢",
+   "passed": 1,
+   "total": 4,
+   "density": 6.27,
+   "range": 19,
+   "motif": 0.312,
+   "prog": null
+  },
+  {
+   "no": "lib_范玮琪-一个像夏天一个像秋天",
+   "title": "lib_范玮琪-一个像夏天一个像秋天",
+   "passed": 3,
+   "total": 4,
+   "density": 5.75,
+   "range": 16,
+   "motif": 0.552,
+   "prog": null
+  },
+  {
+   "no": "lib_范玮琪-我们的纪念日",
+   "title": "lib_范玮琪-我们的纪念日",
+   "passed": 2,
+   "total": 4,
+   "density": 6.92,
+   "range": 17,
+   "motif": 0.41,
+   "prog": null
+  },
+  {
+   "no": "lib_范玮琪-是非题",
+   "title": "lib_范玮琪-是非题",
+   "passed": 2,
+   "total": 4,
+   "density": 5.51,
+   "range": 22,
+   "motif": 0.422,
+   "prog": null
+  },
+  {
+   "no": "lib_范玮琪-最初的梦想-《大长今》电视剧片头",
+   "title": "lib_范玮琪-最初的梦想-《大长今》电视剧片头曲",
+   "passed": 2,
+   "total": 4,
+   "density": 7.07,
+   "range": 18,
+   "motif": 0.406,
+   "prog": null
+  },
+  {
+   "no": "lib_范玮琪-最重要的决定",
+   "title": "lib_范玮琪-最重要的决定",
+   "passed": 2,
+   "total": 4,
+   "density": 5.46,
+   "range": 15,
+   "motif": 0.279,
+   "prog": null
+  },
+  {
+   "no": "lib_范玮琪-那些花儿",
+   "title": "lib_范玮琪-那些花儿",
+   "passed": 1,
+   "total": 4,
+   "density": 3.82,
+   "range": 14,
+   "motif": 0.379,
+   "prog": null
+  },
+  {
+   "no": "lib_范逸臣-放生-《我的野蛮女友》电影主题曲",
+   "title": "lib_范逸臣-放生-《我的野蛮女友》电影主题曲丨《PIANO》游戏主题曲",
+   "passed": 1,
+   "total": 4,
+   "density": 6.33,
+   "range": 19,
+   "motif": 0.333,
+   "prog": null
+  },
+  {
+   "no": "lib_莫文蔚_-_他不爱我",
+   "title": "lib_莫文蔚_-_他不爱我",
+   "passed": 1,
+   "total": 4,
+   "density": 6.65,
+   "range": 17,
+   "motif": 0.319,
+   "prog": null
+  },
+  {
+   "no": "lib_莫文蔚_-_外面的世界",
+   "title": "lib_莫文蔚_-_外面的世界",
+   "passed": 2,
+   "total": 4,
+   "density": 5.04,
+   "range": 8,
+   "motif": 0.323,
+   "prog": null
+  },
+  {
+   "no": "lib_莫文蔚_-_盛夏的果实",
+   "title": "lib_莫文蔚_-_盛夏的果实",
+   "passed": 2,
+   "total": 4,
+   "density": 5.08,
+   "range": 15,
+   "motif": 0.371,
+   "prog": null
+  },
+  {
+   "no": "lib_莫文蔚_-_阴天",
+   "title": "lib_莫文蔚_-_阴天",
+   "passed": 2,
+   "total": 4,
+   "density": 8.56,
+   "range": 15,
+   "motif": 0.372,
+   "prog": null
+  },
+  {
+   "no": "lib_萧亚轩-最熟悉的陌生人",
+   "title": "lib_萧亚轩-最熟悉的陌生人",
+   "passed": 1,
+   "total": 4,
+   "density": 8.21,
+   "range": 17,
+   "motif": 0.389,
+   "prog": null
+  },
+  {
+   "no": "lib_萧亚轩-表白",
+   "title": "lib_萧亚轩-表白",
+   "passed": 2,
+   "total": 4,
+   "density": 5.88,
+   "range": 19,
+   "motif": 0.679,
+   "prog": null
+  },
+  {
+   "no": "lib_萧亚轩_-_爱的主打歌",
+   "title": "lib_萧亚轩_-_爱的主打歌",
+   "passed": 3,
+   "total": 4,
+   "density": 4.28,
+   "range": 16,
+   "motif": 0.414,
+   "prog": null
+  },
+  {
+   "no": "lib_萧亚轩_-_类似爱情",
+   "title": "lib_萧亚轩_-_类似爱情",
+   "passed": 2,
+   "total": 4,
+   "density": 5.44,
+   "range": 18,
+   "motif": 0.417,
+   "prog": null
+  },
+  {
+   "no": "lib_萧敬腾_-_王妃",
+   "title": "lib_萧敬腾_-_王妃",
+   "passed": 2,
+   "total": 4,
+   "density": 5.31,
+   "range": 21,
+   "motif": 0.682,
+   "prog": null
+  },
+  {
+   "no": "lib_萧潇_-_爱要坦荡荡",
+   "title": "lib_萧潇_-_爱要坦荡荡",
+   "passed": 3,
+   "total": 4,
+   "density": 4.96,
+   "range": 7,
+   "motif": 0.578,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -17.9,
+     -12.8
+    ],
+    "slope": 5.1
+   }
+  },
+  {
+   "no": "lib_萧风_-_贝多芬的悲伤",
+   "title": "lib_萧风_-_贝多芬的悲伤",
+   "passed": 2,
+   "total": 4,
+   "density": 5.73,
+   "range": 17,
+   "motif": 0.484,
+   "prog": null
+  },
+  {
+   "no": "lib_蔡依林,周杰伦_-_布拉格广场",
+   "title": "lib_蔡依林,周杰伦_-_布拉格广场",
+   "passed": 3,
+   "total": 4,
+   "density": 6.83,
+   "range": 14,
+   "motif": 0.725,
+   "prog": null
+  },
+  {
+   "no": "lib_蔡依林,周杰伦_-_海盗",
+   "title": "lib_蔡依林,周杰伦_-_海盗",
+   "passed": 2,
+   "total": 4,
+   "density": 6.44,
+   "range": 21,
+   "motif": 0.508,
+   "prog": null
+  },
+  {
+   "no": "lib_蔡依林,周杰伦_-_骑士精神",
+   "title": "lib_蔡依林,周杰伦_-_骑士精神",
+   "passed": 1,
+   "total": 4,
+   "density": 10.54,
+   "range": 17,
+   "motif": 0.716,
+   "prog": null
+  },
+  {
+   "no": "lib_蔡依林_-_Love_Love_Love",
+   "title": "lib_蔡依林_-_Love_Love_Love",
+   "passed": 3,
+   "total": 4,
+   "density": 5.56,
+   "range": 12,
+   "motif": 0.644,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.4,
+     -10.8
+    ],
+    "slope": 0.6
+   }
+  },
+  {
+   "no": "lib_蔡依林_-_倒带",
+   "title": "lib_蔡依林_-_倒带",
+   "passed": 3,
+   "total": 4,
+   "density": 7.1,
+   "range": 16,
+   "motif": 0.487,
+   "prog": null
+  },
+  {
+   "no": "lib_蔡依林_-_天空",
+   "title": "lib_蔡依林_-_天空",
+   "passed": 2,
+   "total": 4,
+   "density": 7.35,
+   "range": 19,
+   "motif": 0.427,
+   "prog": null
+  },
+  {
+   "no": "lib_蔡依林_-_我知道你很难过",
+   "title": "lib_蔡依林_-_我知道你很难过",
+   "passed": 2,
+   "total": 4,
+   "density": 6.57,
+   "range": 15,
+   "motif": 0.16,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -18.9,
+     -13.8
+    ],
+    "slope": 5.1
+   }
+  },
+  {
+   "no": "lib_蔡依林_-_日不落",
+   "title": "lib_蔡依林_-_日不落",
+   "passed": 3,
+   "total": 4,
+   "density": 4.56,
+   "range": 12,
+   "motif": 0.595,
+   "prog": null
+  },
+  {
+   "no": "lib_蔡依林_-_爱情36计",
+   "title": "lib_蔡依林_-_爱情36计",
+   "passed": 2,
+   "total": 4,
+   "density": 5.1,
+   "range": 18,
+   "motif": 0.468,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.0,
+     -10.6
+    ],
+    "slope": 0.4
+   }
+  },
+  {
+   "no": "lib_蔡依林_-_看我72变",
+   "title": "lib_蔡依林_-_看我72变",
+   "passed": 2,
+   "total": 4,
+   "density": 5.37,
+   "range": 17,
+   "motif": 0.531,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -9.3,
+     -9.4
+    ],
+    "slope": -0.1
+   }
+  },
+  {
+   "no": "lib_蔡依林_-_舞娘",
+   "title": "lib_蔡依林_-_舞娘",
+   "passed": 3,
+   "total": 4,
+   "density": 5.08,
+   "range": 12,
+   "motif": 0.588,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -10.1,
+     -9.4
+    ],
+    "slope": 0.7
+   }
+  },
+  {
+   "no": "lib_蔡依林_-_说爱你",
+   "title": "lib_蔡依林_-_说爱你",
+   "passed": 3,
+   "total": 4,
+   "density": 6.35,
+   "range": 16,
+   "motif": 0.499,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -10.3,
+     -7.9
+    ],
+    "slope": 2.4
+   }
+  },
+  {
+   "no": "lib_蔡依林_-_野蛮游戏",
+   "title": "lib_蔡依林_-_野蛮游戏",
+   "passed": 2,
+   "total": 4,
+   "density": 4.94,
+   "range": 19,
+   "motif": 0.608,
+   "prog": null
+  },
+  {
+   "no": "lib_蔡依林_-_马德里不思议",
+   "title": "lib_蔡依林_-_马德里不思议",
+   "passed": 2,
+   "total": 4,
+   "density": 5.95,
+   "range": 12,
+   "motif": 0.392,
+   "prog": null
+  },
+  {
+   "no": "lib_蔡健雅_-_红色高跟鞋",
+   "title": "lib_蔡健雅_-_红色高跟鞋",
+   "passed": 2,
+   "total": 4,
+   "density": 5.68,
+   "range": 14,
+   "motif": 0.204,
+   "prog": null
+  },
+  {
+   "no": "lib_蔡妍_-_摇摆",
+   "title": "lib_蔡妍_-_摇摆",
+   "passed": 2,
+   "total": 4,
+   "density": 5.47,
+   "range": 17,
+   "motif": 0.507,
+   "prog": null
+  },
+  {
+   "no": "lib_蔡旻佑_-_我可以",
+   "title": "lib_蔡旻佑_-_我可以",
+   "passed": 1,
+   "total": 4,
+   "density": 5.55,
+   "range": 19,
+   "motif": 0.269,
+   "prog": null
+  },
+  {
+   "no": "lib_蔡淳佳_-_依恋",
+   "title": "lib_蔡淳佳_-_依恋",
+   "passed": 3,
+   "total": 4,
+   "density": 4.21,
+   "range": 12,
+   "motif": 0.456,
+   "prog": null
+  },
+  {
+   "no": "lib_薛之谦_-_认真的雪",
+   "title": "lib_薛之谦_-_认真的雪",
+   "passed": 2,
+   "total": 4,
+   "density": 5.44,
+   "range": 26,
+   "motif": 0.415,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -24.8,
+     -14.9
+    ],
+    "slope": 9.9
+   }
+  },
+  {
+   "no": "lib_蜜雪薇琪_-_独立",
+   "title": "lib_蜜雪薇琪_-_独立",
+   "passed": 3,
+   "total": 4,
+   "density": 7.11,
+   "range": 16,
+   "motif": 0.469,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -9.2,
+     -9.4
+    ],
+    "slope": -0.2
+   }
+  },
+  {
+   "no": "lib_袁成杰_戚薇-外滩十八号-《无懈可击之美",
+   "title": "lib_袁成杰_戚薇-外滩十八号-《无懈可击之美女如云》电视剧片尾曲",
+   "passed": 1,
+   "total": 4,
+   "density": 4.0,
+   "range": 26,
+   "motif": 0.348,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -15.0,
+     -13.9
+    ],
+    "slope": 1.1
+   }
+  },
+  {
+   "no": "lib_解小东_-_光能使者",
+   "title": "lib_解小东_-_光能使者",
+   "passed": 2,
+   "total": 4,
+   "density": 4.29,
+   "range": 15,
+   "motif": 0.331,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -14.5,
+     -14.9
+    ],
+    "slope": -0.4
+   }
+  },
+  {
+   "no": "lib_誓言-求佛",
+   "title": "lib_誓言-求佛",
+   "passed": 1,
+   "total": 4,
+   "density": 8.4,
+   "range": 24,
+   "motif": 0.328,
+   "prog": null
+  },
+  {
+   "no": "lib_许哲珮_-_气球",
+   "title": "lib_许哲珮_-_气球",
+   "passed": 2,
+   "total": 4,
+   "density": 10.24,
+   "range": 16,
+   "motif": 0.76,
+   "prog": null
+  },
+  {
+   "no": "lib_许嵩,何曼婷_-_素颜",
+   "title": "lib_许嵩,何曼婷_-_素颜",
+   "passed": 2,
+   "total": 4,
+   "density": 7.85,
+   "range": 17,
+   "motif": 0.601,
+   "prog": null
+  },
+  {
+   "no": "lib_许嵩-你若成风-7e209175364c",
+   "title": "lib_许嵩-你若成风-7e209175364c",
+   "passed": 2,
+   "total": 4,
+   "density": 8.09,
+   "range": 22,
+   "motif": 0.62,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -15.9,
+     -14.0
+    ],
+    "slope": 1.9
+   }
+  },
+  {
+   "no": "lib_许嵩-如果当时-网友别名：假如你我只是初",
+   "title": "lib_许嵩-如果当时-网友别名：假如你我只是初见",
+   "passed": 1,
+   "total": 4,
+   "density": 5.43,
+   "range": 24,
+   "motif": 0.295,
+   "prog": null
+  },
+  {
+   "no": "lib_许嵩-有何不可",
+   "title": "lib_许嵩-有何不可",
+   "passed": 2,
+   "total": 4,
+   "density": 6.85,
+   "range": 17,
+   "motif": 0.543,
+   "prog": null
+  },
+  {
+   "no": "lib_许嵩_-_你若成风",
+   "title": "lib_许嵩_-_你若成风",
+   "passed": 2,
+   "total": 4,
+   "density": 8.23,
+   "range": 21,
+   "motif": 0.625,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -13.5,
+     -11.6
+    ],
+    "slope": 1.9
+   }
+  },
+  {
+   "no": "lib_许嵩_-_千百度",
+   "title": "lib_许嵩_-_千百度",
+   "passed": 1,
+   "total": 4,
+   "density": 5.26,
+   "range": 20,
+   "motif": 0.368,
+   "prog": null
+  },
+  {
+   "no": "lib_许嵩_-_半城烟沙",
+   "title": "lib_许嵩_-_半城烟沙",
+   "passed": 3,
+   "total": 4,
+   "density": 7.94,
+   "range": 14,
+   "motif": 0.615,
+   "prog": null
+  },
+  {
+   "no": "lib_许嵩_-_叹服",
+   "title": "lib_许嵩_-_叹服",
+   "passed": 1,
+   "total": 4,
+   "density": 8.0,
+   "range": 18,
+   "motif": 0.369,
+   "prog": null
+  },
+  {
+   "no": "lib_许嵩_-_城府",
+   "title": "lib_许嵩_-_城府",
+   "passed": 2,
+   "total": 4,
+   "density": 8.96,
+   "range": 19,
+   "motif": 0.445,
+   "prog": null
+  },
+  {
+   "no": "lib_许嵩_-_断桥残雪",
+   "title": "lib_许嵩_-_断桥残雪",
+   "passed": 2,
+   "total": 4,
+   "density": 5.09,
+   "range": 20,
+   "motif": 0.454,
+   "prog": null
+  },
+  {
+   "no": "lib_许嵩_-_有何不可",
+   "title": "lib_许嵩_-_有何不可",
+   "passed": 2,
+   "total": 4,
+   "density": 6.85,
+   "range": 17,
+   "motif": 0.543,
+   "prog": null
+  },
+  {
+   "no": "lib_许嵩_-_清明雨上",
+   "title": "lib_许嵩_-_清明雨上",
+   "passed": 1,
+   "total": 4,
+   "density": 5.66,
+   "range": 24,
+   "motif": 0.305,
+   "prog": null
+  },
+  {
+   "no": "lib_许嵩_-_灰色头像",
+   "title": "lib_许嵩_-_灰色头像",
+   "passed": 1,
+   "total": 4,
+   "density": 8.05,
+   "range": 20,
+   "motif": 0.339,
+   "prog": null
+  },
+  {
+   "no": "lib_许嵩_-_玫瑰花的葬礼",
+   "title": "lib_许嵩_-_玫瑰花的葬礼",
+   "passed": 2,
+   "total": 4,
+   "density": 8.34,
+   "range": 17,
+   "motif": 0.656,
+   "prog": null
+  },
+  {
+   "no": "lib_许巍_-_旅行",
+   "title": "lib_许巍_-_旅行",
+   "passed": 1,
+   "total": 4,
+   "density": 4.87,
+   "range": 20,
+   "motif": 0.249,
+   "prog": null
+  },
+  {
+   "no": "lib_许巍_-_曾经的你",
+   "title": "lib_许巍_-_曾经的你",
+   "passed": 2,
+   "total": 4,
+   "density": 4.7,
+   "range": 22,
+   "motif": 0.551,
+   "prog": null
+  },
+  {
+   "no": "lib_许巍_-_蓝莲花",
+   "title": "lib_许巍_-_蓝莲花",
+   "passed": 1,
+   "total": 4,
+   "density": 3.61,
+   "range": 21,
+   "motif": 0.443,
+   "prog": null
+  },
+  {
+   "no": "lib_许慧欣_-_七月七日晴",
+   "title": "lib_许慧欣_-_七月七日晴",
+   "passed": 2,
+   "total": 4,
+   "density": 8.5,
+   "range": 15,
+   "motif": 0.339,
+   "prog": null
+  },
+  {
+   "no": "lib_许绍洋_-_花香",
+   "title": "lib_许绍洋_-_花香",
+   "passed": 2,
+   "total": 4,
+   "density": 4.49,
+   "range": 17,
+   "motif": 0.503,
+   "prog": null
+  },
+  {
+   "no": "lib_许茹芸_-_独角戏",
+   "title": "lib_许茹芸_-_独角戏",
+   "passed": 2,
+   "total": 4,
+   "density": 4.22,
+   "range": 16,
+   "motif": 0.329,
+   "prog": null
+  },
+  {
+   "no": "lib_谢军-那一夜",
+   "title": "lib_谢军-那一夜",
+   "passed": 2,
+   "total": 4,
+   "density": 4.27,
+   "range": 17,
+   "motif": 0.57,
+   "prog": null
+  },
+  {
+   "no": "lib_谢娜-菠萝菠萝蜜",
+   "title": "lib_谢娜-菠萝菠萝蜜",
+   "passed": 3,
+   "total": 4,
+   "density": 4.81,
+   "range": 12,
+   "motif": 0.546,
+   "prog": null
+  },
+  {
+   "no": "lib_谢霆锋-因为爱所以爱",
+   "title": "lib_谢霆锋-因为爱所以爱",
+   "passed": 2,
+   "total": 4,
+   "density": 5.5,
+   "range": 22,
+   "motif": 0.407,
+   "prog": null
+  },
+  {
+   "no": "lib_贺一航-一个人的寂寞两个人的错",
+   "title": "lib_贺一航-一个人的寂寞两个人的错",
+   "passed": 2,
+   "total": 4,
+   "density": 8.88,
+   "range": 19,
+   "motif": 0.47,
+   "prog": null
+  },
+  {
+   "no": "lib_逃跑计划_-_夜空中最亮的星",
+   "title": "lib_逃跑计划_-_夜空中最亮的星",
+   "passed": 2,
+   "total": 4,
+   "density": 4.38,
+   "range": 26,
+   "motif": 0.42,
+   "prog": null
+  },
+  {
+   "no": "lib_那英,孙楠_-_只要有你",
+   "title": "lib_那英,孙楠_-_只要有你",
+   "passed": 1,
+   "total": 4,
+   "density": 6.0,
+   "range": 28,
+   "motif": 0.088,
+   "prog": null
+  },
+  {
+   "no": "lib_邱永传-十一年",
+   "title": "lib_邱永传-十一年",
+   "passed": 2,
+   "total": 4,
+   "density": 5.31,
+   "range": 12,
+   "motif": 0.388,
+   "prog": null
+  },
+  {
+   "no": "lib_邵雨涵-拉拉爱",
+   "title": "lib_邵雨涵-拉拉爱",
+   "passed": 2,
+   "total": 4,
+   "density": 5.2,
+   "range": 19,
+   "motif": 0.4,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -10.4,
+     -7.7
+    ],
+    "slope": 2.7
+   }
+  },
+  {
+   "no": "lib_郑智化-水手",
+   "title": "lib_郑智化-水手",
+   "passed": 3,
+   "total": 4,
+   "density": 6.67,
+   "range": 14,
+   "motif": 0.4,
+   "prog": null
+  },
+  {
+   "no": "lib_郑源-一万个理由",
+   "title": "lib_郑源-一万个理由",
+   "passed": 2,
+   "total": 4,
+   "density": 8.32,
+   "range": 19,
+   "motif": 0.639,
+   "prog": null
+  },
+  {
+   "no": "lib_郑源-不要在我寂寞的时候说爱我",
+   "title": "lib_郑源-不要在我寂寞的时候说爱我",
+   "passed": 1,
+   "total": 4,
+   "density": 5.23,
+   "range": 24,
+   "motif": 0.376,
+   "prog": null
+  },
+  {
+   "no": "lib_郑源-怎么会狠心伤害我",
+   "title": "lib_郑源-怎么会狠心伤害我",
+   "passed": 1,
+   "total": 4,
+   "density": 6.81,
+   "range": 19,
+   "motif": 0.3,
+   "prog": null
+  },
+  {
+   "no": "lib_郑源-我不后悔",
+   "title": "lib_郑源-我不后悔",
+   "passed": 2,
+   "total": 4,
+   "density": 8.81,
+   "range": 17,
+   "motif": 0.459,
+   "prog": null
+  },
+  {
+   "no": "lib_郑秀文-值得",
+   "title": "lib_郑秀文-值得",
+   "passed": 1,
+   "total": 4,
+   "density": 5.53,
+   "range": 19,
+   "motif": 0.321,
+   "prog": null
+  },
+  {
+   "no": "lib_郑秀文_-_独一无二",
+   "title": "lib_郑秀文_-_独一无二",
+   "passed": 3,
+   "total": 4,
+   "density": 4.58,
+   "range": 12,
+   "motif": 0.489,
+   "prog": null
+  },
+  {
+   "no": "lib_郑秀文_-_眉飞色舞",
+   "title": "lib_郑秀文_-_眉飞色舞",
+   "passed": 3,
+   "total": 4,
+   "density": 4.19,
+   "range": 16,
+   "motif": 0.662,
+   "prog": null
+  },
+  {
+   "no": "lib_郭美美_-_不怕不怕",
+   "title": "lib_郭美美_-_不怕不怕",
+   "passed": 2,
+   "total": 4,
+   "density": 4.88,
+   "range": 18,
+   "motif": 0.577,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -8.9,
+     -7.1
+    ],
+    "slope": 1.8
+   }
+  },
+  {
+   "no": "lib_郭静-下一个天亮",
+   "title": "lib_郭静-下一个天亮",
+   "passed": 1,
+   "total": 4,
+   "density": 6.63,
+   "range": 17,
+   "motif": 0.348,
+   "prog": null
+  },
+  {
+   "no": "lib_郭静-在树上唱歌",
+   "title": "lib_郭静-在树上唱歌",
+   "passed": 1,
+   "total": 4,
+   "density": 6.24,
+   "range": 17,
+   "motif": 0.284,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -22.9,
+     -10.5
+    ],
+    "slope": 12.4
+   }
+  },
+  {
+   "no": "lib_郭静-心墙-电视剧《花样男子》的片尾曲丨",
+   "title": "lib_郭静-心墙-电视剧《花样男子》的片尾曲丨电视剧《海豚爱上猫》的插曲",
+   "passed": 2,
+   "total": 4,
+   "density": 7.72,
+   "range": 14,
+   "motif": 0.296,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -16.3,
+     -10.8
+    ],
+    "slope": 5.5
+   }
+  },
+  {
+   "no": "lib_金海心_-_悲伤的秋千",
+   "title": "lib_金海心_-_悲伤的秋千",
+   "passed": 3,
+   "total": 4,
+   "density": 5.6,
+   "range": 14,
+   "motif": 0.414,
+   "prog": null
+  },
+  {
+   "no": "lib_金海心_-_那么骄傲",
+   "title": "lib_金海心_-_那么骄傲",
+   "passed": 3,
+   "total": 4,
+   "density": 7.02,
+   "range": 12,
+   "motif": 0.568,
+   "prog": null
+  },
+  {
+   "no": "lib_金玟岐_-_岁月神偷",
+   "title": "lib_金玟岐_-_岁月神偷",
+   "passed": 2,
+   "total": 4,
+   "density": 8.57,
+   "range": 19,
+   "motif": 0.477,
+   "prog": null
+  },
+  {
+   "no": "lib_金莎_-_星月神话",
+   "title": "lib_金莎_-_星月神话",
+   "passed": 1,
+   "total": 4,
+   "density": 4.65,
+   "range": 18,
+   "motif": 0.271,
+   "prog": null
+  },
+  {
+   "no": "lib_阳一_-_回来我的爱(网络版)",
+   "title": "lib_阳一_-_回来我的爱(网络版)",
+   "passed": 0,
+   "total": 4,
+   "density": 3.85,
+   "range": 17,
+   "motif": 0.381,
+   "prog": null
+  },
+  {
+   "no": "lib_阿木_-_有一种爱叫做放手",
+   "title": "lib_阿木_-_有一种爱叫做放手",
+   "passed": 2,
+   "total": 4,
+   "density": 8.68,
+   "range": 23,
+   "motif": 0.417,
+   "prog": null
+  },
+  {
+   "no": "lib_阿木_-_追梦人",
+   "title": "lib_阿木_-_追梦人",
+   "passed": 1,
+   "total": 4,
+   "density": 7.84,
+   "range": 17,
+   "motif": 0.296,
+   "prog": null
+  },
+  {
+   "no": "lib_阿杜_-_Andy",
+   "title": "lib_阿杜_-_Andy",
+   "passed": 2,
+   "total": 4,
+   "density": 6.52,
+   "range": 19,
+   "motif": 0.454,
+   "prog": null
+  },
+  {
+   "no": "lib_阿杜_-_他一定很爱你",
+   "title": "lib_阿杜_-_他一定很爱你",
+   "passed": 3,
+   "total": 4,
+   "density": 5.72,
+   "range": 15,
+   "motif": 0.463,
+   "prog": null
+  },
+  {
+   "no": "lib_阿杜_-_坚持到底",
+   "title": "lib_阿杜_-_坚持到底",
+   "passed": 2,
+   "total": 4,
+   "density": 7.95,
+   "range": 12,
+   "motif": 0.377,
+   "prog": null
+  },
+  {
+   "no": "lib_阿杜_-_撕夜",
+   "title": "lib_阿杜_-_撕夜",
+   "passed": 3,
+   "total": 4,
+   "density": 7.6,
+   "range": 16,
+   "motif": 0.565,
+   "prog": null
+  },
+  {
+   "no": "lib_阿杜_-_离别",
+   "title": "lib_阿杜_-_离别",
+   "passed": 1,
+   "total": 4,
+   "density": 6.27,
+   "range": 19,
+   "motif": 0.379,
+   "prog": null
+  },
+  {
+   "no": "lib_阿桑-一直很安静-《仙剑奇侠传》插曲",
+   "title": "lib_阿桑-一直很安静-《仙剑奇侠传》插曲",
+   "passed": 1,
+   "total": 4,
+   "density": 4.34,
+   "range": 17,
+   "motif": 0.318,
+   "prog": null
+  },
+  {
+   "no": "lib_阿桑-寂寞在唱歌",
+   "title": "lib_阿桑-寂寞在唱歌",
+   "passed": 2,
+   "total": 4,
+   "density": 2.97,
+   "range": 9,
+   "motif": 0.67,
+   "prog": null
+  },
+  {
+   "no": "lib_阿桑-温柔的慈悲",
+   "title": "lib_阿桑-温柔的慈悲",
+   "passed": 1,
+   "total": 4,
+   "density": 8.1,
+   "range": 17,
+   "motif": 0.302,
+   "prog": null
+  },
+  {
+   "no": "lib_阿桑-野百合也有春天",
+   "title": "lib_阿桑-野百合也有春天",
+   "passed": 1,
+   "total": 4,
+   "density": 4.04,
+   "range": 17,
+   "motif": 0.36,
+   "prog": null
+  },
+  {
+   "no": "lib_阿牛_-_桃花朵朵开",
+   "title": "lib_阿牛_-_桃花朵朵开",
+   "passed": 3,
+   "total": 4,
+   "density": 4.67,
+   "range": 12,
+   "motif": 0.439,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -14.1,
+     -11.5
+    ],
+    "slope": 2.6
+   }
+  },
+  {
+   "no": "lib_阿里郎_-_兰花指",
+   "title": "lib_阿里郎_-_兰花指",
+   "passed": 1,
+   "total": 4,
+   "density": 5.44,
+   "range": 21,
+   "motif": 0.246,
+   "prog": null
+  },
+  {
+   "no": "lib_陈冠蒲_-_太多",
+   "title": "lib_陈冠蒲_-_太多",
+   "passed": 2,
+   "total": 4,
+   "density": 4.69,
+   "range": 19,
+   "motif": 0.52,
+   "prog": null
+  },
+  {
+   "no": "lib_陈坤_-_月半弯",
+   "title": "lib_陈坤_-_月半弯",
+   "passed": 2,
+   "total": 4,
+   "density": 4.27,
+   "range": 16,
+   "motif": 0.298,
+   "prog": null
+  },
+  {
+   "no": "lib_陈奕迅-十年-《明年今日》国语版丨《隐婚",
+   "title": "lib_陈奕迅-十年-《明年今日》国语版丨《隐婚男女》电影插曲丨《摆渡人》电影插曲",
+   "passed": 1,
+   "total": 4,
+   "density": 7.79,
+   "range": 19,
+   "motif": 0.256,
+   "prog": null
+  },
+  {
+   "no": "lib_陈奕迅_-_好久不见",
+   "title": "lib_陈奕迅_-_好久不见",
+   "passed": 1,
+   "total": 4,
+   "density": 4.37,
+   "range": 17,
+   "motif": 0.368,
+   "prog": null
+  },
+  {
+   "no": "lib_陈奕迅_-_富士山下",
+   "title": "lib_陈奕迅_-_富士山下",
+   "passed": 2,
+   "total": 4,
+   "density": 5.98,
+   "range": 17,
+   "motif": 0.586,
+   "prog": null
+  },
+  {
+   "no": "lib_陈奕迅_-_浮夸",
+   "title": "lib_陈奕迅_-_浮夸",
+   "passed": 1,
+   "total": 4,
+   "density": 4.17,
+   "range": 20,
+   "motif": 0.342,
+   "prog": null
+  },
+  {
+   "no": "lib_陈奕迅_-_淘汰",
+   "title": "lib_陈奕迅_-_淘汰",
+   "passed": 2,
+   "total": 4,
+   "density": 6.05,
+   "range": 12,
+   "motif": 0.311,
+   "prog": null
+  },
+  {
+   "no": "lib_陈奕迅_-_爱情转移",
+   "title": "lib_陈奕迅_-_爱情转移",
+   "passed": 2,
+   "total": 4,
+   "density": 5.96,
+   "range": 17,
+   "motif": 0.562,
+   "prog": null
+  },
+  {
+   "no": "lib_陈奕迅_-_红玫瑰",
+   "title": "lib_陈奕迅_-_红玫瑰",
+   "passed": 2,
+   "total": 4,
+   "density": 8.39,
+   "range": 16,
+   "motif": 0.386,
+   "prog": null
+  },
+  {
+   "no": "lib_陈小春-独家记忆",
+   "title": "lib_陈小春-独家记忆",
+   "passed": 1,
+   "total": 4,
+   "density": 5.2,
+   "range": 17,
+   "motif": 0.286,
+   "prog": null
+  },
+  {
+   "no": "lib_陈小春_-_算你狠",
+   "title": "lib_陈小春_-_算你狠",
+   "passed": 2,
+   "total": 4,
+   "density": 6.16,
+   "range": 17,
+   "motif": 0.625,
+   "prog": null
+  },
+  {
+   "no": "lib_陈慧琳_-_不如跳舞",
+   "title": "lib_陈慧琳_-_不如跳舞",
+   "passed": 3,
+   "total": 4,
+   "density": 5.78,
+   "range": 12,
+   "motif": 0.63,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -12.0,
+     -11.8
+    ],
+    "slope": 0.2
+   }
+  },
+  {
+   "no": "lib_陈慧琳_-_希望",
+   "title": "lib_陈慧琳_-_希望",
+   "passed": 1,
+   "total": 4,
+   "density": 2.65,
+   "range": 14,
+   "motif": 0.231,
+   "prog": null
+  },
+  {
+   "no": "lib_陈慧琳_-_花花宇宙",
+   "title": "lib_陈慧琳_-_花花宇宙",
+   "passed": 3,
+   "total": 4,
+   "density": 4.83,
+   "range": 14,
+   "motif": 0.481,
+   "prog": null
+  },
+  {
+   "no": "lib_陈慧琳_-_记事本",
+   "title": "lib_陈慧琳_-_记事本",
+   "passed": 2,
+   "total": 4,
+   "density": 5.18,
+   "range": 16,
+   "motif": 0.32,
+   "prog": null
+  },
+  {
+   "no": "lib_陈旭_-_哥只是个传说",
+   "title": "lib_陈旭_-_哥只是个传说",
+   "passed": 1,
+   "total": 4,
+   "density": 8.12,
+   "range": 18,
+   "motif": 0.33,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -13.8,
+     -13.4
+    ],
+    "slope": 0.4
+   }
+  },
+  {
+   "no": "lib_陈旭_-_边做边爱",
+   "title": "lib_陈旭_-_边做边爱",
+   "passed": 1,
+   "total": 4,
+   "density": 5.91,
+   "range": 30,
+   "motif": 0.269,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.5,
+     -11.1
+    ],
+    "slope": 0.4
+   }
+  },
+  {
+   "no": "lib_陈明-快乐老家",
+   "title": "lib_陈明-快乐老家",
+   "passed": 3,
+   "total": 4,
+   "density": 5.47,
+   "range": 15,
+   "motif": 0.514,
+   "prog": null
+  },
+  {
+   "no": "lib_陈明-等你爱我-《将爱情进行到底》电视剧",
+   "title": "lib_陈明-等你爱我-《将爱情进行到底》电视剧主题曲",
+   "passed": 2,
+   "total": 4,
+   "density": 6.68,
+   "range": 17,
+   "motif": 0.402,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -17.1,
+     -18.6
+    ],
+    "slope": -1.5
+   }
+  },
+  {
+   "no": "lib_陈明_-_我要找到你",
+   "title": "lib_陈明_-_我要找到你",
+   "passed": 3,
+   "total": 4,
+   "density": 4.85,
+   "range": 16,
+   "motif": 0.591,
+   "prog": null
+  },
+  {
+   "no": "lib_陈楚生,苏醒,魏晨_-_我最闪亮",
+   "title": "lib_陈楚生,苏醒,魏晨_-_我最闪亮",
+   "passed": 1,
+   "total": 4,
+   "density": 9.09,
+   "range": 17,
+   "motif": 0.359,
+   "prog": null
+  },
+  {
+   "no": "lib_陈楚生_-_有没有人告诉你",
+   "title": "lib_陈楚生_-_有没有人告诉你",
+   "passed": 2,
+   "total": 4,
+   "density": 5.98,
+   "range": 21,
+   "motif": 0.497,
+   "prog": null
+  },
+  {
+   "no": "lib_陈琳-爱就爱了",
+   "title": "lib_陈琳-爱就爱了",
+   "passed": 1,
+   "total": 4,
+   "density": 3.37,
+   "range": 14,
+   "motif": 0.325,
+   "prog": null
+  },
+  {
+   "no": "lib_陈绮贞-旅行的意义",
+   "title": "lib_陈绮贞-旅行的意义",
+   "passed": 2,
+   "total": 4,
+   "density": 6.37,
+   "range": 16,
+   "motif": 0.309,
+   "prog": null
+  },
+  {
+   "no": "lib_陶喆,蔡依林_-_今天你要嫁给我",
+   "title": "lib_陶喆,蔡依林_-_今天你要嫁给我",
+   "passed": 3,
+   "total": 4,
+   "density": 5.67,
+   "range": 12,
+   "motif": 0.428,
+   "prog": null
+  },
+  {
+   "no": "lib_陶喆_-_Melody",
+   "title": "lib_陶喆_-_Melody",
+   "passed": 2,
+   "total": 4,
+   "density": 5.31,
+   "range": 17,
+   "motif": 0.574,
+   "prog": null
+  },
+  {
+   "no": "lib_陶喆_-_就是爱你",
+   "title": "lib_陶喆_-_就是爱你",
+   "passed": 1,
+   "total": 4,
+   "density": 6.24,
+   "range": 24,
+   "motif": 0.271,
+   "prog": null
+  },
+  {
+   "no": "lib_陶喆_-_爱我还是他",
+   "title": "lib_陶喆_-_爱我还是他",
+   "passed": 1,
+   "total": 4,
+   "density": 5.97,
+   "range": 18,
+   "motif": 0.277,
+   "prog": null
+  },
+  {
+   "no": "lib_陶喆_-_爱，很简单",
+   "title": "lib_陶喆_-_爱，很简单",
+   "passed": 1,
+   "total": 4,
+   "density": 5.14,
+   "range": 21,
+   "motif": 0.339,
+   "prog": null
+  },
+  {
+   "no": "lib_雷诺儿_-_别在我离开之前离开",
+   "title": "lib_雷诺儿_-_别在我离开之前离开",
+   "passed": 2,
+   "total": 4,
+   "density": 5.32,
+   "range": 12,
+   "motif": 0.298,
+   "prog": null
+  },
+  {
+   "no": "lib_青鸟飞鱼_-_此生不换",
+   "title": "lib_青鸟飞鱼_-_此生不换",
+   "passed": 2,
+   "total": 4,
+   "density": 4.79,
+   "range": 15,
+   "motif": 0.314,
+   "prog": null
+  },
+  {
+   "no": "lib_韩晶_-_不要用我的爱来伤害我",
+   "title": "lib_韩晶_-_不要用我的爱来伤害我",
+   "passed": 2,
+   "total": 4,
+   "density": 8.96,
+   "range": 17,
+   "motif": 0.511,
+   "prog": null
+  },
+  {
+   "no": "lib_韩晶_-_没有你的日子我真的好孤单",
+   "title": "lib_韩晶_-_没有你的日子我真的好孤单",
+   "passed": 2,
+   "total": 4,
+   "density": 5.13,
+   "range": 17,
+   "motif": 0.478,
+   "prog": null
+  },
+  {
+   "no": "lib_韩红_-_天路",
+   "title": "lib_韩红_-_天路",
+   "passed": 3,
+   "total": 4,
+   "density": 6.89,
+   "range": 16,
+   "motif": 0.575,
+   "prog": null
+  },
+  {
+   "no": "lib_韩雪_-_想起",
+   "title": "lib_韩雪_-_想起",
+   "passed": 1,
+   "total": 4,
+   "density": 4.33,
+   "range": 17,
+   "motif": 0.342,
+   "prog": null
+  },
+  {
+   "no": "lib_飞轮海-超喜欢你-《花样少年少女》电视剧",
+   "title": "lib_飞轮海-超喜欢你-《花样少年少女》电视剧插曲",
+   "passed": 2,
+   "total": 4,
+   "density": 4.18,
+   "range": 17,
+   "motif": 0.501,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -11.4,
+     -11.7
+    ],
+    "slope": -0.3
+   }
+  },
+  {
+   "no": "lib_飞轮海_田馥甄-只对你有感觉",
+   "title": "lib_飞轮海_田馥甄-只对你有感觉",
+   "passed": 2,
+   "total": 4,
+   "density": 5.83,
+   "range": 29,
+   "motif": 0.458,
+   "prog": null
+  },
+  {
+   "no": "lib_香香-猪之歌-《人怕出名猪怕壮》电影主题",
+   "title": "lib_香香-猪之歌-《人怕出名猪怕壮》电影主题曲",
+   "passed": 1,
+   "total": 4,
+   "density": 4.54,
+   "range": 17,
+   "motif": 0.357,
+   "prog": null
+  },
+  {
+   "no": "lib_香香_-_老鼠爱大米",
+   "title": "lib_香香_-_老鼠爱大米",
+   "passed": 1,
+   "total": 4,
+   "density": 7.14,
+   "range": 17,
+   "motif": 0.358,
+   "prog": null
+  },
+  {
+   "no": "lib_马天宇-依然在一起",
+   "title": "lib_马天宇-依然在一起",
+   "passed": 1,
+   "total": 4,
+   "density": 6.99,
+   "range": 19,
+   "motif": 0.302,
+   "prog": null
+  },
+  {
+   "no": "lib_马天宇_-_该死的温柔",
+   "title": "lib_马天宇_-_该死的温柔",
+   "passed": 2,
+   "total": 4,
+   "density": 8.42,
+   "range": 31,
+   "motif": 0.413,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -12.6,
+     -9.8
+    ],
+    "slope": 2.8
+   }
+  },
+  {
+   "no": "lib_马郁_-_下辈子如果我还记得你",
+   "title": "lib_马郁_-_下辈子如果我还记得你",
+   "passed": 3,
+   "total": 4,
+   "density": 9.78,
+   "range": 13,
+   "motif": 0.512,
+   "prog": null
+  },
+  {
+   "no": "lib_高进-别想她",
+   "title": "lib_高进-别想她",
+   "passed": 1,
+   "total": 4,
+   "density": 8.04,
+   "range": 17,
+   "motif": 0.391,
+   "prog": null
+  },
+  {
+   "no": "lib_麻吉弟弟_-_电动王",
+   "title": "lib_麻吉弟弟_-_电动王",
+   "passed": 2,
+   "total": 4,
+   "density": 7.97,
+   "range": 19,
+   "motif": 0.766,
+   "prog": null
+  },
+  {
+   "no": "lib_黄义达_-_那女孩对我说",
+   "title": "lib_黄义达_-_那女孩对我说",
+   "passed": 1,
+   "total": 4,
+   "density": 5.56,
+   "range": 24,
+   "motif": 0.294,
+   "prog": null
+  },
+  {
+   "no": "lib_黄品源,莫文蔚_-_那么爱你为什么",
+   "title": "lib_黄品源,莫文蔚_-_那么爱你为什么",
+   "passed": 2,
+   "total": 4,
+   "density": 7.74,
+   "range": 17,
+   "motif": 0.45,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -14.4,
+     -13.5
+    ],
+    "slope": 0.9
+   }
+  },
+  {
+   "no": "lib_黄品源_-_你怎么舍得我难过",
+   "title": "lib_黄品源_-_你怎么舍得我难过",
+   "passed": 3,
+   "total": 4,
+   "density": 5.7,
+   "range": 12,
+   "motif": 0.489,
+   "prog": null
+  },
+  {
+   "no": "lib_黄品源_-_小薇",
+   "title": "lib_黄品源_-_小薇",
+   "passed": 2,
+   "total": 4,
+   "density": 4.6,
+   "range": 15,
+   "motif": 0.333,
+   "prog": null
+  },
+  {
+   "no": "lib_黄国俊_-_真爱你的云",
+   "title": "lib_黄国俊_-_真爱你的云",
+   "passed": 1,
+   "total": 4,
+   "density": 4.34,
+   "range": 20,
+   "motif": 0.307,
+   "prog": null
+  },
+  {
+   "no": "lib_黄小琥_-_没那么简单",
+   "title": "lib_黄小琥_-_没那么简单",
+   "passed": 1,
+   "total": 4,
+   "density": 3.65,
+   "range": 19,
+   "motif": 0.403,
+   "prog": null
+  },
+  {
+   "no": "lib_黄征_-_爱情诺曼底",
+   "title": "lib_黄征_-_爱情诺曼底",
+   "passed": 2,
+   "total": 4,
+   "density": 5.46,
+   "range": 15,
+   "motif": 0.354,
+   "prog": null
+  },
+  {
+   "no": "lib_黄征_羽·泉-奔跑-《独自等待》电影插曲",
+   "title": "lib_黄征_羽·泉-奔跑-《独自等待》电影插曲",
+   "passed": 3,
+   "total": 4,
+   "density": 4.74,
+   "range": 12,
+   "motif": 0.575,
+   "prog": null
+  },
+  {
+   "no": "lib_黄灿_-_黄玫瑰",
+   "title": "lib_黄灿_-_黄玫瑰",
+   "passed": 1,
+   "total": 4,
+   "density": 3.79,
+   "range": 17,
+   "motif": 0.642,
+   "prog": null
+  },
+  {
+   "no": "lib_黄立行_刘若英-分开旅行",
+   "title": "lib_黄立行_刘若英-分开旅行",
+   "passed": 1,
+   "total": 4,
+   "density": 6.81,
+   "range": 17,
+   "motif": 0.341,
+   "prog": null
+  },
+  {
+   "no": "lib_黄阅_-_折子戏",
+   "title": "lib_黄阅_-_折子戏",
+   "passed": 1,
+   "total": 4,
+   "density": 4.2,
+   "range": 21,
+   "motif": 0.394,
+   "prog": null
+  },
+  {
+   "no": "lib_黄雅莉_-_蝴蝶泉边",
+   "title": "lib_黄雅莉_-_蝴蝶泉边",
+   "passed": 1,
+   "total": 4,
+   "density": 8.58,
+   "range": 21,
+   "motif": 0.314,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -12.9,
+     -10.5
+    ],
+    "slope": 2.4
+   }
+  }
+ ],
+ "novel": [
+  {
+   "no": "01",
+   "title": "欠天地一笔",
+   "passed": 1,
+   "total": 4,
+   "density": 4.27,
+   "range": 24,
+   "motif": 0.236,
+   "prog": null,
+   "checks": [
+    [
+     "①音域≤16半音",
+     false
+    ],
+    [
+     "②motif重复≥40%",
+     false
+    ],
+    [
+     "③密度4-10",
+     true
+    ],
+    [
+     "④副歌递进≥3次且渐强",
+     null
+    ]
+   ]
+  },
+  {
+   "no": "02",
+   "title": "平账人",
+   "passed": 2,
+   "total": 4,
+   "density": 8.03,
+   "range": 24,
+   "motif": 0.433,
+   "prog": null,
+   "checks": [
+    [
+     "①音域≤16半音",
+     false
+    ],
+    [
+     "②motif重复≥40%",
+     true
+    ],
+    [
+     "③密度4-10",
+     true
+    ],
+    [
+     "④副歌递进≥3次且渐强",
+     null
+    ]
+   ]
+  },
+  {
+   "no": "03",
+   "title": "白户",
+   "passed": 2,
+   "total": 4,
+   "density": 8.92,
+   "range": 24,
+   "motif": 0.488,
+   "prog": null,
+   "checks": [
+    [
+     "①音域≤16半音",
+     false
+    ],
+    [
+     "②motif重复≥40%",
+     true
+    ],
+    [
+     "③密度4-10",
+     true
+    ],
+    [
+     "④副歌递进≥3次且渐强",
+     null
+    ]
+   ]
+  },
+  {
+   "no": "04",
+   "title": "剁手魔",
+   "passed": 2,
+   "total": 4,
+   "density": 6.05,
+   "range": 26,
+   "motif": 0.691,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -18.0,
+     -18.7
+    ],
+    "slope": -0.7
+   },
+   "checks": [
+    [
+     "①音域≤16半音",
+     false
+    ],
+    [
+     "②motif重复≥40%",
+     true
+    ],
+    [
+     "③密度4-10",
+     true
+    ],
+    [
+     "④副歌递进≥3次且渐强",
+     false
+    ]
+   ]
+  },
+  {
+   "no": "05",
+   "title": "心疼说成省钱",
+   "passed": 1,
+   "total": 4,
+   "density": 6.47,
+   "range": 19,
+   "motif": 0.297,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -17.5,
+     -19.2
+    ],
+    "slope": -1.7
+   },
+   "checks": [
+    [
+     "①音域≤16半音",
+     false
+    ],
+    [
+     "②motif重复≥40%",
+     false
+    ],
+    [
+     "③密度4-10",
+     true
+    ],
+    [
+     "④副歌递进≥3次且渐强",
+     false
+    ]
+   ]
+  },
+  {
+   "no": "06",
+   "title": "第320代记账人",
+   "passed": 2,
+   "total": 4,
+   "density": 6.74,
+   "range": 20,
+   "motif": 0.324,
+   "prog": {
+    "instances": 3,
+    "dbs": [
+     -16.9,
+     -16.1,
+     -16.0
+    ],
+    "slope": 0.9
+   },
+   "checks": [
+    [
+     "①音域≤16半音",
+     false
+    ],
+    [
+     "②motif重复≥40%",
+     false
+    ],
+    [
+     "③密度4-10",
+     true
+    ],
+    [
+     "④副歌递进≥3次且渐强",
+     true
+    ]
+   ]
+  },
+  {
+   "no": "07",
+   "title": "规矩",
+   "passed": 3,
+   "total": 4,
+   "density": 7.42,
+   "range": 16,
+   "motif": 0.667,
+   "prog": {
+    "instances": 2,
+    "dbs": [
+     -14.2,
+     -14.0
+    ],
+    "slope": 0.2
+   },
+   "checks": [
+    [
+     "①音域≤16半音",
+     true
+    ],
+    [
+     "②motif重复≥40%",
+     true
+    ],
+    [
+     "③密度4-10",
+     true
+    ],
+    [
+     "④副歌递进≥3次且渐强",
+     false
+    ]
+   ]
+  },
+  {
+   "no": "08",
+   "title": "月供日",
+   "passed": 1,
+   "total": 4,
+   "density": 5.15,
+   "range": 26,
+   "motif": 0.333,
+   "prog": null,
+   "checks": [
+    [
+     "①音域≤16半音",
+     false
+    ],
+    [
+     "②motif重复≥40%",
+     false
+    ],
+    [
+     "③密度4-10",
+     true
+    ],
+    [
+     "④副歌递进≥3次且渐强",
+     null
+    ]
+   ]
+  },
+  {
+   "no": "09",
+   "title": "断供",
+   "passed": 1,
+   "total": 4,
+   "density": 7.69,
+   "range": 21,
+   "motif": 0.397,
+   "prog": null,
+   "checks": [
+    [
+     "①音域≤16半音",
+     false
+    ],
+    [
+     "②motif重复≥40%",
+     false
+    ],
+    [
+     "③密度4-10",
+     true
+    ],
+    [
+     "④副歌递进≥3次且渐强",
+     null
+    ]
+   ]
+  },
+  {
+   "no": "10",
+   "title": "糕与药包",
+   "passed": 1,
+   "total": 4,
+   "density": 7.17,
+   "range": 27,
+   "motif": 0.287,
+   "prog": null,
+   "checks": [
+    [
+     "①音域≤16半音",
+     false
+    ],
+    [
+     "②motif重复≥40%",
+     false
+    ],
+    [
+     "③密度4-10",
+     true
+    ],
+    [
+     "④副歌递进≥3次且渐强",
+     null
+    ]
+   ]
+  },
+  {
+   "no": "11",
+   "title": "烂尾劫",
+   "passed": 1,
+   "total": 4,
+   "density": 4.23,
+   "range": 19,
+   "motif": 0.321,
+   "prog": {
+    "instances": 3,
+    "dbs": [
+     -19.6,
+     -18.5,
+     -21.2
+    ],
+    "slope": -1.6
+   },
+   "checks": [
+    [
+     "①音域≤16半音",
+     false
+    ],
+    [
+     "②motif重复≥40%",
+     false
+    ],
+    [
+     "③密度4-10",
+     true
+    ],
+    [
+     "④副歌递进≥3次且渐强",
+     false
+    ]
+   ]
+  },
+  {
+   "no": "12",
+   "title": "新契",
+   "passed": 2,
+   "total": 4,
+   "density": 6.03,
+   "range": 23,
+   "motif": 0.523,
+   "prog": {
+    "instances": 3,
+    "dbs": [
+     -17.3,
+     -17.2,
+     -20.3
+    ],
+    "slope": -3.0
+   },
+   "checks": [
+    [
+     "①音域≤16半音",
+     false
+    ],
+    [
+     "②motif重复≥40%",
+     true
+    ],
+    [
+     "③密度4-10",
+     true
+    ],
+    [
+     "④副歌递进≥3次且渐强",
+     false
+    ]
+   ]
+  }
+ ]
+}

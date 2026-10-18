@@ -1,0 +1,2594 @@
+[
+ {
+  "file": "01_欠天地一笔.flac",
+  "source": "YuE2",
+  "score": "0.4",
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 2362,
+   "dyn_range_db": 11.9,
+   "glide_ratio": "0.887",
+   "onset_iv_cv": 0.652,
+   "zcr": 0.4998,
+   "rms_db": -17.414060592651367,
+   "long_drift": 0.0,
+   "low_attack_ms": 46.4
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 14,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2362,
+    "ideal": 2050,
+    "score": 68.8
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 11.9,
+    "ideal": 12.5,
+    "score": 90.0
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "0.887",
+    "ideal": 0.68,
+    "score": "31.0"
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.652,
+    "ideal": 0.48,
+    "score": 14.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4998,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -17.414060592651367,
+    "ideal": -15.1,
+    "score": 42.1
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 46.4,
+    "ideal": 67.4,
+    "score": 47.5
+   }
+  ]
+ },
+ {
+  "file": "02_平账人.flac",
+  "source": "YuE2",
+  "score": "0.3",
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 2705,
+   "dyn_range_db": 15.3,
+   "glide_ratio": "0.852",
+   "onset_iv_cv": 0.506,
+   "zcr": 0.5029,
+   "rms_db": -17.883100509643555,
+   "long_drift": 0.0,
+   "low_attack_ms": 116.1
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 14,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2705,
+    "ideal": 2050,
+    "score": 34.5
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 15.3,
+    "ideal": 12.5,
+    "score": 53.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "0.852",
+    "ideal": 0.68,
+    "score": "42.7"
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.506,
+    "ideal": 0.48,
+    "score": 87.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.5029,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -17.883100509643555,
+    "ideal": -15.1,
+    "score": 30.4
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 116.1,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "03_白户.flac",
+  "source": "YuE2",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 1973,
+   "dyn_range_db": 16.9,
+   "glide_ratio": "1.102",
+   "onset_iv_cv": 1.056,
+   "zcr": 0.4813,
+   "rms_db": -19.526994705200195,
+   "long_drift": 0.0,
+   "low_attack_ms": 116.1
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 14,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1973,
+    "ideal": 2050,
+    "score": 92.3
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 16.9,
+    "ideal": 12.5,
+    "score": 26.7
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.102",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.056,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4813,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -19.526994705200195,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 116.1,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "04_剁手魔.flac",
+  "source": "YuE2",
+  "score": "0.3",
+  "metrics": {
+   "breath_dips": 17,
+   "centroid_hz": 2689,
+   "dyn_range_db": 14.9,
+   "glide_ratio": "0.665",
+   "onset_iv_cv": 0.644,
+   "zcr": 0.4942,
+   "rms_db": -19.911211013793945,
+   "long_drift": 0.0,
+   "low_attack_ms": 92.9
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 17,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2689,
+    "ideal": 2050,
+    "score": 36.1
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 14.9,
+    "ideal": 12.5,
+    "score": 60.0
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "0.665",
+    "ideal": 0.68,
+    "score": "95.0"
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.644,
+    "ideal": 0.48,
+    "score": 18.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4942,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -19.911211013793945,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 92.9,
+    "ideal": 67.4,
+    "score": 36.3
+   }
+  ]
+ },
+ {
+  "file": "05_心疼说成省钱.flac",
+  "source": "YuE2",
+  "score": 0.3,
+  "metrics": {
+   "breath_dips": 10,
+   "centroid_hz": 2149,
+   "dyn_range_db": 16.5,
+   "glide_ratio": "1.189",
+   "onset_iv_cv": 0.935,
+   "zcr": 0.4882,
+   "rms_db": -19.96257209777832,
+   "long_drift": 0.0,
+   "low_attack_ms": 46.4
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 10,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2149,
+    "ideal": 2050,
+    "score": 90.1
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 16.5,
+    "ideal": 12.5,
+    "score": 33.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.189",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.935,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4882,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -19.96257209777832,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 46.4,
+    "ideal": 67.4,
+    "score": 47.5
+   }
+  ]
+ },
+ {
+  "file": "06_第320代记账人.flac",
+  "source": "YuE2",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 15,
+   "centroid_hz": 2303,
+   "dyn_range_db": 17.7,
+   "glide_ratio": "1.248",
+   "onset_iv_cv": 1.043,
+   "zcr": 0.4905,
+   "rms_db": -20.09487533569336,
+   "long_drift": 0.0,
+   "low_attack_ms": 34.8
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 15,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2303,
+    "ideal": 2050,
+    "score": 74.7
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 17.7,
+    "ideal": 12.5,
+    "score": 13.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.248",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.043,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4905,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -20.09487533569336,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 34.8,
+    "ideal": 67.4,
+    "score": 18.5
+   }
+  ]
+ },
+ {
+  "file": "07_规矩.flac",
+  "source": "YuE2",
+  "score": 0.4,
+  "metrics": {
+   "breath_dips": 17,
+   "centroid_hz": 2170,
+   "dyn_range_db": 12.6,
+   "glide_ratio": "1.337",
+   "onset_iv_cv": 1.135,
+   "zcr": 0.503,
+   "rms_db": -18.557212829589844,
+   "long_drift": 0.0,
+   "low_attack_ms": 23.2
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 17,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2170,
+    "ideal": 2050,
+    "score": 88.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 12.6,
+    "ideal": 12.5,
+    "score": 98.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.337",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.135,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.503,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -18.557212829589844,
+    "ideal": -15.1,
+    "score": 13.6
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 23.2,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "08_月供日.flac",
+  "source": "YuE2",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 1835,
+   "dyn_range_db": 17.3,
+   "glide_ratio": "0.99",
+   "onset_iv_cv": 0.712,
+   "zcr": 0.4972,
+   "rms_db": -18.079753875732422,
+   "long_drift": 0.0,
+   "low_attack_ms": 127.7
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 14,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1835,
+    "ideal": 2050,
+    "score": 78.5
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 17.3,
+    "ideal": 12.5,
+    "score": 20.0
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "0.99",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.712,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4972,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -18.079753875732422,
+    "ideal": -15.1,
+    "score": 25.5
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 127.7,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "09_断供.flac",
+  "source": "YuE2",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 2621,
+   "dyn_range_db": 15.7,
+   "glide_ratio": "1.325",
+   "onset_iv_cv": 1.177,
+   "zcr": 0.5022,
+   "rms_db": -19.22720718383789,
+   "long_drift": 0.0,
+   "low_attack_ms": 69.7
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 14,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2621,
+    "ideal": 2050,
+    "score": 42.9
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 15.7,
+    "ideal": 12.5,
+    "score": 46.7
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.325",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.177,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.5022,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -19.22720718383789,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 69.7,
+    "ideal": 67.4,
+    "score": 94.3
+   }
+  ]
+ },
+ {
+  "file": "10_糕与药包.flac",
+  "source": "YuE2",
+  "score": 0.4,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 2042,
+   "dyn_range_db": 13.5,
+   "glide_ratio": "1.15",
+   "onset_iv_cv": 0.731,
+   "zcr": 0.4906,
+   "rms_db": -17.237154006958008,
+   "long_drift": 0.0,
+   "low_attack_ms": 34.8
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 14,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2042,
+    "ideal": 2050,
+    "score": 99.2
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 13.5,
+    "ideal": 12.5,
+    "score": 83.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.15",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.731,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4906,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -17.237154006958008,
+    "ideal": -15.1,
+    "score": 46.6
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 34.8,
+    "ideal": 67.4,
+    "score": 18.5
+   }
+  ]
+ },
+ {
+  "file": "11_烂尾劫.flac",
+  "source": "YuE2",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 15,
+   "centroid_hz": 2775,
+   "dyn_range_db": 7.7,
+   "glide_ratio": "1.237",
+   "onset_iv_cv": 0.647,
+   "zcr": 0.499,
+   "rms_db": -20.28792381286621,
+   "long_drift": 0.0,
+   "low_attack_ms": 58.0
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 15,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2775,
+    "ideal": 2050,
+    "score": 27.5
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 7.7,
+    "ideal": 12.5,
+    "score": 20.0
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.237",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.647,
+    "ideal": 0.48,
+    "score": 16.5
+   },
+   {
+    "metric": "zcr",
+    "value": 0.499,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -20.28792381286621,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 58.0,
+    "ideal": 67.4,
+    "score": 76.5
+   }
+  ]
+ },
+ {
+  "file": "12_新契.flac",
+  "source": "YuE2",
+  "score": 0.3,
+  "metrics": {
+   "breath_dips": 10,
+   "centroid_hz": 2563,
+   "dyn_range_db": 14.4,
+   "glide_ratio": "1.246",
+   "onset_iv_cv": 1.396,
+   "zcr": 0.5029,
+   "rms_db": -19.399463653564453,
+   "long_drift": 0.0,
+   "low_attack_ms": 81.3
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 10,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2563,
+    "ideal": 2050,
+    "score": 48.7
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 14.4,
+    "ideal": 12.5,
+    "score": 68.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.246",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.396,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.5029,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -19.399463653564453,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 81.3,
+    "ideal": 67.4,
+    "score": 65.3
+   }
+  ]
+ },
+ {
+  "file": "ace_01_欠天地一笔.flac",
+  "source": "ACE",
+  "score": 0.3,
+  "metrics": {
+   "breath_dips": 12,
+   "centroid_hz": 1881,
+   "dyn_range_db": 11.4,
+   "glide_ratio": "1.944",
+   "onset_iv_cv": 0.868,
+   "zcr": 0.4935,
+   "rms_db": -17.915599822998047,
+   "long_drift": 0.0,
+   "low_attack_ms": 23.2
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 12,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1881,
+    "ideal": 2050,
+    "score": 83.1
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 11.4,
+    "ideal": 12.5,
+    "score": 81.7
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.944",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.868,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4935,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -17.915599822998047,
+    "ideal": -15.1,
+    "score": 29.6
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 23.2,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "ace_06_第320代记账人.flac",
+  "source": "ACE",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 1160,
+   "dyn_range_db": 11.6,
+   "glide_ratio": "3.283",
+   "onset_iv_cv": 0.803,
+   "zcr": 0.4928,
+   "rms_db": -16.09296989440918,
+   "long_drift": 0.0,
+   "low_attack_ms": 34.8
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 14,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1160,
+    "ideal": 2050,
+    "score": 11.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 11.6,
+    "ideal": 12.5,
+    "score": 85.0
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "3.283",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.803,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4928,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -16.09296989440918,
+    "ideal": -15.1,
+    "score": 75.2
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 34.8,
+    "ideal": 67.4,
+    "score": 18.5
+   }
+  ]
+ },
+ {
+  "file": "ace_08_月供日.flac",
+  "source": "ACE",
+  "score": 0.3,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 1484,
+   "dyn_range_db": 12.3,
+   "glide_ratio": "2.031",
+   "onset_iv_cv": 1.05,
+   "zcr": 0.4929,
+   "rms_db": -17.73103904724121,
+   "long_drift": 0.0,
+   "low_attack_ms": 34.8
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 14,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1484,
+    "ideal": 2050,
+    "score": 43.4
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 12.3,
+    "ideal": 12.5,
+    "score": 96.7
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "2.031",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.05,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4929,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -17.73103904724121,
+    "ideal": -15.1,
+    "score": 34.2
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 34.8,
+    "ideal": 67.4,
+    "score": 18.5
+   }
+  ]
+ },
+ {
+  "file": "月供日_s42.flac",
+  "source": "ACE",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 13,
+   "centroid_hz": 1170,
+   "dyn_range_db": 13.0,
+   "glide_ratio": "1.556",
+   "onset_iv_cv": 1.77,
+   "zcr": 0.4873,
+   "rms_db": -22.76613426208496,
+   "long_drift": 0.0,
+   "low_attack_ms": 23.2
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 13,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1170,
+    "ideal": 2050,
+    "score": 12.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 13.0,
+    "ideal": 12.5,
+    "score": 91.7
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.556",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.77,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4873,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -22.76613426208496,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 23.2,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "月供日_s555.flac",
+  "source": "ACE",
+  "score": 0.0,
+  "metrics": {
+   "breath_dips": 15,
+   "centroid_hz": 1100,
+   "dyn_range_db": 17.8,
+   "glide_ratio": "1.193",
+   "onset_iv_cv": 2.574,
+   "zcr": 0.4885,
+   "rms_db": -24.434402465820312,
+   "long_drift": 0.0,
+   "low_attack_ms": 11.6
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 15,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1100,
+    "ideal": 2050,
+    "score": 5.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 17.8,
+    "ideal": 12.5,
+    "score": 11.7
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.193",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 2.574,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4885,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -24.434402465820312,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 11.6,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "月供日_s888.flac",
+  "source": "ACE",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 13,
+   "centroid_hz": 1181,
+   "dyn_range_db": 15.5,
+   "glide_ratio": "1.033",
+   "onset_iv_cv": 0.771,
+   "zcr": 0.4906,
+   "rms_db": -19.39080810546875,
+   "long_drift": 0.0,
+   "low_attack_ms": 23.2
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 13,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1181,
+    "ideal": 2050,
+    "score": 13.1
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 15.5,
+    "ideal": 12.5,
+    "score": 50.0
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.033",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.771,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4906,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -19.39080810546875,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 23.2,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "欠天地一笔_s42.flac",
+  "source": "ACE",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 13,
+   "centroid_hz": 1018,
+   "dyn_range_db": 10.6,
+   "glide_ratio": "1.86",
+   "onset_iv_cv": 0.778,
+   "zcr": 0.4784,
+   "rms_db": -21.1374568939209,
+   "long_drift": 0.0,
+   "low_attack_ms": 34.8
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 13,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1018,
+    "ideal": 2050,
+    "score": 0.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 10.6,
+    "ideal": 12.5,
+    "score": 68.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.86",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.778,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4784,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -21.1374568939209,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 34.8,
+    "ideal": 67.4,
+    "score": 18.5
+   }
+  ]
+ },
+ {
+  "file": "欠天地一笔_s555.flac",
+  "source": "ACE",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 12,
+   "centroid_hz": 939,
+   "dyn_range_db": 13.8,
+   "glide_ratio": "1.406",
+   "onset_iv_cv": 1.33,
+   "zcr": 0.4757,
+   "rms_db": -21.622533798217773,
+   "long_drift": 0.0,
+   "low_attack_ms": 81.3
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 12,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 939,
+    "ideal": 2050,
+    "score": 0.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 13.8,
+    "ideal": 12.5,
+    "score": 78.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.406",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.33,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4757,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -21.622533798217773,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 81.3,
+    "ideal": 67.4,
+    "score": 65.3
+   }
+  ]
+ },
+ {
+  "file": "欠天地一笔_s888.flac",
+  "source": "ACE",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 9,
+   "centroid_hz": 1048,
+   "dyn_range_db": 14.6,
+   "glide_ratio": "1.781",
+   "onset_iv_cv": 1.218,
+   "zcr": 0.4804,
+   "rms_db": -19.8348388671875,
+   "long_drift": 0.0,
+   "low_attack_ms": 34.8
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 9,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1048,
+    "ideal": 2050,
+    "score": 0.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 14.6,
+    "ideal": 12.5,
+    "score": 65.0
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.781",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.218,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4804,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -19.8348388671875,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 34.8,
+    "ideal": 67.4,
+    "score": 18.5
+   }
+  ]
+ },
+ {
+  "file": "第320代记账人_s42.flac",
+  "source": "ACE",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 11,
+   "centroid_hz": 760,
+   "dyn_range_db": 16.9,
+   "glide_ratio": "2.34",
+   "onset_iv_cv": 1.456,
+   "zcr": 0.4913,
+   "rms_db": -22.795907974243164,
+   "long_drift": 0.0,
+   "low_attack_ms": 23.2
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 11,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 760,
+    "ideal": 2050,
+    "score": 0.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 16.9,
+    "ideal": 12.5,
+    "score": 26.7
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "2.34",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.456,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4913,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -22.795907974243164,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 23.2,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "第320代记账人_s555.flac",
+  "source": "ACE",
+  "score": 0.0,
+  "metrics": {
+   "breath_dips": 11,
+   "centroid_hz": 822,
+   "dyn_range_db": 20.7,
+   "glide_ratio": "3.157",
+   "onset_iv_cv": 0.993,
+   "zcr": 0.4915,
+   "rms_db": -26.15524673461914,
+   "long_drift": 0.0,
+   "low_attack_ms": 46.4
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 11,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 822,
+    "ideal": 2050,
+    "score": 0.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 20.7,
+    "ideal": 12.5,
+    "score": 0.0
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "3.157",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.993,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4915,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -26.15524673461914,
+    "ideal": -15.1,
+    "score": 0.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 46.4,
+    "ideal": 67.4,
+    "score": 47.5
+   }
+  ]
+ },
+ {
+  "file": "第320代记账人_s888.flac",
+  "source": "ACE",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 13,
+   "centroid_hz": 769,
+   "dyn_range_db": 16.7,
+   "glide_ratio": "2.187",
+   "onset_iv_cv": 1.485,
+   "zcr": 0.4879,
+   "rms_db": -18.28697967529297,
+   "long_drift": 0.0,
+   "low_attack_ms": 23.2
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 13,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 769,
+    "ideal": 2050,
+    "score": 0.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 16.7,
+    "ideal": 12.5,
+    "score": 30.0
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "2.187",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.485,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4879,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -18.28697967529297,
+    "ideal": -15.1,
+    "score": 20.3
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 23.2,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "ace_01_欠天地一笔_s400.flac",
+  "source": "ACE-gacha",
+  "score": 0.3,
+  "metrics": {
+   "breath_dips": 10,
+   "centroid_hz": 1424,
+   "dyn_range_db": 13.1,
+   "glide_ratio": "2.057",
+   "onset_iv_cv": 1.543,
+   "zcr": 0.4887,
+   "rms_db": -15.520439147949219,
+   "long_drift": 0.0,
+   "low_attack_ms": 11.6
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 10,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1424,
+    "ideal": 2050,
+    "score": 37.4
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 13.1,
+    "ideal": 12.5,
+    "score": 90.0
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "2.057",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.543,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4887,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -15.520439147949219,
+    "ideal": -15.1,
+    "score": 89.5
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 11.6,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "ace_01_欠天地一笔_s500.flac",
+  "source": "ACE-gacha",
+  "score": 0.3,
+  "metrics": {
+   "breath_dips": 12,
+   "centroid_hz": 1562,
+   "dyn_range_db": 10.3,
+   "glide_ratio": "1.66",
+   "onset_iv_cv": 0.629,
+   "zcr": 0.494,
+   "rms_db": -15.425209045410156,
+   "long_drift": 0.0,
+   "low_attack_ms": 23.2
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 12,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1562,
+    "ideal": 2050,
+    "score": 51.2
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 10.3,
+    "ideal": 12.5,
+    "score": 63.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.66",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.629,
+    "ideal": 0.48,
+    "score": 25.5
+   },
+   {
+    "metric": "zcr",
+    "value": 0.494,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -15.425209045410156,
+    "ideal": -15.1,
+    "score": 91.9
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 23.2,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "ace_06_第320代记账人_s700.flac",
+  "source": "ACE-gacha",
+  "score": 0.0,
+  "metrics": {
+   "breath_dips": 13,
+   "centroid_hz": 921,
+   "dyn_range_db": 18.0,
+   "glide_ratio": "2.367",
+   "onset_iv_cv": 2.169,
+   "zcr": 0.4831,
+   "rms_db": -19.007877349853516,
+   "long_drift": 0.0,
+   "low_attack_ms": 23.2
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 13,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 921,
+    "ideal": 2050,
+    "score": 0.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 18.0,
+    "ideal": 12.5,
+    "score": 8.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "2.367",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 2.169,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4831,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -19.007877349853516,
+    "ideal": -15.1,
+    "score": 2.3
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 23.2,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "ace_06_第320代记账人_s800.flac",
+  "source": "ACE-gacha",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 11,
+   "centroid_hz": 997,
+   "dyn_range_db": 18.4,
+   "glide_ratio": "2.755",
+   "onset_iv_cv": 1.562,
+   "zcr": 0.4867,
+   "rms_db": -17.227821350097656,
+   "long_drift": 0.0,
+   "low_attack_ms": 58.0
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 11,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 997,
+    "ideal": 2050,
+    "score": 0.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 18.4,
+    "ideal": 12.5,
+    "score": 1.7
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "2.755",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.562,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4867,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -17.227821350097656,
+    "ideal": -15.1,
+    "score": 46.8
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 58.0,
+    "ideal": 67.4,
+    "score": 76.5
+   }
+  ]
+ },
+ {
+  "file": "ace_08_月供日_s100.flac",
+  "source": "ACE-gacha",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 16,
+   "centroid_hz": 1356,
+   "dyn_range_db": 14.6,
+   "glide_ratio": "2.281",
+   "onset_iv_cv": 1.793,
+   "zcr": 0.4914,
+   "rms_db": -18.78107452392578,
+   "long_drift": 0.0,
+   "low_attack_ms": 23.2
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 16,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1356,
+    "ideal": 2050,
+    "score": 30.6
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 14.6,
+    "ideal": 12.5,
+    "score": 65.0
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "2.281",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.793,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4914,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -18.78107452392578,
+    "ideal": -15.1,
+    "score": 8.0
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 23.2,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "ace_08_月供日_s200.flac",
+  "source": "ACE-gacha",
+  "score": 0.3,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 1293,
+   "dyn_range_db": 12.3,
+   "glide_ratio": "2.61",
+   "onset_iv_cv": 1.021,
+   "zcr": 0.4872,
+   "rms_db": -16.44625473022461,
+   "long_drift": 0.0,
+   "low_attack_ms": 34.8
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 14,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 1293,
+    "ideal": 2050,
+    "score": 24.3
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 12.3,
+    "ideal": 12.5,
+    "score": 96.7
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "2.61",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.021,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4872,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -16.44625473022461,
+    "ideal": -15.1,
+    "score": 66.3
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 34.8,
+    "ideal": 67.4,
+    "score": 18.5
+   }
+  ]
+ },
+ {
+  "file": "mastered.flac",
+  "source": "YuE2-prosody",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 15,
+   "centroid_hz": 2600,
+   "dyn_range_db": 15.3,
+   "glide_ratio": "1.022",
+   "onset_iv_cv": 0.587,
+   "zcr": 0.4867,
+   "rms_db": -18.920881271362305,
+   "long_drift": 0.0,
+   "low_attack_ms": 150.9
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 15,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2600,
+    "ideal": 2050,
+    "score": 45.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 15.3,
+    "ideal": 12.5,
+    "score": 53.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.022",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.587,
+    "ideal": 0.48,
+    "score": 46.5
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4867,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -18.920881271362305,
+    "ideal": -15.1,
+    "score": 4.5
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 150.9,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "prosody_v2.flac",
+  "source": "YuE2-prosody",
+  "score": 0.3,
+  "metrics": {
+   "breath_dips": 16,
+   "centroid_hz": 2241,
+   "dyn_range_db": 15.5,
+   "glide_ratio": "1.033",
+   "onset_iv_cv": 0.582,
+   "zcr": 0.484,
+   "rms_db": -15.78380012512207,
+   "long_drift": 0.0,
+   "low_attack_ms": 150.9
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 16,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2241,
+    "ideal": 2050,
+    "score": 80.9
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 15.5,
+    "ideal": 12.5,
+    "score": 50.0
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.033",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.582,
+    "ideal": 0.48,
+    "score": 49.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.484,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -15.78380012512207,
+    "ideal": -15.1,
+    "score": 82.9
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 150.9,
+    "ideal": 67.4,
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "file": "01_欠天地一笔_mastered.flac",
+  "source": "YuE2-v2",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 16,
+   "centroid_hz": 3046,
+   "dyn_range_db": 16.8,
+   "glide_ratio": "1.046",
+   "onset_iv_cv": 1.026,
+   "zcr": 0.5,
+   "rms_db": -18.679487228393555,
+   "long_drift": 0.0,
+   "low_attack_ms": 92.9
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 16,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 3046,
+    "ideal": 2050,
+    "score": 0.4
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 16.8,
+    "ideal": 12.5,
+    "score": 28.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.046",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.026,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.5,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -18.679487228393555,
+    "ideal": -15.1,
+    "score": 10.5
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 92.9,
+    "ideal": 67.4,
+    "score": 36.3
+   }
+  ]
+ },
+ {
+  "file": "cut_mastered.flac",
+  "source": "YuE2-v2",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 9,
+   "centroid_hz": 3020,
+   "dyn_range_db": 9.3,
+   "glide_ratio": "1.122",
+   "onset_iv_cv": 0.521,
+   "zcr": 0.5015,
+   "rms_db": -16.766149520874023,
+   "long_drift": 0.0,
+   "low_attack_ms": 81.3
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 9,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 3020,
+    "ideal": 2050,
+    "score": 3.0
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 9.3,
+    "ideal": 12.5,
+    "score": 46.7
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.122",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.521,
+    "ideal": 0.48,
+    "score": 79.5
+   },
+   {
+    "metric": "zcr",
+    "value": 0.5015,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -16.766149520874023,
+    "ideal": -15.1,
+    "score": 58.3
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 81.3,
+    "ideal": 67.4,
+    "score": 65.3
+   }
+  ]
+ },
+ {
+  "file": "raw.flac",
+  "source": "YuE2-v2",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 15,
+   "centroid_hz": 2684,
+   "dyn_range_db": 17.1,
+   "glide_ratio": "1.049",
+   "onset_iv_cv": 1.027,
+   "zcr": 0.4996,
+   "rms_db": -15.386580467224121,
+   "long_drift": 0.0,
+   "low_attack_ms": 92.9
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 15,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2684,
+    "ideal": 2050,
+    "score": 36.6
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 17.1,
+    "ideal": 12.5,
+    "score": 23.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.049",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 1.027,
+    "ideal": 0.48,
+    "score": 0.0
+   },
+   {
+    "metric": "zcr",
+    "value": 0.4996,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -15.386580467224121,
+    "ideal": -15.1,
+    "score": 92.8
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 92.9,
+    "ideal": 67.4,
+    "score": 36.3
+   }
+  ]
+ },
+ {
+  "file": "raw_cut.flac",
+  "source": "YuE2-v2",
+  "score": 0.3,
+  "metrics": {
+   "breath_dips": 9,
+   "centroid_hz": 2586,
+   "dyn_range_db": 9.4,
+   "glide_ratio": "1.124",
+   "onset_iv_cv": 0.521,
+   "zcr": 0.5016,
+   "rms_db": -14.44629192352295,
+   "long_drift": 0.0,
+   "low_attack_ms": 81.3
+  },
+  "details": [
+   {
+    "metric": "breath_dips",
+    "value": 9,
+    "ideal": 2.0,
+    "score": 0.0
+   },
+   {
+    "metric": "centroid_hz",
+    "value": 2586,
+    "ideal": 2050,
+    "score": 46.4
+   },
+   {
+    "metric": "dyn_range_db",
+    "value": 9.4,
+    "ideal": 12.5,
+    "score": 48.3
+   },
+   {
+    "metric": "glide_ratio",
+    "value": "1.124",
+    "ideal": 0.68,
+    "score": 0.0
+   },
+   {
+    "metric": "onset_iv_cv",
+    "value": 0.521,
+    "ideal": 0.48,
+    "score": 79.5
+   },
+   {
+    "metric": "zcr",
+    "value": 0.5016,
+    "ideal": 0.085,
+    "score": 0.0
+   },
+   {
+    "metric": "rms_db",
+    "value": -14.44629192352295,
+    "ideal": -15.1,
+    "score": 83.7
+   },
+   {
+    "metric": "long_drift",
+    "value": 0.0,
+    "ideal": 68.5,
+    "score": 2.1
+   },
+   {
+    "metric": "low_attack_ms",
+    "value": 81.3,
+    "ideal": 67.4,
+    "score": 65.3
+   }
+  ]
+ }
+]

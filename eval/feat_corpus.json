@@ -1,0 +1,642 @@
+[
+ {
+  "file": "Beyond_-_光辉岁月.wav",
+  "duration_s": 100.0,
+  "bpm": 73.8,
+  "key": "E major",
+  "rms_db": -22.0,
+  "dyn_p95_p10_db": 11.7,
+  "centroid_hz": 1947,
+  "rolloff_hz": 4251,
+  "zcr": 0.0816,
+  "band_share": [
+   0.2926,
+   0.65,
+   0.0469,
+   0.0104
+  ],
+  "onset_density": 1.96,
+  "onset_strength": 1.334,
+  "stereo_width": 0.296
+ },
+ {
+  "file": "BoBo-恋爱新手.wav",
+  "duration_s": 100.0,
+  "bpm": 129.2,
+  "key": "D minor",
+  "rms_db": -14.5,
+  "dyn_p95_p10_db": 9.2,
+  "centroid_hz": 2896,
+  "rolloff_hz": 6133,
+  "zcr": 0.1453,
+  "band_share": [
+   0.419,
+   0.4528,
+   0.0945,
+   0.0322
+  ],
+  "onset_density": 4.11,
+  "onset_strength": 1.341,
+  "stereo_width": 0.403
+ },
+ {
+  "file": "S_H_E-不想长大.wav",
+  "duration_s": 100.0,
+  "bpm": 92.3,
+  "key": "G minor",
+  "rms_db": -15.0,
+  "dyn_p95_p10_db": 17.1,
+  "centroid_hz": 3172,
+  "rolloff_hz": 6401,
+  "zcr": 0.163,
+  "band_share": [
+   0.553,
+   0.2761,
+   0.1286,
+   0.0416
+  ],
+  "onset_density": 3.34,
+  "onset_strength": 1.635,
+  "stereo_width": 0.392
+ },
+ {
+  "file": "S_H_E-中国话.wav",
+  "duration_s": 100.0,
+  "bpm": 99.4,
+  "key": "G minor",
+  "rms_db": -13.5,
+  "dyn_p95_p10_db": 9.6,
+  "centroid_hz": 2524,
+  "rolloff_hz": 5496,
+  "zcr": 0.1097,
+  "band_share": [
+   0.5027,
+   0.416,
+   0.0569,
+   0.0215
+  ],
+  "onset_density": 4.38,
+  "onset_strength": 1.672,
+  "stereo_width": 0.355
+ },
+ {
+  "file": "S_H_E-天灰.wav",
+  "duration_s": 100.0,
+  "bpm": 152.0,
+  "key": "G major",
+  "rms_db": -13.7,
+  "dyn_p95_p10_db": 17.6,
+  "centroid_hz": 1949,
+  "rolloff_hz": 4209,
+  "zcr": 0.0749,
+  "band_share": [
+   0.5084,
+   0.4377,
+   0.0419,
+   0.0117
+  ],
+  "onset_density": 2.48,
+  "onset_strength": 1.171,
+  "stereo_width": 0.403
+ },
+ {
+  "file": "Tank-会长大的幸福.wav",
+  "duration_s": 100.0,
+  "bpm": 73.8,
+  "key": "A major",
+  "rms_db": -13.3,
+  "dyn_p95_p10_db": 7.9,
+  "centroid_hz": 2346,
+  "rolloff_hz": 5179,
+  "zcr": 0.0943,
+  "band_share": [
+   0.4458,
+   0.4721,
+   0.0629,
+   0.0189
+  ],
+  "onset_density": 2.6,
+  "onset_strength": 1.272,
+  "stereo_width": 0.413
+ },
+ {
+  "file": "五月天_-_拥抱.wav",
+  "duration_s": 100.0,
+  "bpm": 64.6,
+  "key": "B major",
+  "rms_db": -15.9,
+  "dyn_p95_p10_db": 16.8,
+  "centroid_hz": 1690,
+  "rolloff_hz": 3369,
+  "zcr": 0.0724,
+  "band_share": [
+   0.3256,
+   0.6446,
+   0.023,
+   0.0066
+  ],
+  "onset_density": 2.67,
+  "onset_strength": 1.336,
+  "stereo_width": 0.261
+ },
+ {
+  "file": "伍佰_And_China_Blue-突然的自我-_路边野餐_电影插曲.wav",
+  "duration_s": 100.0,
+  "bpm": 78.3,
+  "key": "G# minor",
+  "rms_db": -13.5,
+  "dyn_p95_p10_db": 9.5,
+  "centroid_hz": 1886,
+  "rolloff_hz": 4156,
+  "zcr": 0.0718,
+  "band_share": [
+   0.5623,
+   0.3972,
+   0.0348,
+   0.0056
+  ],
+  "onset_density": 2.36,
+  "onset_strength": 1.177,
+  "stereo_width": 0.269
+ },
+ {
+  "file": "信乐团_-_假如.wav",
+  "duration_s": 100.0,
+  "bpm": 172.3,
+  "key": "C# minor",
+  "rms_db": -14.6,
+  "dyn_p95_p10_db": 14.7,
+  "centroid_hz": 1984,
+  "rolloff_hz": 4139,
+  "zcr": 0.0793,
+  "band_share": [
+   0.4172,
+   0.5408,
+   0.0314,
+   0.0106
+  ],
+  "onset_density": 2.68,
+  "onset_strength": 1.274,
+  "stereo_width": 0.45
+ },
+ {
+  "file": "后弦_-_苏州城外的微笑.wav",
+  "duration_s": 100.0,
+  "bpm": 66.3,
+  "key": "D# major",
+  "rms_db": -16.4,
+  "dyn_p95_p10_db": 12.1,
+  "centroid_hz": 2321,
+  "rolloff_hz": 4531,
+  "zcr": 0.1168,
+  "band_share": [
+   0.3414,
+   0.559,
+   0.0786,
+   0.0209
+  ],
+  "onset_density": 2.82,
+  "onset_strength": 1.31,
+  "stereo_width": 0.396
+ },
+ {
+  "file": "周杰伦-青花瓷.wav",
+  "duration_s": 100.0,
+  "bpm": 107.7,
+  "key": "A major",
+  "rms_db": -15.0,
+  "dyn_p95_p10_db": 11.8,
+  "centroid_hz": 1769,
+  "rolloff_hz": 3815,
+  "zcr": 0.0673,
+  "band_share": [
+   0.6339,
+   0.3321,
+   0.0253,
+   0.0079
+  ],
+  "onset_density": 2.99,
+  "onset_strength": 1.286,
+  "stereo_width": 0.34
+ },
+ {
+  "file": "唐磊_-_丁香花.wav",
+  "duration_s": 100.0,
+  "bpm": 103.4,
+  "key": "E minor",
+  "rms_db": -14.6,
+  "dyn_p95_p10_db": 16.4,
+  "centroid_hz": 1995,
+  "rolloff_hz": 4370,
+  "zcr": 0.0738,
+  "band_share": [
+   0.5241,
+   0.4261,
+   0.032,
+   0.0157
+  ],
+  "onset_density": 2.52,
+  "onset_strength": 1.363,
+  "stereo_width": 0.334
+ },
+ {
+  "file": "孙燕姿-奔.wav",
+  "duration_s": 100.0,
+  "bpm": 136.0,
+  "key": "A# minor",
+  "rms_db": -11.5,
+  "dyn_p95_p10_db": 10.4,
+  "centroid_hz": 2585,
+  "rolloff_hz": 5411,
+  "zcr": 0.1129,
+  "band_share": [
+   0.5273,
+   0.3319,
+   0.1253,
+   0.0136
+  ],
+  "onset_density": 3.26,
+  "onset_strength": 1.392,
+  "stereo_width": 0.365
+ },
+ {
+  "file": "山野_-_分开不一定分手.wav",
+  "duration_s": 100.0,
+  "bpm": 129.2,
+  "key": "D# major",
+  "rms_db": -13.7,
+  "dyn_p95_p10_db": 20.0,
+  "centroid_hz": 2373,
+  "rolloff_hz": 5155,
+  "zcr": 0.0988,
+  "band_share": [
+   0.453,
+   0.467,
+   0.0611,
+   0.0167
+  ],
+  "onset_density": 1.93,
+  "onset_strength": 1.333,
+  "stereo_width": 0.426
+ },
+ {
+  "file": "张惠妹_-_记得.wav",
+  "duration_s": 100.0,
+  "bpm": 123.0,
+  "key": "F# major",
+  "rms_db": -22.8,
+  "dyn_p95_p10_db": 19.1,
+  "centroid_hz": 1856,
+  "rolloff_hz": 3717,
+  "zcr": 0.0783,
+  "band_share": [
+   0.1895,
+   0.7678,
+   0.0319,
+   0.0108
+  ],
+  "onset_density": 2.52,
+  "onset_strength": 1.05,
+  "stereo_width": 0.357
+ },
+ {
+  "file": "张芸京_-_偏爱.wav",
+  "duration_s": 100.0,
+  "bpm": 69.8,
+  "key": "A major",
+  "rms_db": -14.9,
+  "dyn_p95_p10_db": 15.7,
+  "centroid_hz": 2194,
+  "rolloff_hz": 4881,
+  "zcr": 0.0872,
+  "band_share": [
+   0.4705,
+   0.4523,
+   0.0611,
+   0.0159
+  ],
+  "onset_density": 2.47,
+  "onset_strength": 1.273,
+  "stereo_width": 0.34
+ },
+ {
+  "file": "张韶涵_-_隐形的翅膀.wav",
+  "duration_s": 100.0,
+  "bpm": 71.8,
+  "key": "C# major",
+  "rms_db": -13.5,
+  "dyn_p95_p10_db": 10.1,
+  "centroid_hz": 1862,
+  "rolloff_hz": 3961,
+  "zcr": 0.0688,
+  "band_share": [
+   0.4154,
+   0.5494,
+   0.0247,
+   0.0102
+  ],
+  "onset_density": 1.62,
+  "onset_strength": 1.207,
+  "stereo_width": 0.315
+ },
+ {
+  "file": "方雅贤-遇到-_恶作剧之吻_电视剧主题曲.wav",
+  "duration_s": 100.0,
+  "bpm": 129.2,
+  "key": "C# major",
+  "rms_db": -22.8,
+  "dyn_p95_p10_db": 19.4,
+  "centroid_hz": 2621,
+  "rolloff_hz": 5912,
+  "zcr": 0.1087,
+  "band_share": [
+   0.3898,
+   0.5156,
+   0.0529,
+   0.0415
+  ],
+  "onset_density": 2.28,
+  "onset_strength": 1.43,
+  "stereo_width": 0.302
+ },
+ {
+  "file": "李翊君_-_雨蝶.wav",
+  "duration_s": 100.0,
+  "bpm": 64.6,
+  "key": "A# minor",
+  "rms_db": -17.4,
+  "dyn_p95_p10_db": 19.1,
+  "centroid_hz": 2178,
+  "rolloff_hz": 4797,
+  "zcr": 0.087,
+  "band_share": [
+   0.5658,
+   0.3471,
+   0.0625,
+   0.0242
+  ],
+  "onset_density": 2.57,
+  "onset_strength": 1.127,
+  "stereo_width": 0.324
+ },
+ {
+  "file": "梁静茹-小手拉大手.wav",
+  "duration_s": 100.0,
+  "bpm": 86.1,
+  "key": "C major",
+  "rms_db": -13.9,
+  "dyn_p95_p10_db": 11.5,
+  "centroid_hz": 2387,
+  "rolloff_hz": 5222,
+  "zcr": 0.0866,
+  "band_share": [
+   0.1018,
+   0.8522,
+   0.0304,
+   0.0147
+  ],
+  "onset_density": 3.58,
+  "onset_strength": 1.604,
+  "stereo_width": 0.344
+ },
+ {
+  "file": "王力宏-我们的歌.wav",
+  "duration_s": 100.0,
+  "bpm": 69.8,
+  "key": "C# major",
+  "rms_db": -14.8,
+  "dyn_p95_p10_db": 12.8,
+  "centroid_hz": 2299,
+  "rolloff_hz": 5206,
+  "zcr": 0.0811,
+  "band_share": [
+   0.7219,
+   0.2288,
+   0.0347,
+   0.0137
+  ],
+  "onset_density": 2.9,
+  "onset_strength": 1.703,
+  "stereo_width": 0.319
+ },
+ {
+  "file": "王心凌-睫毛弯弯.wav",
+  "duration_s": 100.0,
+  "bpm": 89.1,
+  "key": "A# minor",
+  "rms_db": -17.0,
+  "dyn_p95_p10_db": 12.3,
+  "centroid_hz": 2484,
+  "rolloff_hz": 5106,
+  "zcr": 0.1271,
+  "band_share": [
+   0.4356,
+   0.4517,
+   0.0917,
+   0.0193
+  ],
+  "onset_density": 3.28,
+  "onset_strength": 1.622,
+  "stereo_width": 0.331
+ },
+ {
+  "file": "花儿乐队_-_化蝶飞.wav",
+  "duration_s": 100.0,
+  "bpm": 136.0,
+  "key": "E major",
+  "rms_db": -11.6,
+  "dyn_p95_p10_db": 5.4,
+  "centroid_hz": 3135,
+  "rolloff_hz": 6678,
+  "zcr": 0.1449,
+  "band_share": [
+   0.4479,
+   0.2539,
+   0.1107,
+   0.0366
+  ],
+  "onset_density": 4.44,
+  "onset_strength": 1.388,
+  "stereo_width": 0.259
+ },
+ {
+  "file": "花儿乐队_-_我的果汁分你一半.wav",
+  "duration_s": 100.0,
+  "bpm": 95.7,
+  "key": "D major",
+  "rms_db": -14.2,
+  "dyn_p95_p10_db": 21.0,
+  "centroid_hz": 2733,
+  "rolloff_hz": 5960,
+  "zcr": 0.1303,
+  "band_share": [
+   0.4111,
+   0.4713,
+   0.0927,
+   0.0246
+  ],
+  "onset_density": 3.79,
+  "onset_strength": 1.562,
+  "stereo_width": 0.324
+ },
+ {
+  "file": "苏打绿_-_小情歌.wav",
+  "duration_s": 100.0,
+  "bpm": 129.2,
+  "key": "A major",
+  "rms_db": -17.0,
+  "dyn_p95_p10_db": 16.5,
+  "centroid_hz": 1633,
+  "rolloff_hz": 3307,
+  "zcr": 0.0705,
+  "band_share": [
+   0.3971,
+   0.5728,
+   0.0222,
+   0.0073
+  ],
+  "onset_density": 3.32,
+  "onset_strength": 1.096,
+  "stereo_width": 0.36
+ },
+ {
+  "file": "蔡依林_-_日不落.wav",
+  "duration_s": 100.0,
+  "bpm": 129.2,
+  "key": "G# major",
+  "rms_db": -11.5,
+  "dyn_p95_p10_db": 21.1,
+  "centroid_hz": 2673,
+  "rolloff_hz": 5987,
+  "zcr": 0.094,
+  "band_share": [
+   0.6916,
+   0.2418,
+   0.0433,
+   0.0207
+  ],
+  "onset_density": 3.6,
+  "onset_strength": 1.337,
+  "stereo_width": 0.246
+ },
+ {
+  "file": "蔡健雅_-_红色高跟鞋.wav",
+  "duration_s": 100.0,
+  "bpm": 89.1,
+  "key": "D major",
+  "rms_db": -11.9,
+  "dyn_p95_p10_db": 7.2,
+  "centroid_hz": 2218,
+  "rolloff_hz": 4939,
+  "zcr": 0.0792,
+  "band_share": [
+   0.6274,
+   0.3154,
+   0.0425,
+   0.0146
+  ],
+  "onset_density": 3.06,
+  "onset_strength": 1.356,
+  "stereo_width": 0.203
+ },
+ {
+  "file": "阿里郎_-_兰花指.wav",
+  "duration_s": 100.0,
+  "bpm": 103.4,
+  "key": "D major",
+  "rms_db": -13.0,
+  "dyn_p95_p10_db": 15.8,
+  "centroid_hz": 2390,
+  "rolloff_hz": 5156,
+  "zcr": 0.0981,
+  "band_share": [
+   0.5057,
+   0.3873,
+   0.0759,
+   0.0309
+  ],
+  "onset_density": 2.73,
+  "onset_strength": 1.457,
+  "stereo_width": 0.405
+ },
+ {
+  "file": "陈琳-爱就爱了.wav",
+  "duration_s": 100.0,
+  "bpm": 129.2,
+  "key": "B minor",
+  "rms_db": -11.2,
+  "dyn_p95_p10_db": 7.9,
+  "centroid_hz": 2193,
+  "rolloff_hz": 4766,
+  "zcr": 0.0873,
+  "band_share": [
+   0.4236,
+   0.5118,
+   0.0547,
+   0.0097
+  ],
+  "onset_density": 3.52,
+  "onset_strength": 1.296,
+  "stereo_width": 0.28
+ },
+ {
+  "file": "雷诺儿_-_别在我离开之前离开.wav",
+  "duration_s": 100.0,
+  "bpm": 143.6,
+  "key": "D minor",
+  "rms_db": -13.2,
+  "dyn_p95_p10_db": 6.5,
+  "centroid_hz": 2530,
+  "rolloff_hz": 5994,
+  "zcr": 0.0861,
+  "band_share": [
+   0.6397,
+   0.3015,
+   0.0413,
+   0.0163
+  ],
+  "onset_density": 2.6,
+  "onset_strength": 1.354,
+  "stereo_width": 0.258
+ },
+ {
+  "file": "香香-猪之歌-_人怕出名猪怕壮_电影主题曲.wav",
+  "duration_s": 100.0,
+  "bpm": 136.0,
+  "key": "C major",
+  "rms_db": -14.2,
+  "dyn_p95_p10_db": 19.1,
+  "centroid_hz": 2128,
+  "rolloff_hz": 4723,
+  "zcr": 0.0753,
+  "band_share": [
+   0.3089,
+   0.6407,
+   0.0301,
+   0.0178
+  ],
+  "onset_density": 3.57,
+  "onset_strength": 1.357,
+  "stereo_width": 0.278
+ },
+ {
+  "file": "黄立行_刘若英-分开旅行.wav",
+  "duration_s": 100.0,
+  "bpm": 86.1,
+  "key": "A minor",
+  "rms_db": -12.8,
+  "dyn_p95_p10_db": 7.8,
+  "centroid_hz": 2282,
+  "rolloff_hz": 5209,
+  "zcr": 0.0866,
+  "band_share": [
+   0.6349,
+   0.3119,
+   0.0392,
+   0.0116
+  ],
+  "onset_density": 3.5,
+  "onset_strength": 1.379,
+  "stereo_width": 0.42
+ }
+]

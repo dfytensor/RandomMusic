@@ -1,0 +1,115 @@
+{
+ "01": {
+  "orn": 0.43,
+  "gap": 1.79,
+  "cent": 2213,
+  "dyn": 9.0,
+  "bpm": 92.3,
+  "file": "F:\\yinyue\\novel_songs\\batch_gacha\\01\\seed90105.flac",
+  "cat": "C1",
+  "hits": 2
+ },
+ "02": {
+  "orn": 1.17,
+  "gap": 2.64,
+  "cent": 2269,
+  "dyn": 10.3,
+  "bpm": 99.4,
+  "file": "F:\\yinyue\\novel_songs\\batch_gacha\\02\\seed90202.flac",
+  "cat": "C1",
+  "hits": 1
+ },
+ "03": {
+  "orn": 0.77,
+  "gap": 1.46,
+  "cent": 1288,
+  "dyn": 20.4,
+  "bpm": 152.0,
+  "file": "F:\\yinyue\\novel_songs\\batch_gacha\\03\\seed90301.flac",
+  "cat": "C3",
+  "hits": 1
+ },
+ "04": {
+  "error": "F:\\yinyue\\novel_songs\\batch_gacha\\04\\seed90400.flac"
+ },
+ "05": {
+  "orn": 0.73,
+  "gap": 3.16,
+  "cent": 2064,
+  "dyn": 19.5,
+  "bpm": 76.0,
+  "file": "F:\\yinyue\\novel_songs\\batch_gacha\\05\\seed90505.flac",
+  "cat": "C3",
+  "hits": 3
+ },
+ "06": {
+  "orn": 0.63,
+  "gap": 2.26,
+  "cent": 2361,
+  "dyn": 7.5,
+  "bpm": 143.6,
+  "file": "F:\\yinyue\\novel_songs\\batch_gacha\\06\\seed90607.flac",
+  "cat": "C4",
+  "hits": 3
+ },
+ "07": {
+  "orn": 0.67,
+  "gap": 5.21,
+  "cent": 2949,
+  "dyn": 5.7,
+  "bpm": 123.0,
+  "file": "F:\\yinyue\\novel_songs\\batch_gacha\\07\\seed90706.flac",
+  "cat": "C2",
+  "hits": 2
+ },
+ "08": {
+  "orn": 0.83,
+  "gap": 2.07,
+  "cent": 1787,
+  "dyn": 12.0,
+  "bpm": 68.0,
+  "file": "F:\\yinyue\\novel_songs\\triple_emergence\\seed91097.flac",
+  "cat": "C1",
+  "hits": 2
+ },
+ "09": {
+  "orn": 0.87,
+  "gap": 3.97,
+  "cent": 2356,
+  "dyn": 6.7,
+  "bpm": 129.2,
+  "file": "F:\\yinyue\\novel_songs\\batch_gacha\\09\\seed90903.flac",
+  "cat": "C4",
+  "hits": 3
+ },
+ "10": {
+  "orn": 1.07,
+  "gap": 1.29,
+  "cent": 2133,
+  "dyn": 11.6,
+  "bpm": 152.0,
+  "file": "F:\\yinyue\\novel_songs\\batch_gacha\\10\\seed91005.flac",
+  "cat": "C4",
+  "hits": 1
+ },
+ "11": {
+  "orn": 0.47,
+  "gap": 1.38,
+  "cent": 3556,
+  "dyn": 6.2,
+  "bpm": 129.2,
+  "file": "F:\\yinyue\\novel_songs\\batch_gacha\\11\\seed91101.flac",
+  "cat": "C2",
+  "hits": 2
+ },
+ "12": {
+  "orn": 0.8,
+  "gap": 4.07,
+  "cent": 2822,
+  "dyn": 8.1,
+  "bpm": 117.5,
+  "file": "F:\\yinyue\\novel_songs\\batch_gacha\\12\\seed91201.flac",
+  "cat": "C2",
+  "hits": 3
+ }
+}

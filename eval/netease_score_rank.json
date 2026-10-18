@@ -1,0 +1,182 @@
+[
+ {
+  "file": "07_规矩.flac",
+  "score": 0.3,
+  "metrics": {
+   "breath_dips": 17,
+   "centroid_hz": 2170,
+   "dyn_range_db": 12.6,
+   "glide_ratio": 1.337,
+   "onset_iv_cv": 1.135,
+   "zcr": 0.503,
+   "rms_db": -18.6,
+   "long_drift_proxy": 0.0,
+   "low_attack_ms": 23.2
+  }
+ },
+ {
+  "file": "10_糕与药包.flac",
+  "score": 0.3,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 2042,
+   "dyn_range_db": 13.5,
+   "glide_ratio": 1.15,
+   "onset_iv_cv": 0.731,
+   "zcr": 0.4906,
+   "rms_db": -17.2,
+   "long_drift_proxy": 0.0,
+   "low_attack_ms": 34.8
+  }
+ },
+ {
+  "file": "01_欠天地一笔.flac",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 2362,
+   "dyn_range_db": 11.9,
+   "glide_ratio": 0.887,
+   "onset_iv_cv": 0.652,
+   "zcr": 0.4998,
+   "rms_db": -17.4,
+   "long_drift_proxy": 0.0,
+   "low_attack_ms": 46.4
+  }
+ },
+ {
+  "file": "03_白户.flac",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 1973,
+   "dyn_range_db": 16.9,
+   "glide_ratio": 1.102,
+   "onset_iv_cv": 1.056,
+   "zcr": 0.4813,
+   "rms_db": -19.5,
+   "long_drift_proxy": 0.0,
+   "low_attack_ms": 116.1
+  }
+ },
+ {
+  "file": "05_心疼说成省钱.flac",
+  "score": 0.2,
+  "metrics": {
+   "breath_dips": 10,
+   "centroid_hz": 2149,
+   "dyn_range_db": 16.5,
+   "glide_ratio": 1.189,
+   "onset_iv_cv": 0.935,
+   "zcr": 0.4882,
+   "rms_db": -20.0,
+   "long_drift_proxy": 0.0,
+   "low_attack_ms": 46.4
+  }
+ },
+ {
+  "file": "02_平账人.flac",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 2705,
+   "dyn_range_db": 15.3,
+   "glide_ratio": 0.852,
+   "onset_iv_cv": 0.506,
+   "zcr": 0.5029,
+   "rms_db": -17.9,
+   "long_drift_proxy": 0.0,
+   "low_attack_ms": 116.1
+  }
+ },
+ {
+  "file": "04_剁手魔.flac",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 17,
+   "centroid_hz": 2689,
+   "dyn_range_db": 14.9,
+   "glide_ratio": 0.665,
+   "onset_iv_cv": 0.644,
+   "zcr": 0.4942,
+   "rms_db": -19.9,
+   "long_drift_proxy": 0.0,
+   "low_attack_ms": 92.9
+  }
+ },
+ {
+  "file": "06_第320代记账人.flac",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 15,
+   "centroid_hz": 2303,
+   "dyn_range_db": 17.7,
+   "glide_ratio": 1.248,
+   "onset_iv_cv": 1.043,
+   "zcr": 0.4905,
+   "rms_db": -20.1,
+   "long_drift_proxy": 0.0,
+   "low_attack_ms": 34.8
+  }
+ },
+ {
+  "file": "08_月供日.flac",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 1835,
+   "dyn_range_db": 17.3,
+   "glide_ratio": 0.99,
+   "onset_iv_cv": 0.712,
+   "zcr": 0.4972,
+   "rms_db": -18.1,
+   "long_drift_proxy": 0.0,
+   "low_attack_ms": 127.7
+  }
+ },
+ {
+  "file": "09_断供.flac",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 14,
+   "centroid_hz": 2621,
+   "dyn_range_db": 15.7,
+   "glide_ratio": 1.325,
+   "onset_iv_cv": 1.177,
+   "zcr": 0.5022,
+   "rms_db": -19.2,
+   "long_drift_proxy": 0.0,
+   "low_attack_ms": 69.7
+  }
+ },
+ {
+  "file": "12_新契.flac",
+  "score": 0.1,
+  "metrics": {
+   "breath_dips": 10,
+   "centroid_hz": 2563,
+   "dyn_range_db": 14.4,
+   "glide_ratio": 1.246,
+   "onset_iv_cv": 1.396,
+   "zcr": 0.5029,
+   "rms_db": -19.4,
+   "long_drift_proxy": 0.0,
+   "low_attack_ms": 81.3
+  }
+ },
+ {
+  "file": "11_烂尾劫.flac",
+  "score": 0.0,
+  "metrics": {
+   "breath_dips": 15,
+   "centroid_hz": 2775,
+   "dyn_range_db": 7.7,
+   "glide_ratio": 1.237,
+   "onset_iv_cv": 0.647,
+   "zcr": 0.499,
+   "rms_db": -20.3,
+   "long_drift_proxy": 0.0,
+   "low_attack_ms": 58.0
+  }
+ }
+]

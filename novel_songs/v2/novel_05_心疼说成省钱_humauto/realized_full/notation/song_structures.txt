@@ -1,0 +1,16 @@
+0.01	1.92	intro
+1.92	14.7	intro
+14.7	40.31	verse
+40.31	53.11	verse
+53.11	69.1	verse
+69.1	81.9	chorus
+81.9	94.7	chorus
+94.7	107.5	interlude
+107.5	120.3	verse
+120.3	136.3	verse
+136.3	149.1	chorus
+149.1	161.9	chorus
+161.9	174.7	chorus
+174.7	187.5	chorus
+187.5	200.3	chorus
+200.3	206.43866666666668	outro

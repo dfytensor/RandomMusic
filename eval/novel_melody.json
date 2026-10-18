@@ -1,0 +1,206 @@
+[
+ {
+  "file": "novel_01_欠天地一笔",
+  "chain": "intro->verse->pre-chorus->chorus",
+  "total_bars": 34.7,
+  "density": 4.27,
+  "pitch_range": 24,
+  "tessitura": [
+   63,
+   77
+  ],
+  "leap_ratio": 0.296,
+  "motif_repeat": 0.236,
+  "lift_mean": 6.7,
+  "lift_max": 7.0,
+  "dens_ratio": 1.12,
+  "rest_ratio": 0.212
+ },
+ {
+  "file": "novel_02_平账人",
+  "chain": "intro->verse->pre-chorus->chorus",
+  "total_bars": 37.9,
+  "density": 8.03,
+  "pitch_range": 24,
+  "tessitura": [
+   63,
+   75
+  ],
+  "leap_ratio": 0.145,
+  "motif_repeat": 0.433,
+  "lift_mean": 6.0,
+  "lift_max": 0.0,
+  "dens_ratio": 0.78,
+  "rest_ratio": 0.079
+ },
+ {
+  "file": "novel_03_白户",
+  "chain": "intro->verse->chorus->interlude",
+  "total_bars": 29.2,
+  "density": 8.92,
+  "pitch_range": 24,
+  "tessitura": [
+   62,
+   74
+  ],
+  "leap_ratio": 0.216,
+  "motif_repeat": 0.488,
+  "lift_mean": 8.4,
+  "lift_max": 3.0,
+  "dens_ratio": 0.88,
+  "rest_ratio": 0.194
+ },
+ {
+  "file": "novel_04_剁手魔",
+  "chain": "intro->verse->chorus->interlude",
+  "total_bars": 41.2,
+  "density": 6.47,
+  "pitch_range": 20,
+  "tessitura": [
+   62,
+   74
+  ],
+  "leap_ratio": 0.22,
+  "motif_repeat": 0.63,
+  "lift_mean": 8.6,
+  "lift_max": 5.0,
+  "dens_ratio": 0.78,
+  "rest_ratio": 0.118
+ },
+ {
+  "file": "novel_05_心疼说成省钱",
+  "chain": "intro->verse->pre-chorus->chorus",
+  "total_bars": 29.6,
+  "density": 8.2,
+  "pitch_range": 19,
+  "tessitura": [
+   70,
+   82
+  ],
+  "leap_ratio": 0.116,
+  "motif_repeat": 0.416,
+  "lift_mean": 6.3,
+  "lift_max": 7.0,
+  "dens_ratio": 0.83,
+  "rest_ratio": 0.194
+ },
+ {
+  "file": "novel_06_第320代记账人",
+  "chain": "intro->verse->chorus->interlude",
+  "total_bars": 29.6,
+  "density": 5.89,
+  "pitch_range": 20,
+  "tessitura": [
+   62,
+   73
+  ],
+  "leap_ratio": 0.373,
+  "motif_repeat": 0.387,
+  "lift_mean": 3.9,
+  "lift_max": 7.0,
+  "dens_ratio": 0.88,
+  "rest_ratio": 0.268
+ },
+ {
+  "file": "novel_07_规矩",
+  "chain": "intro->verse->pre-chorus->chorus",
+  "total_bars": 19.8,
+  "density": 7.24,
+  "pitch_range": 17,
+  "tessitura": [
+   63,
+   75
+  ],
+  "leap_ratio": 0.329,
+  "motif_repeat": 0.508,
+  "lift_mean": 6.7,
+  "lift_max": 8.0,
+  "dens_ratio": 0.87,
+  "rest_ratio": 0.345
+ },
+ {
+  "file": "novel_08_月供日",
+  "chain": "intro->verse->pre-chorus->chorus",
+  "total_bars": 41.8,
+  "density": 5.1,
+  "pitch_range": 24,
+  "tessitura": [
+   60,
+   74
+  ],
+  "leap_ratio": 0.129,
+  "motif_repeat": 0.377,
+  "lift_mean": 11.2,
+  "lift_max": 12.0,
+  "dens_ratio": 0.97,
+  "rest_ratio": 0.269
+ },
+ {
+  "file": "novel_09_断供",
+  "chain": "intro->verse->pre-chorus->chorus",
+  "total_bars": 21.2,
+  "density": 7.69,
+  "pitch_range": 21,
+  "tessitura": [
+   63,
+   78
+  ],
+  "leap_ratio": 0.204,
+  "motif_repeat": 0.397,
+  "lift_mean": 8.1,
+  "lift_max": 7.0,
+  "dens_ratio": 1.17,
+  "rest_ratio": 0.248
+ },
+ {
+  "file": "novel_10_糕与药包",
+  "chain": "intro->verse->chorus->interlude",
+  "total_bars": 30.1,
+  "density": 7.17,
+  "pitch_range": 27,
+  "tessitura": [
+   62,
+   82
+  ],
+  "leap_ratio": 0.157,
+  "motif_repeat": 0.287,
+  "lift_mean": 7.4,
+  "lift_max": 3.0,
+  "dens_ratio": 0.67,
+  "rest_ratio": 0.243
+ },
+ {
+  "file": "novel_11_烂尾劫",
+  "chain": "intro->verse->pre-chorus->chorus",
+  "total_bars": 50.2,
+  "density": 4.58,
+  "pitch_range": 19,
+  "tessitura": [
+   62,
+   79
+  ],
+  "leap_ratio": 0.244,
+  "motif_repeat": 0.405,
+  "lift_mean": 7.2,
+  "lift_max": 3.0,
+  "dens_ratio": 0.96,
+  "rest_ratio": 0.186
+ },
+ {
+  "file": "novel_12_新契",
+  "chain": "intro->verse->chorus->interlude",
+  "total_bars": 34.4,
+  "density": 7.24,
+  "pitch_range": 27,
+  "tessitura": [
+   63,
+   78
+  ],
+  "leap_ratio": 0.316,
+  "motif_repeat": 0.518,
+  "lift_mean": 10.9,
+  "lift_max": 7.0,
+  "dens_ratio": 0.62,
+  "rest_ratio": 0.132
+ }
+]

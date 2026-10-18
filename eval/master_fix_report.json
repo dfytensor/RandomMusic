@@ -1,0 +1,106 @@
+[
+ {
+  "file": "01_欠天地一笔.flac",
+  "centroid_before": 3315,
+  "centroid_after": 2448,
+  "dyn_before": 15.6,
+  "dyn_after": 11.9,
+  "rms_after": -17.4
+ },
+ {
+  "file": "01_欠天地一笔_hum.flac",
+  "centroid_before": 2923,
+  "centroid_after": 2243,
+  "dyn_before": 10.1,
+  "dyn_after": 7.4,
+  "rms_after": -18.4
+ },
+ {
+  "file": "02_平账人_hum.flac",
+  "centroid_before": 3225,
+  "centroid_after": 2416,
+  "dyn_before": 15.1,
+  "dyn_after": 14.3,
+  "rms_after": -19.2
+ },
+ {
+  "file": "03_白户_hum.flac",
+  "centroid_before": 3186,
+  "centroid_after": 2133,
+  "dyn_before": 12.8,
+  "dyn_after": 14.4,
+  "rms_after": -17.3
+ },
+ {
+  "file": "04_剁手魔_hum.flac",
+  "centroid_before": 4014,
+  "centroid_after": 2678,
+  "dyn_before": 11.1,
+  "dyn_after": 8.9,
+  "rms_after": -19.0
+ },
+ {
+  "file": "08_月供日.flac",
+  "centroid_before": 3821,
+  "centroid_after": 2923,
+  "dyn_before": 15.9,
+  "dyn_after": 14.9,
+  "rms_after": -18.5
+ },
+ {
+  "file": "09_断供.flac",
+  "centroid_before": 3978,
+  "centroid_after": 2703,
+  "dyn_before": 15.7,
+  "dyn_after": 15.8,
+  "rms_after": -19.2
+ },
+ {
+  "file": "10_糕与药包.flac",
+  "centroid_before": 2367,
+  "centroid_after": 2042,
+  "dyn_before": 13.6,
+  "dyn_after": 13.5,
+  "rms_after": -17.2
+ },
+ {
+  "file": "10_糕与药包_hum.flac",
+  "centroid_before": 2697,
+  "centroid_after": 1873,
+  "dyn_before": 15.8,
+  "dyn_after": 15.5,
+  "rms_after": -18.8
+ },
+ {
+  "file": "11_烂尾劫.flac",
+  "centroid_before": 3577,
+  "centroid_after": 2866,
+  "dyn_before": 7.9,
+  "dyn_after": 7.6,
+  "rms_after": -20.3
+ },
+ {
+  "file": "11_烂尾劫_hum.flac",
+  "centroid_before": 4748,
+  "centroid_after": 3350,
+  "dyn_before": 14.0,
+  "dyn_after": 8.1,
+  "rms_after": -21.0
+ },
+ {
+  "file": "12_新契.flac",
+  "centroid_before": 3869,
+  "centroid_after": 2655,
+  "dyn_before": 13.1,
+  "dyn_after": 14.4,
+  "rms_after": -19.4
+ },
+ {
+  "file": "12_新契_hum.flac",
+  "centroid_before": 2835,
+  "centroid_after": 2198,
+  "dyn_before": 13.8,
+  "dyn_after": 13.0,
+  "rms_after": -20.1
+ }
+]

@@ -1,0 +1,201 @@
+{
+ "corpus": [
+  {
+   "name": "corpus::后弦_-_苏州城外的微笑",
+   "arc_chorus_minus_verse_db": 6.6,
+   "clash_rate": 0.324
+  },
+  {
+   "name": "corpus::Beyond_-_光辉岁月",
+   "arc_chorus_minus_verse_db": 3.0,
+   "clash_rate": 0.097
+  },
+  {
+   "name": "corpus::李翊君_-_雨蝶",
+   "arc_chorus_minus_intro_db": 16.3,
+   "arc_chorus_minus_verse_db": -0.5,
+   "clash_rate": 0.296
+  },
+  {
+   "name": "corpus::张韶涵_-_隐形的翅膀",
+   "arc_chorus_minus_intro_db": 5.7,
+   "arc_chorus_minus_verse_db": 3.9,
+   "clash_rate": 0.229
+  },
+  {
+   "name": "corpus::张芸京_-_偏爱",
+   "arc_chorus_minus_verse_db": -4.6,
+   "clash_rate": 0.091
+  },
+  {
+   "name": "corpus::五月天_-_拥抱",
+   "clash_rate": 0.052
+  },
+  {
+   "name": "corpus::王力宏-我们的歌",
+   "arc_chorus_minus_intro_db": 13.0,
+   "arc_chorus_minus_verse_db": 3.1,
+   "clash_rate": 0.315
+  },
+  {
+   "name": "corpus::Tank-会长大的幸福",
+   "arc_chorus_minus_intro_db": 6.3,
+   "arc_chorus_minus_verse_db": 2.6,
+   "clash_rate": 0.208
+  },
+  {
+   "name": "corpus::阿里郎_-_兰花指",
+   "arc_chorus_minus_intro_db": 13.8,
+   "arc_chorus_minus_verse_db": 1.4,
+   "clash_rate": 0.266
+  },
+  {
+   "name": "corpus::黄立行_刘若英-分开旅行",
+   "arc_chorus_minus_verse_db": 0.2,
+   "clash_rate": 0.15
+  },
+  {
+   "name": "corpus::花儿乐队_-_我的果汁分你一半",
+   "arc_chorus_minus_intro_db": 13.3,
+   "arc_chorus_minus_verse_db": -0.5,
+   "clash_rate": 0.277
+  },
+  {
+   "name": "corpus::伍佰_And_China_Blue-突然的自我-_路边野餐_电影插曲",
+   "arc_chorus_minus_verse_db": 1.5,
+   "clash_rate": 0.146
+  },
+  {
+   "name": "corpus::蔡健雅_-_红色高跟鞋",
+   "arc_chorus_minus_intro_db": 5.2,
+   "arc_chorus_minus_verse_db": 1.2,
+   "clash_rate": 0.207
+  },
+  {
+   "name": "corpus::梁静茹-小手拉大手",
+   "arc_chorus_minus_intro_db": 18.4,
+   "arc_chorus_minus_verse_db": 1.4,
+   "clash_rate": 0.332
+  },
+  {
+   "name": "corpus::S_H_E-中国话",
+   "arc_chorus_minus_intro_db": 4.4,
+   "arc_chorus_minus_verse_db": -0.8,
+   "clash_rate": 0.06
+  },
+  {
+   "name": "corpus::S_H_E-不想长大",
+   "arc_chorus_minus_intro_db": 8.7,
+   "arc_chorus_minus_verse_db": 2.1,
+   "clash_rate": 0.345
+  },
+  {
+   "name": "corpus::信乐团_-_假如",
+   "arc_chorus_minus_verse_db": 1.7,
+   "clash_rate": 0.176
+  },
+  {
+   "name": "corpus::周杰伦-青花瓷",
+   "arc_chorus_minus_intro_db": 9.8,
+   "arc_chorus_minus_verse_db": 2.6,
+   "clash_rate": 0.128
+  },
+  {
+   "name": "corpus::唐磊_-_丁香花",
+   "arc_chorus_minus_intro_db": 21.1,
+   "arc_chorus_minus_verse_db": 4.1,
+   "clash_rate": 0.213
+  },
+  {
+   "name": "corpus::王心凌-睫毛弯弯",
+   "arc_chorus_minus_intro_db": 8.2,
+   "arc_chorus_minus_verse_db": 4.3,
+   "clash_rate": 0.118
+  },
+  {
+   "name": "corpus::S_H_E-天灰",
+   "arc_chorus_minus_intro_db": 14.0,
+   "arc_chorus_minus_verse_db": 2.5,
+   "clash_rate": 0.239
+  },
+  {
+   "name": "corpus::香香-猪之歌-_人怕出名猪怕壮_电影主题曲",
+   "arc_chorus_minus_intro_db": 32.9,
+   "arc_chorus_minus_verse_db": -1.0,
+   "clash_rate": 0.329
+  },
+  {
+   "name": "corpus::山野_-_分开不一定分手",
+   "arc_chorus_minus_intro_db": 13.9,
+   "arc_chorus_minus_verse_db": -1.6,
+   "clash_rate": 0.286
+  },
+  {
+   "name": "corpus::陈琳-爱就爱了",
+   "arc_chorus_minus_verse_db": 0.9,
+   "clash_rate": 0.333
+  },
+  {
+   "name": "corpus::苏打绿_-_小情歌",
+   "clash_rate": 0.324
+  },
+  {
+   "name": "corpus::张惠妹_-_记得",
+   "clash_rate": 0.107
+  },
+  {
+   "name": "corpus::蔡依林_-_日不落",
+   "arc_chorus_minus_intro_db": 40.9,
+   "arc_chorus_minus_verse_db": 1.4,
+   "clash_rate": 0.192
+  },
+  {
+   "name": "corpus::BoBo-恋爱新手",
+   "arc_chorus_minus_intro_db": 12.3,
+   "arc_chorus_minus_verse_db": 0.8,
+   "clash_rate": 0.244
+  },
+  {
+   "name": "corpus::孙燕姿-奔",
+   "arc_chorus_minus_verse_db": 2.0,
+   "clash_rate": 0.193
+  },
+  {
+   "name": "corpus::雷诺儿_-_别在我离开之前离开",
+   "arc_chorus_minus_intro_db": 12.3,
+   "arc_chorus_minus_verse_db": 0.9,
+   "clash_rate": 0.153
+  },
+  {
+   "name": "corpus::花儿乐队_-_化蝶飞",
+   "arc_chorus_minus_verse_db": -0.4,
+   "clash_rate": 0.148
+  }
+ ],
+ "creation": [
+  {
+   "name": "creation::深夜便利店(520)",
+   "arc_chorus_minus_intro_db": 6.2,
+   "arc_chorus_minus_verse_db": 0.5,
+   "clash_rate": 0.23
+  },
+  {
+   "name": "creation::selfopt731",
+   "arc_chorus_minus_intro_db": 13.8,
+   "arc_chorus_minus_verse_db": 0.9,
+   "clash_rate": 0.244
+  },
+  {
+   "name": "creation::cover江南",
+   "arc_chorus_minus_intro_db": 16.7,
+   "arc_chorus_minus_verse_db": 4.1,
+   "clash_rate": 0.292
+  },
+  {
+   "name": "creation::今晚不眠(官方示例曲)",
+   "arc_chorus_minus_intro_db": 5.2,
+   "arc_chorus_minus_verse_db": 3.8,
+   "clash_rate": 0.244
+  }
+ ]
+}
